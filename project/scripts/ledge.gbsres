@@ -1,0 +1,106 @@
+{
+  "_resourceType": "script",
+  "id": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a",
+  "name": "LEDGE",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_12",
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": false
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_MOVE_RELATIVE",
+            "args": {
+              "actorId": "$self$",
+              "x": {
+                "type": "number",
+                "value": 0
+              },
+              "y": {
+                "type": "number",
+                "value": -2
+              },
+              "moveType": "horizontal",
+              "useCollisions": false,
+              "__comment": true
+            },
+            "id": "dd21836d-207e-4ed0-bb71-61a12db725f0"
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "presets",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": -2,
+              "directionType": "direction",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 0,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": [],
+              "__presetId": "fced562b-f05f-4236-84d3-508dbdbbdb6d",
+              "__collapse": false
+            },
+            "id": "b3a3f3ab-3eea-4fbd-8ec0-aca9d90f458d"
+          },
+          {
+            "command": "EVENT_ACTOR_MOVE_RELATIVE",
+            "args": {
+              "actorId": "$self$",
+              "x": {
+                "type": "number",
+                "value": 0
+              },
+              "y": {
+                "type": "number",
+                "value": 2
+              },
+              "moveType": "horizontal",
+              "useCollisions": false,
+              "__comment": true
+            },
+            "id": "832a1335-2ab8-42de-9da1-2a3ad8934cb5"
+          },
+          {
+            "command": "EVENT_SOUND_PLAY_EFFECT",
+            "args": {
+              "type": "tone",
+              "priority": "medium",
+              "pitch": 4,
+              "frequency": 246,
+              "duration": 0.28,
+              "wait": false,
+              "effect": 0
+            },
+            "id": "02249011-2c4a-4d9c-813b-18977425f395"
+          }
+        ],
+        "false": []
+      },
+      "id": "da01c8a9-fc04-47e6-a230-70412950e014"
+    }
+  ]
+}

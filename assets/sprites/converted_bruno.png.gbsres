@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4c88c404-2866-454f-b8e6-6dd7032cf8d4",
+  "name": "converted_bruno",
+  "symbol": "sprite_converted_bruno",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "84abf7b8-6b30-4622-b62a-8ad2c28e8c83",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6b18a1d3-2257-490f-805a-1cc2f97e9a80",
+          "frames": [
+            {
+              "id": "e3698ddd-2e72-4fc4-8ddc-e5c0ad20d060",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c886216-2b37-46e8-8cee-bf64692324e8",
+          "frames": [
+            {
+              "id": "ce96f775-0409-4314-9ec7-e35ffc1de617",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "05a2abdd-a49e-4ebf-ae66-11d101e75637",
+          "frames": [
+            {
+              "id": "d1da5584-5000-4978-9b35-7cb4c0b2daec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "53649cdc-fa16-474a-8cc1-4401c3eb41da",
+          "frames": [
+            {
+              "id": "adad4c3a-02c9-474f-878b-cc152fafe703",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "56ed28c4-83f3-49d0-8140-02432542f6a4",
+          "frames": [
+            {
+              "id": "f96c754f-602b-413f-96b2-4ff153324e08",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dabec199-3a84-439f-8190-aadc20c4e398",
+          "frames": [
+            {
+              "id": "490fe75d-8b1e-4c46-9cf6-76645de6470e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e0802439-4853-4a29-9afb-0a30222f852c",
+          "frames": [
+            {
+              "id": "842e0d78-a692-44a1-92e7-056e0da21be7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3d3e2c43-b9ea-4e2c-88d2-7c048d6a2799",
+          "frames": [
+            {
+              "id": "79d5e968-9e12-4c3c-8cef-4849c14c869a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_bruno.png",
+  "checksum": "b9f13144ec0d38973ec1b7f6cb4d0995cb6976d3"
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "c56bf38c-ad8d-4e0b-880f-14e2849135db",
+  "name": "tileswap2",
+  "symbol": "bg_tileswap2",
+  "width": 16,
+  "height": 6,
+  "imageWidth": 128,
+  "imageHeight": 48,
+  "tileColors": "",
+  "filename": "tileswap2.png"
+}

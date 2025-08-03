@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "9fd53c6b-1360-4d98-9925-9cbd43e6e2a7",
+  "name": "converted_red_version",
+  "symbol": "tileset_converted_red_versi",
+  "width": 10,
+  "height": 1,
+  "imageWidth": 80,
+  "imageHeight": 8,
+  "filename": "converted_red_version.png"
+}

@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "ff2c097f-038f-467f-97f9-a3e051f8a16f",
+  "name": "converted_town_map_cursor",
+  "symbol": "sprite_converted_town_map_c",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "a2e50e19-b287-48be-8847-c722559f2d60",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "bb34b71c-5fb3-4335-876e-53500e492117",
+          "frames": [
+            {
+              "id": "b903e717-754b-4834-8ffa-5793c34473a3",
+              "tiles": [
+                {
+                  "id": "6a02e2ab-2395-44bd-b020-2192bc9dbae5",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "f30e24a9-a57c-46e3-9de9-901836441b5d",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b5978004-c6b9-441d-942c-10e21d783314",
+          "frames": [
+            {
+              "id": "928b72da-d60f-465e-95ca-2536d70a1cfd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09dbe6e4-e1d3-45a4-82d2-3965a7531edc",
+          "frames": [
+            {
+              "id": "a944f848-9f19-4422-b86e-10d606ceb80c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b3691577-2bae-47da-bf37-59071c71faf5",
+          "frames": [
+            {
+              "id": "c6347ca2-bd86-4cc7-8435-46b0192abba8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c220db40-ddd3-4de3-aec8-09b92fc0b96f",
+          "frames": [
+            {
+              "id": "5fcc2966-bb8f-43fd-882a-261dcba3c246",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a080f4f0-1c58-44ff-85da-ec13e202705b",
+          "frames": [
+            {
+              "id": "3ff97467-3b25-471b-90d3-56d703ec7165",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df028cf9-c80c-400b-913a-f7132db7a864",
+          "frames": [
+            {
+              "id": "81189e07-fc3f-4601-96aa-daa12a365037",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "314a1748-15e6-4c4d-93aa-a9a338984390",
+          "frames": [
+            {
+              "id": "de7ef03b-a192-4c4c-ac71-7ea080ac147e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_town_map_cursor.png",
+  "checksum": "17093fd93d0e66d011f911f1ae1b0ab848edf0ba"
+}

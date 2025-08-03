@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "365e00c3-7da7-441e-902d-10fb7e974a24",
+  "name": "girl",
+  "symbol": "sprite_girl",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "1368091d-67c6-4292-9e11-96fa780f0207",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6d4a6b6b-694c-455a-8093-e0df784d24bf",
+          "frames": [
+            {
+              "id": "907de31b-7b6e-4f4e-aefd-dd5037e92f28",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be4e59e0-32ce-4a47-b1ca-6321f6b3711b",
+          "frames": [
+            {
+              "id": "09b6ad3a-aef1-4a09-93d2-8458ff73549f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c120cdf-04fd-4ad0-ba56-8ea5ab7b4bf5",
+          "frames": [
+            {
+              "id": "2b8bee74-9d47-4eeb-a6eb-103dd0a054a2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2120d24d-e7f8-4bc5-8cbd-301a362fed0e",
+          "frames": [
+            {
+              "id": "9970a945-bb36-473b-97ad-e909a1796f49",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5da5f7f6-45da-439e-8adb-2efc55b7236a",
+          "frames": [
+            {
+              "id": "93c82dcf-fe0a-4989-8f3a-38721556f338",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "93be435a-6fcc-41a1-aeec-93002fba5360",
+          "frames": [
+            {
+              "id": "8e38d069-dbab-4336-9e7b-25b0a670183a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c6c4cfc7-cfec-4497-abc3-10b851e6b8b2",
+          "frames": [
+            {
+              "id": "ee9b6d84-d8d9-4a63-8a71-905d0f9325d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5645c583-04a4-4e78-bfed-242e25aae971",
+          "frames": [
+            {
+              "id": "e298e119-37af-4566-a314-cb90557770ff",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "girl.png",
+  "checksum": "a1daeb6ce5147b0e998d3553c6708fe9cf932542"
+}

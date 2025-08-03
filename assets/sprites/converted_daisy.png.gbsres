@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "588c8821-3df1-49de-a193-69e78a7ac42f",
+  "name": "converted_daisy",
+  "symbol": "sprite_converted_daisy",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "feaadc8f-dec8-46e1-89de-f6301fd0840d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a8a96bf6-5227-4241-9cdf-a1d4b32ff6a7",
+          "frames": [
+            {
+              "id": "7648f597-f767-466a-b5bf-e6ad9b2eb644",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3213c4d1-be6f-480b-a03d-acc5c934b705",
+          "frames": [
+            {
+              "id": "53cc7acf-1b13-4b40-bbc6-fb169b53692e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "825d34e2-ad76-406c-a164-8e97ea1e1546",
+          "frames": [
+            {
+              "id": "f9ecda63-faaa-4de5-9ee5-57c949d72ec2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1d411bc6-6d35-4f86-beb9-7af2e47ff97e",
+          "frames": [
+            {
+              "id": "43f236ba-ee0e-4540-85d5-8a98891311c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2342acdb-ff55-4e27-8ac1-a84cef98a613",
+          "frames": [
+            {
+              "id": "c2f6d1cd-9e49-48af-86b1-7b316b004993",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9555e233-95d4-479a-9564-519b254a27b5",
+          "frames": [
+            {
+              "id": "1f4105ea-2347-407e-9b10-3863fb0f256e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "61e51517-1ec9-4a2c-a11d-a0e2d98d7ff9",
+          "frames": [
+            {
+              "id": "e9dc6062-8989-4b73-8f3d-9baa82d9e84e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2685ec43-251e-437a-aecf-2a3685eeb0b4",
+          "frames": [
+            {
+              "id": "c103c770-68f2-4680-a77b-d4f17e46abaf",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_daisy.png",
+  "checksum": "fe8ba697d4c3e73f087bb1f6d16d1cc0ca082a5e"
+}

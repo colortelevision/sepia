@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8b385f7d-57f7-4ba6-8735-327809124b00",
+  "name": "converted_monster",
+  "symbol": "sprite_converted_monster",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "b0e27ade-6103-406b-b0f6-71c31d8f6b36",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6ca169a4-50a1-4b80-a3e9-cbda4d038bdf",
+          "frames": [
+            {
+              "id": "78acdcb5-eb5b-4c4a-9666-71a3ccdeed3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38dd40a9-a956-41bd-9074-fc28c47d13ca",
+          "frames": [
+            {
+              "id": "0c3c9ad4-5629-41e9-93ca-da4d66860300",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "41985ccd-22f9-45b8-9b6f-7be4523c4d55",
+          "frames": [
+            {
+              "id": "7cc4ae07-fea7-41c2-9f3a-13f16d084946",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3f3cb04c-be37-448d-8b57-ab1bbe95b85b",
+          "frames": [
+            {
+              "id": "46fae8fa-4518-4ddb-a28a-3353afee752d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "078d4af3-4c09-43ae-a53e-03afa9313c84",
+          "frames": [
+            {
+              "id": "71399479-1afe-465b-944b-d2ff6b5dd0ac",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "68b4c3ef-eff1-4c3e-9119-57087e7ccc69",
+          "frames": [
+            {
+              "id": "59902f68-a708-442f-a84a-6183b8e4aede",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ab06f432-82da-40f1-8b5a-1231164f35eb",
+          "frames": [
+            {
+              "id": "732b9d97-3fa0-4310-86e8-264afbbd8217",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35217d33-a926-4a55-9d45-b361de961210",
+          "frames": [
+            {
+              "id": "36aa845e-0d72-4a90-9a35-7f58f50a2963",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_monster.png",
+  "checksum": "edeb3a83b83568f81fab0db47bbe7f14910f56e3"
+}

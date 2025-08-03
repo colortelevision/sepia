@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ebccdbc7-cd37-49ed-9b1d-664ac7948449",
+  "name": "mr_fuji",
+  "symbol": "sprite_mr_fuji",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "65b200d6-beaf-4a6f-b04f-3c09e5a92ccd",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "6395cbe1-1878-4fca-9a0f-0b7ceaf66752",
+          "frames": [
+            {
+              "id": "ebd6ed33-38ea-4a75-8c7b-8e85b3c9c88b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96294525-c55e-4cf4-862c-5cdf6fe056b8",
+          "frames": [
+            {
+              "id": "9a24edcc-e73e-4c0a-90b8-38372f6fd88b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f99f069-aca6-45ea-ae40-98ebdf2ff750",
+          "frames": [
+            {
+              "id": "b96e8a9c-cc35-405a-bf7e-b6dc123a7758",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "15567368-615c-4144-903e-922300e86bf9",
+          "frames": [
+            {
+              "id": "7badaa39-3a2b-44ce-b58e-e793836244d5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2fa0f32e-0bf8-4002-8601-53e618c96cf4",
+          "frames": [
+            {
+              "id": "15547ea1-7cb5-4d8c-ae9f-cb7e432687d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c399f52f-37f7-41c2-b48f-9e534a0579da",
+          "frames": [
+            {
+              "id": "d4893f61-d88c-41a7-b2f2-dc7d9e724503",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5d6a2fec-3899-478d-8f08-5d5fae04cf3b",
+          "frames": [
+            {
+              "id": "d86032b1-092d-4fd3-ab83-c61f5b1160ac",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "92009690-675b-48d5-81c1-6bcdbd48c289",
+          "frames": [
+            {
+              "id": "719b53eb-3b63-4a94-b143-e546bfc27c7b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mr_fuji.png",
+  "checksum": "1c064b7c0e7939e30146b9ba11f6728497c4229c"
+}

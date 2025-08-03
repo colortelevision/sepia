@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "521e61f4-1b70-4639-a816-3a6f56561e0f",
+  "name": "converted_falling_star",
+  "symbol": "tileset_converted_falling_s",
+  "width": 1,
+  "height": 1,
+  "imageWidth": 8,
+  "imageHeight": 8,
+  "filename": "converted_falling_star.png"
+}

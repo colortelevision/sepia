@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "61bbecd0-b152-4c1d-841f-ebf959dba376",
+  "name": "converted_blue_jigglypuff_3",
+  "symbol": "sprite_converted_blue_jiggl_1",
+  "width": 48,
+  "height": 48,
+  "states": [
+    {
+      "id": "706c5b7e-5a71-403c-aab6-77ceb6386a5f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "edcbbc6e-98d2-4125-b475-dad963255f0a",
+          "frames": [
+            {
+              "id": "43a57eb2-0a89-468b-ae30-f28ff92d76a1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "59a083e4-c5da-4fe2-a627-c74c37b69718",
+          "frames": [
+            {
+              "id": "0958397d-aae2-475d-8f42-f094fad0e823",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9b57c397-04f2-45d9-a9fe-1eff36f90e4b",
+          "frames": [
+            {
+              "id": "9bfedb88-a518-448a-92fa-3982cb1df7e0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6e255706-4594-4447-88a0-20c7b6d03c11",
+          "frames": [
+            {
+              "id": "17b988c8-d6d1-46a3-8432-ff25ad32b3a8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2d230ca5-ad0a-4c37-b207-e6e517e088e3",
+          "frames": [
+            {
+              "id": "6f13f71d-0688-4ed4-a5f6-f1c1083fd752",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0d1bcaf3-60e6-463a-9677-c341017aa556",
+          "frames": [
+            {
+              "id": "a68e8695-600d-40f4-b933-8d4883d2480f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38e460db-d590-41b4-a110-eb5d71bb6410",
+          "frames": [
+            {
+              "id": "1295604f-70d2-4359-8954-a08e760a498d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "48ca1444-e022-446e-b766-8d57b67457f0",
+          "frames": [
+            {
+              "id": "6efd2ee7-4173-4392-b608-41baeea7fb4d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_blue_jigglypuff_3.png",
+  "checksum": "8722a1ac0712619826fde25670af7b99a3d7c6ec"
+}

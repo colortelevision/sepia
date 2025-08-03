@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ed18ecb4-4e2f-4189-90db-aa7847932c58",
+  "name": "converted_quadruped",
+  "symbol": "sprite_converted_quadruped",
+  "width": 8,
+  "height": 32,
+  "states": [
+    {
+      "id": "55dcb005-d40c-438d-a6e7-54b2304cce34",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a9f9abd8-e675-4eaa-a2d0-7de6e9dc1279",
+          "frames": [
+            {
+              "id": "dab2def9-eab8-4378-a937-0c4afdd57161",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4edbf00e-19b0-4561-b4d6-38c270347170",
+          "frames": [
+            {
+              "id": "633aba06-e352-4583-8cee-7bf15a99ac1d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2c933126-35e4-4429-834c-0c369c135a6a",
+          "frames": [
+            {
+              "id": "61a9138d-35d9-4623-87ab-38acbcc4355c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "49fca179-115f-4948-aa51-9e6ad1db9849",
+          "frames": [
+            {
+              "id": "e0c46cc6-f494-4d18-b9aa-c90c46f1c9d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7412da50-7ffa-4956-9b8c-b5f3b222c51c",
+          "frames": [
+            {
+              "id": "896807e8-6698-4e16-909f-ef5bf0f272ab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78053606-9c3f-48c5-bd8e-e6e210211f44",
+          "frames": [
+            {
+              "id": "c1772f2f-10e0-42f4-9883-c771778c97cd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b4819fdf-fde2-4403-93ef-7980bc0dd69f",
+          "frames": [
+            {
+              "id": "c4543b01-2173-4edc-b9ea-20c7d517690d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "162dddba-6b0f-48f0-a0fa-34d371048be3",
+          "frames": [
+            {
+              "id": "35fa5815-d104-4caf-8771-bff9cb118905",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_quadruped.png",
+  "checksum": "6c5d3753e18f3dd991a7d02ccaee6f11751497d5"
+}

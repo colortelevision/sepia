@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "e49ac19d-1001-44af-9182-c43d62759646",
+  "name": "converted_red_fish_back",
+  "symbol": "sprite_converted_red_fish_b",
+  "width": 8,
+  "height": 16,
+  "states": [
+    {
+      "id": "57c43a41-17c4-48c3-9caa-a13f3cd681f8",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "3b0fa535-0e30-45fd-9269-af7a0f9b8048",
+          "frames": [
+            {
+              "id": "148e0d31-8a00-4d78-9ca9-04bc3fff76f6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8a3303f4-ba58-4ced-873a-79c4fbfe1ef5",
+          "frames": [
+            {
+              "id": "6ee1aa53-43f8-41a1-8ed9-51efcd4e75b0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dabac1b6-80cd-44d5-8f56-9e5023d9ec43",
+          "frames": [
+            {
+              "id": "73d5394e-ff12-4abc-8b54-4b93a3bd8e90",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07276cef-bffb-4090-9ae0-65834373fe8a",
+          "frames": [
+            {
+              "id": "cdf0bc41-121e-4c0e-bd42-a65f4c782fe3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d233de0a-c076-49ad-9558-d3c83f370047",
+          "frames": [
+            {
+              "id": "fda54080-2a73-46b4-865d-c52f399b5f8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e9d308e-349e-4e92-83e7-c3b1eb2614db",
+          "frames": [
+            {
+              "id": "fea7f57e-c79c-4e7c-948e-e96a5487c5cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "027da059-35c5-40e5-b685-41269a6c83b5",
+          "frames": [
+            {
+              "id": "5f8b6b4b-d9f7-48fc-9a4c-9509acd1f804",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d715ec54-65e1-4d30-bc40-865f5be82b38",
+          "frames": [
+            {
+              "id": "88eaaebe-3f7b-4467-8097-746d5ab29824",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_red_fish_back.png",
+  "checksum": "7b3d4454c7664d7cde09baa9effdb2556b94ca7c"
+}

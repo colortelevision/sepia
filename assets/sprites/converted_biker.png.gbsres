@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "88814da3-5b5d-4bb6-89fc-458ac2d067dd",
+  "name": "converted_biker",
+  "symbol": "sprite_converted_biker",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "734647fb-405d-4fb4-b002-b5e89f9c9227",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "bbbed815-aba1-4573-afbd-b6025aaceb9d",
+          "frames": [
+            {
+              "id": "aa18e614-e70e-4d68-bb2c-cb4b6f447bfb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b8ef16eb-e372-4560-8898-fd69fb4b03a9",
+          "frames": [
+            {
+              "id": "0ae7a923-ef03-4d0f-b586-d9cbd2a5ef3a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b13daf4e-2ae5-47f0-98c3-994229be6832",
+          "frames": [
+            {
+              "id": "5b70611b-dcf8-4451-97ed-228df52f6fc9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f36f2203-5a34-4760-965b-448dfad516b6",
+          "frames": [
+            {
+              "id": "cdc99295-503e-45ce-8edd-0bd4e189bdb4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d395fd58-530f-4533-bd75-fe4be710dec8",
+          "frames": [
+            {
+              "id": "af45c05e-f52d-4589-afe6-7abe4f720eab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf545cb8-c163-42e7-a11f-d31f8df9b3ca",
+          "frames": [
+            {
+              "id": "37820717-d898-470f-9977-e9553ea678b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb7c0068-7aa4-4eab-be12-38d4d24d99ea",
+          "frames": [
+            {
+              "id": "1f9303af-11e3-46e2-afa3-2ab9a78ede1c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0fb1f0dc-4f48-4102-84cc-98cb9dc23a26",
+          "frames": [
+            {
+              "id": "c47c0622-75ca-4fe0-b1a2-dc1776d43b8c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_biker.png",
+  "checksum": "3540cc356ebd72bd78e7f4a23db020774572b733"
+}

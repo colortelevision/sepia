@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d1e49311-db35-4533-a365-0c9954cf30c3",
+  "name": "converted_sailor",
+  "symbol": "sprite_converted_sailor",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "cdb06bd2-2040-4a9e-a100-c9285ac0e96d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "33367684-fee6-4094-a57e-74034bb587e7",
+          "frames": [
+            {
+              "id": "668858eb-9d06-4b65-a4eb-94e355d08da6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e66abe24-668f-40aa-a6ac-8a331528e8db",
+          "frames": [
+            {
+              "id": "d432bcc3-93bd-4721-b897-10f207ad74cb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "05c91980-c0b9-4d30-9982-a1e28bda2437",
+          "frames": [
+            {
+              "id": "8907171a-7fe5-442e-96cd-2acc3e763b30",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "07a864c4-c2f3-427c-a494-4d2cada18002",
+          "frames": [
+            {
+              "id": "b8729262-6669-41a0-b2c8-00f82d937beb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a8b289b4-01eb-44c3-9bbe-7a05c0c28a08",
+          "frames": [
+            {
+              "id": "54513f1b-fb37-46ba-a06a-2285b8ae188f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ca0ee445-fd07-463f-9c9d-b18076411773",
+          "frames": [
+            {
+              "id": "3d1cab74-0b55-4163-9760-c5943b8de321",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3e9caf84-1ac4-41ba-a754-dd98a145c949",
+          "frames": [
+            {
+              "id": "0d663dbc-f7d3-40b0-90f9-d1814766d620",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f4146849-4845-496c-915b-d846cb91098f",
+          "frames": [
+            {
+              "id": "f801d403-78ac-48e2-bf2d-39633add67d8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_sailor.png",
+  "checksum": "9974ccf7289309ae590d9d063353251817db0701"
+}

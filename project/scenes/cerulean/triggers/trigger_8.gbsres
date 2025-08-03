@@ -1,0 +1,75 @@
+{
+  "_resourceType": "trigger",
+  "id": "9068a0e7-305d-4858-b1a2-563b317b6d67",
+  "name": "",
+  "prefabId": "",
+  "x": 70,
+  "y": 82,
+  "symbol": "trigger_84",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": true,
+        "__comment": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_PLAYER_BOUNCE",
+            "args": {
+              "height": "high"
+            },
+            "id": "557f2790-3aa4-4cbb-a2ca-1c05ec43f415"
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 2,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 2,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": []
+            },
+            "id": "866b0a2d-4fc1-4da7-994b-08e545f007cc"
+          }
+        ],
+        "false": []
+      },
+      "id": "4024ac21-5b71-4b41-9de8-0f11330785d9"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a"
+      },
+      "id": "0596666e-e33e-4d1b-9ec4-0b9752b2ed7f"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 7
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "756dbb68-d20a-4ee0-a0c3-7fd36027750a",
+  "name": "clerk",
+  "symbol": "sprite_clerk",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "8db76801-1718-40af-b233-0fbd32867669",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7164d469-28a3-4bd5-b9a1-9659f1120325",
+          "frames": [
+            {
+              "id": "802785a6-5f9a-4b21-9b70-c0b80c255665",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7d970648-2a57-4979-a38f-17f155950214",
+          "frames": [
+            {
+              "id": "a664366f-a6f6-4d5e-8044-f02926c38a39",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fe22cce7-b909-45e8-af32-cf51b836ecb3",
+          "frames": [
+            {
+              "id": "1ef8d849-5909-4cd6-b0e4-62cbd8521041",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3fd47a21-2295-4d25-8682-3529a39d7dc2",
+          "frames": [
+            {
+              "id": "85960804-4c2f-4159-97fc-b526a9d181e1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4fdbdc65-b498-477d-9ca0-fc2ca64f6392",
+          "frames": [
+            {
+              "id": "631d36a7-4b0e-42ee-b68c-39b763a4a056",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6d18ef99-f195-483e-b0bd-6202d043f0f4",
+          "frames": [
+            {
+              "id": "72e08048-2221-4a0e-8f4a-c08b37aec888",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "68feccd1-f102-47ec-b0c8-3daf7625ac62",
+          "frames": [
+            {
+              "id": "1145c2a8-b0a0-46da-bea7-76f949fa837f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9512e584-b4a0-437b-a94b-d4f04f81d91a",
+          "frames": [
+            {
+              "id": "78dc418c-9af0-4f2f-baec-5f55fa32af30",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "clerk.png",
+  "checksum": "1f6ca54c4c3813bdd54816443ae76802a0b7aadc"
+}

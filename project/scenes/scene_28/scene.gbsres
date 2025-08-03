@@ -1,0 +1,26 @@
+{
+  "_resourceType": "scene",
+  "id": "1f2943c5-b07b-4e9a-857e-ebe499e0d7db",
+  "_index": 11,
+  "type": "TOPDOWN",
+  "name": "Scene 28",
+  "symbol": "scene_28",
+  "x": 874.2563109769421,
+  "y": 368,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "4e800e8d-7a7b-4b8e-a7eb-cad35638d300",
+  "tilesetId": "",
+  "paletteIds": [
+    "062ddcaf-33d9-457b-a61c-eaad7c657fb2"
+  ],
+  "spritePaletteIds": [
+    "062ddcaf-33d9-457b-a61c-eaad7c657fb2"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0014+0f2d+002+0f3+002+0f2+004+0f!00!0f5+002+0f3+002+0f2+004+0f!00!0f2+00!0f3+00!0f3+002+0f2+004+0f!00!0f2+00!0f3+00!0f3+002+0fa+00a+0fa+0010+0f4+00!0f3+00c+0f4+00!0f3+00c+0f4+00!0f3+00c+0f4+00!0f3+00c+0f4+00c+0f2+002+0f4+00c+0f2+002+0f4+00e+0f6+00e+0f18+"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4cf9effb-c909-413f-81ea-c399b4bfd258",
+  "name": "converted_waiter",
+  "symbol": "sprite_converted_waiter",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "852ed014-9cd0-477b-8734-3f9321d7ed99",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "dc3219ff-6fd0-4c5b-9f12-d58ac37d9841",
+          "frames": [
+            {
+              "id": "8a935bee-2355-40a9-87e5-b3274dad5ff5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "57404d0b-87ef-4ef4-bb06-7d3ee189c23f",
+          "frames": [
+            {
+              "id": "02f76180-88e4-4986-9545-fa1d2bcc24dc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af972742-0cc5-49d0-986a-3ae9fec21e08",
+          "frames": [
+            {
+              "id": "ec379cb0-f92a-4887-8fb5-43764a19c617",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77a85271-6a17-4c07-be86-0b058f3eae1c",
+          "frames": [
+            {
+              "id": "5b7c4c5a-2e7f-45da-ad25-6f81925a837d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9cf001ea-aa9f-4e98-b1b7-51dc87593f97",
+          "frames": [
+            {
+              "id": "155e6d5e-7757-4bb6-9c76-2e340d0602d1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "88e6aee4-c639-4a8a-9579-92d38f27c1d6",
+          "frames": [
+            {
+              "id": "08a54dfd-f240-4494-abb4-93bb55c2748c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6ed7f5e5-3757-430d-85db-ae2b2474c599",
+          "frames": [
+            {
+              "id": "dd27c2bb-0c93-48fe-8b56-601eb98b59a4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f7bf606e-8ad8-46ff-9d7f-37ce3c2d850f",
+          "frames": [
+            {
+              "id": "22c61cc8-014c-42b3-8dde-ea109166d6be",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_waiter.png",
+  "checksum": "8b201ee1888fa1b25dc1b9c920d902690790cd20"
+}

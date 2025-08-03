@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f81e8b94-6f6e-4bcf-bd0f-cdf64508f4a1",
+  "name": "converted_gameboy_kid",
+  "symbol": "sprite_converted_gameboy_ki",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "da472c56-e802-408a-a3f9-9fae1b4fa962",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a80efa6f-84ad-4683-9d10-c9a27ab00b52",
+          "frames": [
+            {
+              "id": "4043fc70-78d8-46c8-b012-d33e3f1a8aee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e10421e2-4265-4465-9ff4-f4905031ee48",
+          "frames": [
+            {
+              "id": "b5745026-9828-4b71-8953-dbfba34c6053",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "759ce6c4-933e-4842-88ad-2361265b6bc2",
+          "frames": [
+            {
+              "id": "2865a443-7ea1-4c2b-ba43-aee01f322aa9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b9f25dbb-4ff0-464d-9b3e-ffb1195b42b9",
+          "frames": [
+            {
+              "id": "69211a90-bfb2-4a63-a156-f2a763dada31",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec71f41a-3ea1-4bc5-92eb-432fd2e213af",
+          "frames": [
+            {
+              "id": "fbd9746b-0aff-473e-82af-b1c22e6c6c99",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "560d1ef6-c778-45ce-8630-cb93eb512b30",
+          "frames": [
+            {
+              "id": "38b1bb24-47b3-4c5d-9b5c-0dbb2403ba64",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "687160bc-1d32-4627-a9e2-8cdf0484a24a",
+          "frames": [
+            {
+              "id": "8f271b37-def9-488d-807e-914d042d0210",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c8d90225-5546-4985-b6ff-56c3a30f1d2b",
+          "frames": [
+            {
+              "id": "86cd1ea5-e61b-4717-89a6-ee099075d2d4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_gameboy_kid.png",
+  "checksum": "32cfa14b718b323f7a0b41575e868f617366c0db"
+}

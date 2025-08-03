@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "621fe091-0d11-49a4-8768-dc7a399076bd",
+  "name": "mom",
+  "symbol": "sprite_mom",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "7eedd857-c3e4-410e-8ee5-653a12affa94",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "737d65e4-5a33-4bf9-afaa-5c211f4bf30b",
+          "frames": [
+            {
+              "id": "6dab01fd-4a2c-4a5f-b6de-cb964fe89010",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "beb8fdf0-0e71-4143-868b-e60319d68ff5",
+          "frames": [
+            {
+              "id": "e4fde5c4-4e06-4901-9b5a-743b4eb613fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9cbb8e5b-465f-40d4-9f7a-e5d98e3bea54",
+          "frames": [
+            {
+              "id": "fbfda1be-956f-4ca3-aacf-9175c4b102ec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "109dd736-1d0a-4e25-b20f-ac976f17250a",
+          "frames": [
+            {
+              "id": "2b4dceeb-6bb7-48e9-abb3-8b23e8af1b49",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "569be401-e9b1-4085-a96d-47f8c08f1a22",
+          "frames": [
+            {
+              "id": "34a14f7d-7ab6-4d80-8230-5e090505277d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3ebab96e-769e-4e1d-9876-38f533489993",
+          "frames": [
+            {
+              "id": "45a8684b-ffaa-4307-a838-470aa49f9ca8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d10cd678-ab22-4009-b57a-52a98933da35",
+          "frames": [
+            {
+              "id": "b4b88bd9-c4f1-4f31-a9f3-f219c963a61c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa85f8a1-8705-44c2-945e-933b817fdcec",
+          "frames": [
+            {
+              "id": "6fc97ed5-a62e-4f1b-bc4c-bb5835f78433",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "mom.png",
+  "checksum": "3e208233c4b9985c3d9836b7d42bdd317db6e1cb"
+}

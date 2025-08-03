@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "20b0b24c-225e-4a77-b91d-7f5e7fcd465a",
+  "name": "converted_mom",
+  "symbol": "sprite_converted_mom",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "87aeaea5-5d7d-4dde-8da6-9f810606bdf9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "225197f8-47e2-4565-9574-61cfbc7fc351",
+          "frames": [
+            {
+              "id": "21208998-ee08-4647-9b56-d764a9dc8390",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1236b578-a0ae-4482-aa86-001f050c0a4e",
+          "frames": [
+            {
+              "id": "35025c3d-1454-4521-adf0-1e43e57632a6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6a070f1e-7816-4c8e-b381-c3bcc2423f63",
+          "frames": [
+            {
+              "id": "0d477ba3-6e81-4f68-a3cf-5ab5ab56d9f4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "95a3edfa-1b3b-4776-b952-d6cf9c0e09cf",
+          "frames": [
+            {
+              "id": "3ba4f819-cd8b-4e53-a04e-87999a6e79b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0fc910a4-c3be-419f-b62c-c45b350a4885",
+          "frames": [
+            {
+              "id": "c08d94cd-d342-4878-b674-626da159edd4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6a24c86a-048c-4dd7-8e7d-3587f0949388",
+          "frames": [
+            {
+              "id": "180cad2c-a0e2-4a4d-8b8e-c26602767084",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "860d043e-3cc7-4106-998c-7ec0948bb78e",
+          "frames": [
+            {
+              "id": "6baf2191-2e51-4e62-a044-cf988dc6fbcd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6874c42a-0ae4-48ae-9adc-a61a9eac47de",
+          "frames": [
+            {
+              "id": "c9bee8ea-5eb9-4303-8dc4-da0b11837169",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_mom.png",
+  "checksum": "fd10417d38e2c8f5841ead955796fd737f262384"
+}

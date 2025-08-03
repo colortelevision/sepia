@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "020f94a3-f719-485c-821d-e988f0629c99",
+  "name": "converted_lorelei",
+  "symbol": "sprite_converted_lorelei",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "3dc2be88-0140-4300-ae79-8bd2921ef4a7",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0f8d36d7-9810-4dce-9bec-23a835701daf",
+          "frames": [
+            {
+              "id": "cd605571-e8c0-4167-9963-885edb2ea6ec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "24142b92-82c1-48da-b6a2-1c8c7db55a39",
+          "frames": [
+            {
+              "id": "1e7461e0-0322-478a-86ff-1141a1a45796",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a2c6ce6d-9f77-4258-8e3d-84fa7a524995",
+          "frames": [
+            {
+              "id": "01990334-9592-45f5-aa9f-0a1e625b566d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f008a6c7-ac7f-478b-820d-cd936cfc5257",
+          "frames": [
+            {
+              "id": "e6771330-6b60-4220-928e-4d31884bfe36",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "85a074fb-ad3e-433c-8526-770a58bdabee",
+          "frames": [
+            {
+              "id": "6ac314af-f793-4bcf-8214-364376bdb86e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a8c68c8a-291b-4957-9f58-434821f89823",
+          "frames": [
+            {
+              "id": "1d554c55-bb33-424c-9d51-1a50c6faf12a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed6865d5-76f0-46ee-85b1-733476b9f629",
+          "frames": [
+            {
+              "id": "5ccd9e1a-25aa-4f18-ba98-f142541f8bb8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "787db14d-64a0-4d58-8606-d412f3163c66",
+          "frames": [
+            {
+              "id": "f39cf1d3-d671-4b75-a949-98b8d7d7ba96",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_lorelei.png",
+  "checksum": "2d95b8425e9d5c5c5118bb2d3d78a478d26a11a3"
+}

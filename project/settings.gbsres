@@ -1,0 +1,124 @@
+{
+  "_resourceType": "settings",
+  "startSceneId": "0a86e7c5-a006-48d4-9aef-6af866c49f21",
+  "startX": 20,
+  "startY": 102,
+  "startMoveSpeed": 1,
+  "startAnimSpeed": 15,
+  "startDirection": "right",
+  "showCollisionExtraTiles": false,
+  "collisionLayerOpacity": 50,
+  "sgbEnabled": false,
+  "customHead": "",
+  "defaultBackgroundPaletteIds": [
+    "default-bg-1",
+    "default-bg-2",
+    "default-bg-3",
+    "default-bg-4",
+    "default-bg-5",
+    "default-bg-6",
+    "dmg",
+    "default-ui"
+  ],
+  "defaultSpritePaletteIds": [
+    "1ac721ab-7254-4324-821c-72f1ad1d416f",
+    "062ddcaf-33d9-457b-a61c-eaad7c657fb2",
+    "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c",
+    "efbcb3c7-e1a2-42b5-93b6-653cf15a751b",
+    "4d49d649-2b46-4dbc-80b0-f3752ca45db7",
+    "2801a5c2-3b0b-41b9-90c9-ec2af73d825d",
+    "default-sprite",
+    "default-sprite"
+  ],
+  "defaultSpritePaletteId": "default-sprite",
+  "defaultUIPaletteId": "default-ui",
+  "playerPaletteId": "",
+  "defaultFontId": "0c7c1705-dab6-476e-a5ce-17de23b3d591",
+  "defaultCharacterEncoding": "",
+  "defaultPlayerSprites": {
+    "TOPDOWN": "6930ffcb-518e-42d7-bcad-2aacf969092f",
+    "PLATFORM": "c0310735-3e7c-4ff1-bcff-b07d818d433b",
+    "ADVENTURE": "6930ffcb-518e-42d7-bcad-2aacf969092f",
+    "SHMUP": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
+    "POINTNCLICK": "ce7adb33-18c5-44ad-b9ec-ed048c9f135e",
+    "LOGO": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
+  },
+  "musicDriver": "huge",
+  "cartType": "mbc5",
+  "batterylessEnabled": false,
+  "customColorsWhite": "E8F8E0",
+  "customColorsLight": "B0F088",
+  "customColorsDark": "509878",
+  "customColorsBlack": "202850",
+  "customControlsUp": [
+    "ArrowUp",
+    "w"
+  ],
+  "customControlsDown": [
+    "ArrowDown",
+    "s"
+  ],
+  "customControlsLeft": [
+    "ArrowLeft",
+    "a"
+  ],
+  "customControlsRight": [
+    "ArrowRight",
+    "d"
+  ],
+  "customControlsA": [
+    "Alt",
+    "z",
+    "j"
+  ],
+  "customControlsB": [
+    "Control",
+    "k",
+    "x"
+  ],
+  "customControlsStart": [
+    "Enter"
+  ],
+  "customControlsSelect": [
+    "Shift"
+  ],
+  "colorMode": "color",
+  "generateDebugFilesEnabled": false,
+  "compilerPreset": 3000,
+  "scriptEventPresets": {
+    "EVENT_LAUNCH_PROJECTILE": {
+      "fced562b-f05f-4236-84d3-508dbdbbdb6d": {
+        "id": "fced562b-f05f-4236-84d3-508dbdbbdb6d",
+        "name": "ledgeBounce",
+        "groups": [
+          "projectile",
+          "source",
+          "direction"
+        ],
+        "args": {
+          "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+          "spriteStateId": "",
+          "speed": 2,
+          "animSpeed": 15,
+          "lifeTime": 1.4,
+          "loopAnim": false,
+          "destroyOnHit": false,
+          "collisionGroup": "3",
+          "collisionMask": [],
+          "actorId": "$self$",
+          "x": 0,
+          "y": -2,
+          "directionType": "direction",
+          "otherActorId": "$self$",
+          "direction": "down",
+          "angle": 0,
+          "angleVariable": "L0",
+          "targetActorId": "$self$",
+          "initialOffset": 0
+        }
+      }
+    }
+  },
+  "scriptEventDefaultPresets": {},
+  "runSceneSelectionOnly": false
+}

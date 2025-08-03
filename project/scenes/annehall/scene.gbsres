@@ -1,0 +1,26 @@
+{
+  "_resourceType": "scene",
+  "id": "009f7075-b8ef-4632-b895-505d13d0deed",
+  "_index": 4,
+  "type": "TOPDOWN",
+  "name": "ANNEHALL",
+  "symbol": "scene_21",
+  "x": 938.2563109769421,
+  "y": 3856,
+  "width": 40,
+  "height": 18,
+  "backgroundId": "9275e94d-908f-42a9-b5e9-a048890a044a",
+  "tilesetId": "",
+  "paletteIds": [
+    "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c"
+  ],
+  "spritePaletteIds": [
+    "efbcb3c7-e1a2-42b5-93b6-653cf15a751b"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "00cb+0f23+002+0f2c+0020+0f4+0078+0f50+00c8+"
+}

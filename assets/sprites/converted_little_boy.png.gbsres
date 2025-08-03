@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "7295bd5a-5ade-4674-b1b0-da51bacb6877",
+  "name": "converted_little_boy",
+  "symbol": "sprite_converted_little_boy",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "165d08b7-9bfd-48bc-842e-bf81462469b2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "17081211-f8ea-41ee-96c2-dc33a87a9afe",
+          "frames": [
+            {
+              "id": "9bb0a604-86ce-4777-b134-e26e8e760d08",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "387b7d57-e8d8-46df-af94-0367e1eeeca9",
+          "frames": [
+            {
+              "id": "94eeb13d-41ec-4291-a57a-8e7ad6addbfb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a3a97eb-97b1-4007-9be9-c7a392d63ed6",
+          "frames": [
+            {
+              "id": "51962bbe-4b32-49b3-8c9f-d2762ab17bef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb149d38-9a75-46f9-a458-a3eb71d6cdf7",
+          "frames": [
+            {
+              "id": "17e9b8a6-f132-4ed2-af59-1f95b32a1894",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "960534d9-a25e-47e7-9b3f-99fd372eeb1c",
+          "frames": [
+            {
+              "id": "805af614-9359-41cf-9952-337978d3c641",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c519048c-d16d-47c9-95eb-2d81382d7f47",
+          "frames": [
+            {
+              "id": "33a33674-cbca-4b90-84b0-c7abefd1ad65",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd34f1d6-793f-4e58-82b7-01d1431eb928",
+          "frames": [
+            {
+              "id": "d0dd4fd4-5959-496e-b112-d35dcce8a94a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e792767-d1a4-4014-98f3-638620a2df08",
+          "frames": [
+            {
+              "id": "8c789488-68a4-42b5-b5ae-24da13eae5ce",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_little_boy.png",
+  "checksum": "066e27b26d4bcc09760a26b36f9d49696489ddfb"
+}

@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "aaee1e9a-55ab-4bb1-96a2-f2eef52c7113",
+  "name": "poke_ball",
+  "symbol": "sprite_poke_ball",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "a47acbf5-e924-4bbf-9a01-27dc72a64732",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "a74ae06b-e806-4d2a-9227-7694b349dec0",
+          "frames": [
+            {
+              "id": "6cc23c71-d3ba-435a-b814-e823cd33eb34",
+              "tiles": [
+                {
+                  "id": "b0bf2416-34e0-4719-a560-aa9db6d3ce27",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "a192dc39-b829-4b91-bb30-4fe81d85fbc1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "98914588-7f2c-4478-80c3-c2374c0daa83",
+          "frames": [
+            {
+              "id": "0ea5d4a0-a87f-4249-b33c-a120b57fe375",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c19508b4-1ab7-4d50-bbe5-741cb8371228",
+          "frames": [
+            {
+              "id": "ea20ae6c-99f6-4593-9797-ac96aee40b3a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f64000d2-74d2-4fe0-9d7e-15f70cf59166",
+          "frames": [
+            {
+              "id": "8b355dc5-5dab-4594-aa1b-a6efdaf440db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fb7f5854-99e1-435d-b89d-1cb9477c6247",
+          "frames": [
+            {
+              "id": "77a61868-c21d-426e-83d0-e8cb9401c3ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ac95b800-dc8f-460a-a338-376402b640eb",
+          "frames": [
+            {
+              "id": "6eff152c-7172-4a30-9304-cc3d03530498",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a6eaf35-8f67-4541-8c02-837ee2e6e9ca",
+          "frames": [
+            {
+              "id": "2beb6e72-d832-4bdb-969e-6447dbe75698",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1d3bcb9d-13ad-47f7-8f0e-671024424997",
+          "frames": [
+            {
+              "id": "56add15c-a790-42c3-8d2f-0f080e8a0276",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 1,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "poke_ball.png",
+  "checksum": "5ccf82efdc9d2a868d6eafe11c7cb2d3b1e61d33"
+}

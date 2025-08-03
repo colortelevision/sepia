@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "6afbbd5f-e9bb-48b1-a3d6-0edcb6cc8121",
+  "name": "converted_plant",
+  "symbol": "sprite_converted_plant",
+  "width": 8,
+  "height": 32,
+  "states": [
+    {
+      "id": "8b7a819a-d767-4bd4-b18c-015f543de417",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3e4b7298-8743-42d9-89b9-8d7431c501f7",
+          "frames": [
+            {
+              "id": "d17d256a-4774-47e0-8799-ab4fe1639022",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1cf860b7-3ff2-4503-83f5-b29ebb3f32c0",
+          "frames": [
+            {
+              "id": "741dab06-2d5a-46d5-ace6-bb99df24757b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf95400c-c2e3-4f45-9305-fc4bb474e0e0",
+          "frames": [
+            {
+              "id": "e6ae5da5-0a3d-4577-987e-b4d7c2ef8744",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d28d3479-a32a-4707-b39e-dfb82aedf356",
+          "frames": [
+            {
+              "id": "91e39a9c-fb1a-4770-9cb4-ab0f9c7b9325",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3421ab7f-2b72-4260-be16-36b49866f77c",
+          "frames": [
+            {
+              "id": "133ca5a0-27b2-47dd-a0f9-1d1ed53a2540",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e146f538-ecc9-4113-974b-63d3dd59c02b",
+          "frames": [
+            {
+              "id": "b21612ca-611c-499d-a102-f4db6d217c52",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e254abaf-98e0-4ef8-8814-79d0a1d5ae48",
+          "frames": [
+            {
+              "id": "53034830-90d4-402d-a6fa-3f3f59debfc3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ee49950c-1f95-4509-8a1a-df18c77aa72c",
+          "frames": [
+            {
+              "id": "2cd01ff8-cea0-49c8-9ad8-1549eb478910",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_plant.png",
+  "checksum": "df6f5d5ca226cb1c540c8cc31ac2eb355dd2144d"
+}

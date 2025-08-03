@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "b6b590cb-4cc3-49bd-b8e7-d03b6d09b303",
+  "name": "converted_nurse",
+  "symbol": "sprite_converted_nurse",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "91f4807f-49d4-4a63-baa3-482ff82e6d1c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "649b8f2b-7760-46ab-8de4-e5ad85b6dcf8",
+          "frames": [
+            {
+              "id": "9b5545d5-2575-4c7f-92eb-5803d3719b3f",
+              "tiles": [
+                {
+                  "id": "0d176731-23e2-433c-a3c7-7f23c957ef76",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "cf077dd6-bba4-4b77-8325-4ef043976cc1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ad8e3d00-630c-4b44-a269-5538c6b3f249",
+          "frames": [
+            {
+              "id": "8454dc10-80c3-40d5-8b75-cbd6e87e4f12",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c29c66fc-2078-4ea9-be17-3a35a3606278",
+          "frames": [
+            {
+              "id": "fc36d004-ec2e-44b4-bf4c-0a86111f2da8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d8d664e9-f3d3-43be-82e9-4b36df89a940",
+          "frames": [
+            {
+              "id": "99ec1584-59bb-4775-9862-c4b493a8bf5f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "941a3a31-0130-4b56-8519-208dd7e0df57",
+          "frames": [
+            {
+              "id": "271988c3-b4ac-465b-80d3-e833d58c8a7f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4515abaf-2d21-47e6-ad60-c67f30b6a5a5",
+          "frames": [
+            {
+              "id": "fb66b6ab-a9da-46cf-b1dc-72fd475c69cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0279b48d-b29d-47b5-9e3a-ccf17f06871f",
+          "frames": [
+            {
+              "id": "2656a772-64ef-44b1-9785-edfb56250f5b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e9f36c14-20ca-4210-8a81-e394a4636eb7",
+          "frames": [
+            {
+              "id": "0a3bb8bd-c2bb-4193-8a4b-e9c2d8e4ed36",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_nurse.png",
+  "checksum": "e72c7387ea6dba1b64614c0846bd52733839a47c"
+}

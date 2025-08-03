@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "0edfe607-0d1f-4531-8c0f-0b5cf2262fa2",
+  "name": "converted_fisher",
+  "symbol": "sprite_converted_fisher",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "33e474a8-a5ef-4ab3-9754-04c757590800",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "03e794c7-a989-43c2-855b-4b0cd897c509",
+          "frames": [
+            {
+              "id": "9ae31798-8b0a-4be6-9583-91f05790d8df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4e2bfb23-9d5a-440a-a0e2-d28672ce74a0",
+          "frames": [
+            {
+              "id": "56d3f57f-0ed4-4c94-8935-07259e298407",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "91a03edb-aa7c-41d6-aef3-3cfe915daf22",
+          "frames": [
+            {
+              "id": "8a7b579d-167c-4fbb-9ba1-185a101200f2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7308d5c8-39a0-4834-9a90-9a9fd9e5af2f",
+          "frames": [
+            {
+              "id": "9ff40b89-530c-4d60-af17-f64348efab79",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "37f2b1c4-fa94-4753-abcb-41c3892f09c4",
+          "frames": [
+            {
+              "id": "5eba974e-3440-4ad5-beca-37c03fa4348d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2973cb76-43e5-424e-813c-1dce609dc3e4",
+          "frames": [
+            {
+              "id": "d8779778-3deb-44f3-bcc1-e28d8722c0b5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b07f6221-7a4a-495d-aefe-140fb9315506",
+          "frames": [
+            {
+              "id": "aa57856c-746f-4ce7-8650-bb9ed740d0fb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8427f49a-3c8f-48ab-a2e0-7463ada20444",
+          "frames": [
+            {
+              "id": "1a767571-8b3c-4cd8-8dcd-674da75c3389",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_fisher.png",
+  "checksum": "da62212e4cb33e800216ba90a964ac93f2e9d0cd"
+}

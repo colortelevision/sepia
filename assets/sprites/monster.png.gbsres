@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c61a453d-d203-46f3-9e5d-4455e15f28f2",
+  "name": "monster",
+  "symbol": "sprite_monster",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "15559f4a-511b-4c68-a0d9-0683644223b5",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "165cbaab-bba0-4257-bddd-e59ab9b80731",
+          "frames": [
+            {
+              "id": "e3bacb35-9db9-436c-bdc1-17f3a30893b1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4545757-921c-4473-aaf1-d984b4801169",
+          "frames": [
+            {
+              "id": "13bd673a-2b6f-446f-8424-dd89aeabf23a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9c784b19-8244-4565-821d-9b84b1967d1d",
+          "frames": [
+            {
+              "id": "c076dd16-23f1-4410-bf04-8e347df49f45",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e44fc696-59a1-46be-b9cc-28e2cf8c25b9",
+          "frames": [
+            {
+              "id": "cc42f5e6-3847-4f6f-9a41-06068705fa18",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1c63cbaa-9f39-4bb4-808d-d8b10d97916c",
+          "frames": [
+            {
+              "id": "e22eb203-f10c-4412-8027-d7c2e39545ce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4bb84c66-5418-4870-a5c3-74bc7d123068",
+          "frames": [
+            {
+              "id": "741410c0-fa98-4d79-8805-500b49fa99ab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9e9e3d4e-4056-45b6-b5d0-a32e5070e795",
+          "frames": [
+            {
+              "id": "d772c7c1-d1e4-4962-a153-cb8c6867d2f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b90afb34-edd3-455b-95d6-8df67741d720",
+          "frames": [
+            {
+              "id": "2c487ec3-5d10-4ce6-9cbd-6c70445f0e44",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "monster.png",
+  "checksum": "faa50ac3e823d02d694a2a096b1e0497e29ba0ef"
+}

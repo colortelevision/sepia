@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0f3ae70e-2170-4f80-80aa-a71c96af92bd",
+  "name": "proto-tilesets",
+  "symbol": "bg_proto_tilesets",
+  "width": 136,
+  "height": 140,
+  "imageWidth": 1088,
+  "imageHeight": 1120,
+  "tileColors": "",
+  "filename": "proto-tilesets.png"
+}

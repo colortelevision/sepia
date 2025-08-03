@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "7c868bf7-1834-4903-aa68-cb5e691b51fc",
+  "name": "blue_version",
+  "symbol": "tileset_blue_version",
+  "width": 8,
+  "height": 1,
+  "imageWidth": 64,
+  "imageHeight": 8,
+  "filename": "blue_version.png"
+}

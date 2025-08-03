@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "6596d96d-bb6a-4411-9953-4c284aef61e9",
+  "name": "converted_blue_slots_2",
+  "symbol": "sprite_converted_blue_slots",
+  "width": 32,
+  "height": 48,
+  "states": [
+    {
+      "id": "519ec405-6976-47fb-b889-2312b3bf6eed",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b2d80b26-d023-4743-b7c5-521a2238da94",
+          "frames": [
+            {
+              "id": "232b14af-6097-4baf-8a4e-874f7eff4fa7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d119fa36-1d0a-4182-9dd4-006b7daa5728",
+          "frames": [
+            {
+              "id": "e2fcf6d2-47b5-4560-9c9e-bec6e012e3aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c6489caa-065d-4eff-abd8-00f09cc0633e",
+          "frames": [
+            {
+              "id": "34847216-a436-4eea-9ac3-ba76417ad64b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f52055ba-27c2-4fb6-ad76-fa3353b17c6f",
+          "frames": [
+            {
+              "id": "9365b27a-8a3e-4daf-bedf-18d0e0a5f362",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2f0b27f3-78b0-46df-8616-e76b9bcafbc5",
+          "frames": [
+            {
+              "id": "8a70d505-715b-4831-a791-27f25ddba972",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "141cb9fe-932a-44c6-aba5-48b77dbaa2e7",
+          "frames": [
+            {
+              "id": "cfe13ded-59a0-4034-973a-1d1524ac1186",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7edec87-daac-4ae3-8fb0-db35a1183108",
+          "frames": [
+            {
+              "id": "48b75294-a68a-4edc-a7af-0dee90b61e3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5df61d67-d4e7-4983-9c8f-aa05a590ac60",
+          "frames": [
+            {
+              "id": "2763f066-fc21-42e7-9617-cf81a17ae284",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_blue_slots_2.png",
+  "checksum": "67f5daa47ddb5e6b0bdf4d67e20da92bd740e330"
+}

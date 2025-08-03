@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4b87c38c-6260-4bdd-af74-e1afecd18381",
+  "name": "converted_beauty",
+  "symbol": "sprite_converted_beauty",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "905f58de-2ca6-43ea-a904-dcd6f5b6f077",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b7355c07-3928-4593-bb8b-d28f4f87becb",
+          "frames": [
+            {
+              "id": "f3c843e1-58ae-43ce-a333-84c80c29c2d2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e317cd2a-3057-4c74-b8fa-d69d1f488d46",
+          "frames": [
+            {
+              "id": "10ceaff8-f493-4a7d-9710-f6f19ed1e37b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "90b1fd89-b77b-4144-bb94-d7174303e509",
+          "frames": [
+            {
+              "id": "78f12b8b-6131-493f-9076-f889ba68be9d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2979456b-98bc-4d94-bc7d-1a21eb95c573",
+          "frames": [
+            {
+              "id": "ce00a283-9c8e-479e-b001-ed75e6dea352",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "24879c60-003c-4cef-9077-3f86111bb5b2",
+          "frames": [
+            {
+              "id": "f48793ba-ec0b-436f-9626-e61520ebac26",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a9f5110a-0e00-4698-aaba-792a4b3b2672",
+          "frames": [
+            {
+              "id": "61284b9f-f85d-429b-bb47-45d4cefc224e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8f68d9e0-ff83-44a0-b9a5-f0ecb9772dc3",
+          "frames": [
+            {
+              "id": "bd27122a-50c7-49ba-a097-1a87d3f10a42",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4121a0ca-c82d-4b88-b854-b6ca48399cf9",
+          "frames": [
+            {
+              "id": "20449d2e-c208-4229-b9e9-825b918bbea7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_beauty.png",
+  "checksum": "dfd70e7ffb1f1b83cc645bb1749ab8b40680eb96"
+}

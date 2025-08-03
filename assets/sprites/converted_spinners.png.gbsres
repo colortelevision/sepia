@@ -1,0 +1,153 @@
+{
+  "_resourceType": "sprite",
+  "id": "cc5a4ff8-4c2c-493e-8111-43bb501afa32",
+  "name": "converted_spinners",
+  "symbol": "sprite_converted_spinners",
+  "width": 32,
+  "height": 8,
+  "states": [
+    {
+      "id": "2a2b41b6-43a1-48f6-b622-6b022cbedf51",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "87581006-0880-4204-97a5-0a7c362c6eca",
+          "frames": [
+            {
+              "id": "aaaed69c-7de6-4fd5-bd89-a064f98a889c",
+              "tiles": [
+                {
+                  "id": "1669018a-727c-4cb9-96ba-4dc9c4e48732",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP1",
+                  "paletteIndex": 1,
+                  "priority": false
+                },
+                {
+                  "id": "b688983c-3ba0-4672-9a6d-cc1775b95c28",
+                  "x": 0,
+                  "y": 7,
+                  "sliceX": 8,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP1",
+                  "paletteIndex": 1,
+                  "priority": false
+                },
+                {
+                  "id": "abb861b7-da56-4f8c-ba75-59c9d36402b5",
+                  "x": 9,
+                  "y": 7,
+                  "sliceX": 24,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP1",
+                  "paletteIndex": 1,
+                  "priority": false
+                },
+                {
+                  "id": "e051bfb5-edc8-4337-bdb1-d3b1355fea4f",
+                  "x": 9,
+                  "y": 0,
+                  "sliceX": 16,
+                  "sliceY": -8,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP1",
+                  "paletteIndex": 1,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "0e957ff9-5c19-4fe0-8084-372ec0a45b20",
+          "frames": [
+            {
+              "id": "2fc8480c-df39-49db-8bb1-558a5bb59c65",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6422011d-a20a-4c7f-a8cf-f931392a3ad8",
+          "frames": [
+            {
+              "id": "0362493e-3693-4790-a2c0-7e835522dd3b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "03559085-61bb-422f-8bf8-595d7ee35519",
+          "frames": [
+            {
+              "id": "6dfc1def-3e7c-4ba8-a636-c03baa789ade",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8cbeb139-317e-4b00-837e-d1292afd98e3",
+          "frames": [
+            {
+              "id": "826d56ce-ee40-4406-97b1-b601b09e5f6e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5b798ec3-432e-44dc-ad7c-195d5ef2f41a",
+          "frames": [
+            {
+              "id": "69ad6875-9a89-4d0e-a17e-49dd8db3368d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c820b398-81b6-4887-a6dc-bed920d10223",
+          "frames": [
+            {
+              "id": "6d314ca1-b2fd-4242-ac4b-3c8a94259ef2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "72780fc7-e6c1-4db7-880d-14752546db7d",
+          "frames": [
+            {
+              "id": "93d82579-d866-4b66-aa1c-08276567a442",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_spinners.png",
+  "checksum": "361f70899095b919f5fb94f29ce0f47b3b904b07"
+}

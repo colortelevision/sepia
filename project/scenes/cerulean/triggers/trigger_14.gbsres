@@ -1,0 +1,75 @@
+{
+  "_resourceType": "trigger",
+  "id": "99a06afd-5b23-482a-b885-38b8fb2166fd",
+  "name": "",
+  "prefabId": "45540667-e6d8-42ef-bbcd-1a113537beab",
+  "x": 0,
+  "y": 74,
+  "symbol": "trigger_90",
+  "prefabScriptOverrides": {},
+  "width": 6,
+  "height": 1,
+  "script": [],
+  "leaveScript": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": true,
+        "__comment": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_PLAYER_BOUNCE",
+            "args": {
+              "height": "high"
+            },
+            "id": "9e128e38-7aed-4914-b16d-7bf893aeba7a"
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 2,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 2,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": []
+            },
+            "id": "078d2f8c-3d08-48bc-94d7-d2dc57d9a0ad"
+          }
+        ],
+        "false": []
+      },
+      "id": "cd46f99e-e500-4257-a312-80c22b887adf"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a"
+      },
+      "id": "16362ff3-60e8-4378-9432-b1d324b2b359"
+    }
+  ],
+  "_index": 13
+}

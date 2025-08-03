@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "6522e6f4-ff5c-4b17-8039-587d2c8c4a9e",
+  "name": "converted_bird",
+  "symbol": "sprite_converted_bird",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "4bf7ccaf-6913-4f69-bbdd-b7b2dbcef744",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "9dca3ecc-ad13-4e44-b937-ac6a24bc41d3",
+          "frames": [
+            {
+              "id": "d31ed307-6a8c-42bc-a9e5-c628332d890b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "84e14ac7-28fc-42a2-8795-7afbf07395db",
+          "frames": [
+            {
+              "id": "04b057ea-998f-4393-a476-57879280c442",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3f173a4b-e557-4329-8043-1eb8d7eeec4a",
+          "frames": [
+            {
+              "id": "de68fd2e-e443-43e0-99d2-c0618a73a0fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "af497df1-6875-4517-8fd0-69509b0aa4b0",
+          "frames": [
+            {
+              "id": "18d98941-f8a0-4191-954c-6d9980f24e0e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2cf78f0e-efd3-47de-8e71-5ef373be2a8a",
+          "frames": [
+            {
+              "id": "4116bcfb-21e3-4d7f-80f9-11073888367c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c403c8e6-5e63-4388-a072-4cf486eb2c26",
+          "frames": [
+            {
+              "id": "7d76075e-bcd6-435e-b7f8-c8ce3af34252",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce44593e-01b0-45e5-8477-2bbda9095f86",
+          "frames": [
+            {
+              "id": "a962c38e-b5ff-4900-9950-3bd46ec2a6aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8ca4b504-5c8e-424d-aba4-167b481587e6",
+          "frames": [
+            {
+              "id": "4e39296b-d5de-4c58-b431-e936d2eb625b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_bird.png",
+  "checksum": "9e8424dc0b5b58135f67aa1b7dee0c80030b0970"
+}

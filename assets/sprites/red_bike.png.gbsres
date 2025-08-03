@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1bc837f4-9ef2-434b-9335-7a9a53e33d05",
+  "name": "red_bike",
+  "symbol": "sprite_red_bike",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "af869ebc-063b-4687-8bf0-d25058b2b146",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "d2638640-f920-4aac-95dc-94a8eed77c92",
+          "frames": [
+            {
+              "id": "38533d28-80fe-41d3-8887-5fe711ddbeb7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9cd1ef78-4bbf-48a8-bfa9-e769f1aa4442",
+          "frames": [
+            {
+              "id": "d075e7cc-3bb9-48a3-a3cf-1f1f6858fdab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "efbc5fb0-adbf-4c7b-8cde-3e769e21f95e",
+          "frames": [
+            {
+              "id": "addf01a0-1d2c-46b4-b5c2-7795cfd5bb1a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1f39ecd4-05c0-49e2-9508-1256d4097e3b",
+          "frames": [
+            {
+              "id": "4d2013bb-ec10-452e-bd53-f425f0edcaf4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ee847941-0a63-4d58-9c1c-c89a1c72d2b7",
+          "frames": [
+            {
+              "id": "00f857d5-abd3-49ae-ad92-9c707c4122cc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0db08654-cd02-4305-afa4-b9d0d4e89f0e",
+          "frames": [
+            {
+              "id": "e2bba7ff-5f4b-4172-9bfb-739153b7e5b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4cdee345-2968-4c6f-a2a4-19266adc0504",
+          "frames": [
+            {
+              "id": "874a44c0-1856-4414-98da-1fd5e46b5ac0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6196c5c4-b094-46a9-b242-d4c576e0e5d3",
+          "frames": [
+            {
+              "id": "64511d28-edd3-4cbb-82f9-544329c0bb06",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "red_bike.png",
+  "checksum": "374db4e94247edbe67b32ffb081bf38d8eb8a643"
+}

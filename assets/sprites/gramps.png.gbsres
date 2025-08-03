@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f7f38dbd-9f3c-4efd-8652-41e20fb6a812",
+  "name": "gramps",
+  "symbol": "sprite_gramps",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "4dd24679-09ac-43e6-b9bc-b89a9ec5d173",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a20ab0fc-5a32-4d09-8b30-071eef21c08d",
+          "frames": [
+            {
+              "id": "76341590-d62d-4564-88d9-f81363c1bd55",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fe58881b-b2a4-4bf7-b474-aa56efccef70",
+          "frames": [
+            {
+              "id": "2daa8525-aa60-4b32-82cb-3afd8d7cac58",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "42cc7346-698b-44ca-892c-87e85ad59fd7",
+          "frames": [
+            {
+              "id": "a4daf9db-0b53-4494-bc67-1fad72f2a0ad",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b0315441-9942-449c-93c5-6984170a097c",
+          "frames": [
+            {
+              "id": "c9d7f65f-16dc-4d63-bc3c-88be23ffd755",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6e733122-61e2-4ab2-bdd2-daa84a6b0715",
+          "frames": [
+            {
+              "id": "90495150-0eff-4605-b342-2ec6bee542f8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9d818cf4-d20c-4870-9548-655d55ab5608",
+          "frames": [
+            {
+              "id": "7583211f-a253-411c-b717-2125f48be40d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "646339e5-09a1-4303-bc77-ef8ba6c1e684",
+          "frames": [
+            {
+              "id": "c7777eb3-4bff-431c-af4b-76d6e786d045",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "32040ed4-d931-4ffa-9052-8e22ce03ec8a",
+          "frames": [
+            {
+              "id": "925617b8-9cfd-46d8-a78f-3659c583a34d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "gramps.png",
+  "checksum": "01403741d51d71057f9c9bbd84708c65a1827cb9"
+}

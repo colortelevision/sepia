@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d46ed255-3905-4c17-8ce6-eac09cfccbd9",
+  "name": "converted_gengar",
+  "symbol": "sprite_converted_gengar",
+  "width": 168,
+  "height": 56,
+  "states": [
+    {
+      "id": "b1b39639-496b-4d22-8991-de9bad9b564e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3c342fa7-533c-4f04-8438-9e75dd26f53f",
+          "frames": [
+            {
+              "id": "df1eb0b4-dfc2-4be2-a65b-b7046a6255d5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9995a95b-7b04-43b3-b802-2f7c7464f556",
+          "frames": [
+            {
+              "id": "a93757a9-3d92-45f2-b203-19da4c0b9e21",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2615a25a-1687-4a49-aba3-a1101a154209",
+          "frames": [
+            {
+              "id": "066eebbf-1ef5-4c94-bce6-6faa4d305757",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7d36e18-ad94-481c-ac68-0869380d31fe",
+          "frames": [
+            {
+              "id": "2eb5ee4c-c82f-43e1-80c2-807bd524c951",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fb7dfeb2-1c3d-42d7-9a86-f44124f39a6e",
+          "frames": [
+            {
+              "id": "8307a455-efd7-472a-a840-4a2eea056452",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "18ef624f-c9f5-41ba-a173-8a7494091293",
+          "frames": [
+            {
+              "id": "c4d11015-4d2a-4e17-9d5e-fae6673703fe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "47ba5063-0c7e-4ddb-af11-fdce2d820af3",
+          "frames": [
+            {
+              "id": "5d5b2da2-822d-4992-a4db-1e7138cc43d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "83ad4e3b-7a29-47c2-af18-f1511878b9d3",
+          "frames": [
+            {
+              "id": "fd0925ed-3bfd-4211-ad21-eecd40329ef9",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_gengar.png",
+  "checksum": "fd8a8e8debc9c33d799915ec453bc41e913b2837"
+}

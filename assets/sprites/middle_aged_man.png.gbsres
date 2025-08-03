@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "b85a22f9-fe09-4e94-9e34-c18a3b0b6b27",
+  "name": "middle_aged_man",
+  "symbol": "sprite_middle_aged_man",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "fb9acebb-21df-4ed7-9d0e-8b35c7cd6e5d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "18ca8675-5071-4155-b58b-e0ce5583509a",
+          "frames": [
+            {
+              "id": "7a1d0a11-a857-422e-9e8b-3c285ecd447f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "db4ed721-0de7-4740-b7c3-0d4d7a99708b",
+          "frames": [
+            {
+              "id": "0c62765f-90b3-49e8-9ca9-5b0bccc388e8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf10840f-4689-4b3a-a902-0accf05b16b9",
+          "frames": [
+            {
+              "id": "c77b4156-02b2-4d34-8f57-bb5531f618cc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "217f9589-31a5-4649-accf-a2761690bb26",
+          "frames": [
+            {
+              "id": "844ca568-c528-4f62-91df-70290c61574e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "769dc394-400b-459c-a721-b7d298069d1e",
+          "frames": [
+            {
+              "id": "b0564ef8-b044-4584-8be3-fd4b1031e55d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8de314cf-0ca0-4f1f-8edb-e2fd7bbe7032",
+          "frames": [
+            {
+              "id": "0fbcd5b6-50bc-4a99-97ec-3058d64ac24a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cc4104c8-90b6-4848-89a6-19c38fceff9d",
+          "frames": [
+            {
+              "id": "c260e0ad-2d38-48de-b9e6-b7f4ae0b3954",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31fbca7b-b859-47ea-8d7d-773be7d963b3",
+          "frames": [
+            {
+              "id": "9a1d3a23-bf3b-450c-931b-ceb75cc9f71f",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "middle_aged_man.png",
+  "checksum": "8ea579807626f83b7bf32eebdbc505b4cbf44f53"
+}

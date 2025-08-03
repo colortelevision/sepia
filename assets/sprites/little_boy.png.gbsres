@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "3bc6b0c1-4da8-41fe-87c6-476170d9fc13",
+  "name": "little_boy",
+  "symbol": "sprite_little_boy",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "6567665c-9b9b-4070-b57a-98ea00c0e43b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3cea2110-cafd-4c65-b1d6-174a5e247a22",
+          "frames": [
+            {
+              "id": "46202a9f-186c-45f3-95f2-5ee2c98ffead",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f0db2c9e-5bf9-44dd-b6db-239635ea2f1c",
+          "frames": [
+            {
+              "id": "cd3d26d3-2223-4e3a-a260-dc85c8d6b572",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c7530863-79dd-4145-a474-4cebc8d30106",
+          "frames": [
+            {
+              "id": "3da5a011-b461-4f7b-b91f-9eca338f50b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd9e41d2-c79b-4430-b84d-d05d53bdeacc",
+          "frames": [
+            {
+              "id": "796c5658-60df-41ca-81b3-f94bf83a31a8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "98202fe5-181a-4a9b-b3d3-566c00820e92",
+          "frames": [
+            {
+              "id": "73973ce6-98c9-4da4-a165-7032c9884c24",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b21065f-f1a1-4a0c-9a29-1e706ce14b94",
+          "frames": [
+            {
+              "id": "7cfd8e44-a7fa-46f0-bac2-6d6c826fa81e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0330240e-b6e6-4020-bab3-53e0a66c5d8a",
+          "frames": [
+            {
+              "id": "90493dbe-b366-4b1b-96b4-931ea2d4130f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1ebffd25-1b6e-4f59-bc1f-e7533cae9912",
+          "frames": [
+            {
+              "id": "7a2694a0-c9c1-452c-add9-9198660ee86e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "little_boy.png",
+  "checksum": "45a65a128ab4a113ceedf6ab77d39929e7a1a892"
+}

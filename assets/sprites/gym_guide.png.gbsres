@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "87f8b0d5-8774-45ae-b813-03faaacecb2c",
+  "name": "gym_guide",
+  "symbol": "sprite_gym_guide",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "c51f1e4d-f520-4e7f-a351-3f387ff115a7",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "c6eb0f7e-f0c8-4a52-9512-42f0e2e5e0fe",
+          "frames": [
+            {
+              "id": "db93512f-7781-4c2d-a5f5-b5a8b1c3b3cc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "adfbc41f-3707-4f60-9d6a-abd84599ea4a",
+          "frames": [
+            {
+              "id": "3a7af8ae-252e-4e09-8d8b-c29273dda0b9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a7a6dcd5-2739-400f-8efb-080b91f8959d",
+          "frames": [
+            {
+              "id": "4c158c6f-0a5e-45a9-98c6-bd3ea7f25df6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2425f277-5ffa-483e-96d9-d440edda0db2",
+          "frames": [
+            {
+              "id": "ee624e16-7211-4987-a8bb-e43e8ad4498f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "62fa191e-95fb-49c1-8ee5-f394eae5ffae",
+          "frames": [
+            {
+              "id": "48cd5e5b-4962-4773-b27e-6a7f9cd863c5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0672d273-a13a-4047-a144-2063ff3a3a6d",
+          "frames": [
+            {
+              "id": "fbdd2902-86aa-464f-89f4-58c42ea07789",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a6a63cb6-5429-4e4a-8398-a1c5f22dccca",
+          "frames": [
+            {
+              "id": "cf514ecf-33d9-4b28-b51b-5b1f62cad99a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ba24c7d-0b08-4837-bb63-434826a35564",
+          "frames": [
+            {
+              "id": "7ccea374-6bff-47fe-ab39-02b6bc4881a2",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "gym_guide.png",
+  "checksum": "18deb3a1f90893df1545293dcd70fbf3717b0530"
+}

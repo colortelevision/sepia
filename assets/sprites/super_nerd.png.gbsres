@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "847fe4ed-1f9e-4275-aaba-69e277c34d87",
+  "name": "super_nerd",
+  "symbol": "sprite_super_nerd",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "d0c4e2e8-7a8b-4e4d-ba7d-d2a4ac15b0f3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "00c437ba-3765-4d04-98e5-244789966f6e",
+          "frames": [
+            {
+              "id": "af81def5-7bf9-410a-98e7-24416bd1f78d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2cacaab6-8993-4edd-a7d3-0068bc27c28a",
+          "frames": [
+            {
+              "id": "b10dd7f3-5fa8-4767-9dbb-4195a3da3e41",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "addb2661-7d2e-4873-ad12-4d86677766c3",
+          "frames": [
+            {
+              "id": "4a2fd5c1-89a5-43a5-a1f7-e349cb390f38",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5089b31e-398b-460a-8de7-a26fefbca7db",
+          "frames": [
+            {
+              "id": "6b5f1fb5-8ffc-4785-9375-c2383f90a203",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "071629d5-e284-4627-a753-c26671bb60da",
+          "frames": [
+            {
+              "id": "bbf4cdb1-2ea1-4871-b12c-c3f45b7c9591",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ca359744-0202-4917-8261-d4c3e8de05a3",
+          "frames": [
+            {
+              "id": "c3c5f785-2bd4-493b-a1ab-2e3ad3990677",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b120c190-cba9-463c-a6d4-c43c1dc316a3",
+          "frames": [
+            {
+              "id": "4f471bbf-62e4-452e-8523-49a2a61d6f7a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f341ceb9-7f14-4d27-aad1-dfc686912739",
+          "frames": [
+            {
+              "id": "a7574e90-e0da-47f0-81ac-f86485f6134a",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "super_nerd.png",
+  "checksum": "edbdbefc08050491938d259312fe3a81fa77387d"
+}

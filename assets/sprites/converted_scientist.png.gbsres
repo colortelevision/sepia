@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "e9e1ee44-47b7-4174-82e8-b2fa8f42640a",
+  "name": "converted_scientist",
+  "symbol": "sprite_converted_scientist",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "5f7bc313-5ab7-472e-88da-66e466d9cf0a",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "21899965-2a62-438e-a468-e1f1bafdc4f6",
+          "frames": [
+            {
+              "id": "1a127e80-f430-48f2-9d56-1d0a5e2dfd20",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b792ba68-abe8-4a95-9afd-b4e32a5485d6",
+          "frames": [
+            {
+              "id": "66f1160d-6d80-4724-ab88-3fc691a4bbf9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a5beb570-d842-4b76-a257-2eee166fea21",
+          "frames": [
+            {
+              "id": "37a82c24-26ac-473e-bd53-6fc51b2248ca",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c687a8c9-83e5-406d-bd8b-eeb71ef7e472",
+          "frames": [
+            {
+              "id": "7c4ec2e6-1fa4-49a7-8061-61e8d281319d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ba8fda7f-824c-4973-9e14-d31202695bcc",
+          "frames": [
+            {
+              "id": "b1873e4f-1f92-4c48-a809-15a91b51e782",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "239f28e0-e777-40ba-8335-064cefec96f1",
+          "frames": [
+            {
+              "id": "d0c62091-ee7d-4327-8ad5-28625f1577aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef22e653-ca02-441f-ba2d-9b02588875d9",
+          "frames": [
+            {
+              "id": "568750da-97d4-49b2-8dab-f39e6dfca226",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6b839bdc-47d0-4d4d-8c2e-ee2585792124",
+          "frames": [
+            {
+              "id": "37210406-6593-4827-ac25-f990daace6a5",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_scientist.png",
+  "checksum": "1d7be352657fd5f69d8ce6226dc062093836d134"
+}

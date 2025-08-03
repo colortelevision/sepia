@@ -1,0 +1,75 @@
+{
+  "_resourceType": "trigger",
+  "id": "2792ccfb-5fca-4b98-b12e-2e7d73188b2a",
+  "name": "",
+  "prefabId": "",
+  "x": 90,
+  "y": 86,
+  "symbol": "trigger_85",
+  "prefabScriptOverrides": {},
+  "width": 6,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": true,
+        "__comment": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_PLAYER_BOUNCE",
+            "args": {
+              "height": "high"
+            },
+            "id": "dcbcef48-3a06-496d-a41b-8fcc50f28b38"
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 2,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 2,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": []
+            },
+            "id": "b91c7a79-96d0-41c3-9e0b-a49c6efe0f07"
+          }
+        ],
+        "false": []
+      },
+      "id": "618bbba4-1974-4161-a2ad-2d652307d8b4"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a"
+      },
+      "id": "c77ed730-97da-4a12-8d19-da8759b98e00"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 8
+}

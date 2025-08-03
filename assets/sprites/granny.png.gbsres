@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "5a5bcc95-2b79-475e-9421-bce90bc3ffd5",
+  "name": "granny",
+  "symbol": "sprite_granny",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "44327e37-0d84-4660-97f7-7fa66e542bc8",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b32bac13-4c76-4163-abc4-f86577a63ad8",
+          "frames": [
+            {
+              "id": "e39fa4fe-457b-44ae-9198-28573abc9981",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e365d65d-8518-41e5-b481-84742be49083",
+          "frames": [
+            {
+              "id": "87792490-022f-4dcd-b639-74ff7cbf480c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31090a04-583d-41d1-9fa0-ec0ad848dae6",
+          "frames": [
+            {
+              "id": "477ee9b7-4a5f-4f57-952a-e66cb6a764c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "41c97bb4-12f0-4011-81c3-20b3e8a29c8c",
+          "frames": [
+            {
+              "id": "3454052d-ce02-4179-977c-8afadd0289bf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bbbe3aa8-5ddb-43d6-ae54-e501a1125c57",
+          "frames": [
+            {
+              "id": "7f9d9dfd-b681-4279-a53a-608bb8a246d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eeb972f8-8db6-4039-b692-e2efabdf6ab8",
+          "frames": [
+            {
+              "id": "d2831278-d871-4801-8dd7-d1347f9eccd3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "78e3d06e-cce5-42f7-b4c5-5446845e2e00",
+          "frames": [
+            {
+              "id": "1a429944-36f8-4fda-96a3-fd7f67fbda71",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0eda443c-aebb-4ab9-944f-b93bffa8f832",
+          "frames": [
+            {
+              "id": "8bf1fe0a-62c2-4f4e-8297-de50d90305ef",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "granny.png",
+  "checksum": "ce4d2fe4a1a107c825ae9585d92b0868d55830a6"
+}

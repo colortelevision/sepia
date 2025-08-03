@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d6e856f9-c080-4ec8-b3c5-dc8efe199abe",
+  "name": "converted_captain",
+  "symbol": "sprite_converted_captain",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "208386a0-6ecc-42cb-95d0-fcd1fef714d8",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "87861c0a-f91a-4edc-bc42-24695d9f0428",
+          "frames": [
+            {
+              "id": "ce4adb49-fa78-40bc-a134-b8dfc6f47816",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f09bec2a-0e29-4029-acae-3c83fe57be24",
+          "frames": [
+            {
+              "id": "1bbfe640-7620-4820-8cf3-bfe2301873d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "473b691f-766f-4303-a391-8f42bce267d3",
+          "frames": [
+            {
+              "id": "248afa18-4abc-4382-be13-8627e658cdb5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a816a955-a588-4715-846e-b9dcb5692bed",
+          "frames": [
+            {
+              "id": "b1b97cbd-d2bd-4b53-923a-c7aa9cb0aee8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa154e24-dd40-4d56-8ef2-1af0ef3d9067",
+          "frames": [
+            {
+              "id": "28696178-25a8-4497-95bb-86784276ea9a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "98363d5d-8906-45ec-8b03-f164ff1de3a2",
+          "frames": [
+            {
+              "id": "fed9af29-594e-459b-88dd-b245fcce31df",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b9a7f9e8-8e46-4d76-8449-e25168143fbb",
+          "frames": [
+            {
+              "id": "73760460-53e3-43aa-a4e9-5f0baaa81527",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89fb444d-bb51-4af8-aa6f-a76f663cbb75",
+          "frames": [
+            {
+              "id": "e68cde6e-f61a-4dcd-baff-c41bdfa3b1e8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_captain.png",
+  "checksum": "467b2c1402e5fbeb684c5c87e7ae83bcdf51b12b"
+}

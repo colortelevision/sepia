@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f52c2101-b82c-48bb-bad1-241a583db69f",
+  "name": "beauty",
+  "symbol": "sprite_beauty",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "302951c6-1539-41a4-af92-5107d9c710f9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f58a8fe2-2c90-4279-a0e3-f9ddca79f2a3",
+          "frames": [
+            {
+              "id": "0509a35b-e2bb-44c1-9a60-4ee97e3c1551",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9f909457-6265-4416-aa6e-e5950844954d",
+          "frames": [
+            {
+              "id": "18b136e6-5498-4ace-9232-d0294ce419b5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9dabd0e0-a223-41ea-8282-4a3f2a894491",
+          "frames": [
+            {
+              "id": "21934309-248b-4a59-9f29-350a18b3b1da",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "635cc646-49b4-4e19-acb5-84e9482ef512",
+          "frames": [
+            {
+              "id": "94313a51-76d7-4c64-a6fc-1b35b3663be9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a00b9f3f-986c-4386-9a2e-4f82da4db51f",
+          "frames": [
+            {
+              "id": "008b59df-3438-473a-983d-baef25753162",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a14ee434-32cd-4119-b575-ebb8e97a5e31",
+          "frames": [
+            {
+              "id": "bc6ede8e-b664-492d-98b3-0a35f3e6e3de",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "298d6a9f-9763-4ebc-8314-5fcd73a56dd6",
+          "frames": [
+            {
+              "id": "83762c22-da2c-4246-aca5-9bb1a40a5253",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a38bb38a-e384-4e39-9895-eaea0f84ba64",
+          "frames": [
+            {
+              "id": "385b0631-c9ab-4066-ac01-25d07d1df05b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "beauty.png",
+  "checksum": "f984ff03dcd900481123d8979af7ee9b95f7b324"
+}

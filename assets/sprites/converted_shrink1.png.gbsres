@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c7a7978c-2b4e-401f-8f9a-f615a3aa26db",
+  "name": "converted_shrink1",
+  "symbol": "sprite_converted_shrink1",
+  "width": 56,
+  "height": 56,
+  "states": [
+    {
+      "id": "46bf2473-1863-48d4-825a-be769a0a9256",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "be4c5d59-e994-4654-8a9f-a497cfa649be",
+          "frames": [
+            {
+              "id": "9b1921a0-aa95-4318-8daa-8dcc4042def6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "52b35187-cb69-4b26-97b6-ec184c0f144a",
+          "frames": [
+            {
+              "id": "370883a2-5a44-470f-987c-d768afe1901b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "448db872-7743-476b-b5ef-86b87ad221b1",
+          "frames": [
+            {
+              "id": "f6739630-5bba-47c0-9254-6e308b65d42b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4c419315-db28-4c2d-b367-ee3be73f4c70",
+          "frames": [
+            {
+              "id": "dffa3595-86df-487d-ac64-d74eb157da74",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "48d9c6dd-f504-4ba6-9e43-4376b6fd5abf",
+          "frames": [
+            {
+              "id": "95d481c8-825f-4e75-bdf2-c6fc3b07261b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b5f6baa2-c98e-4a5c-85b4-550b0144754f",
+          "frames": [
+            {
+              "id": "b20b3e38-1e47-4164-bd08-c6b62b8a3cc5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "467b3321-6cc1-48e6-afe5-8518a3386790",
+          "frames": [
+            {
+              "id": "3105b2df-0527-4792-ae7b-e79f24e04b04",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "056d410c-68a2-412e-b744-a3e9f820df01",
+          "frames": [
+            {
+              "id": "ceaed0cd-41d7-4e80-bfd8-b58d4d99943d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_shrink1.png",
+  "checksum": "de9fc1b29921246477cd1e1a79f8e3680e7e8fa3"
+}

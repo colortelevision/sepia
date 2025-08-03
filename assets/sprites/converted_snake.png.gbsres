@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a3975cee-4cd8-43b1-a707-784353c29ac6",
+  "name": "converted_snake",
+  "symbol": "sprite_converted_snake",
+  "width": 8,
+  "height": 32,
+  "states": [
+    {
+      "id": "2a010679-fd38-4196-b755-0393f4c921b1",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "591b5cb7-d092-490f-a1b5-e790b86e077a",
+          "frames": [
+            {
+              "id": "f5229ef9-57ec-4b64-ad3a-3fe0a091bfe8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31a1e3af-54ce-47fc-af20-ffa2fc661379",
+          "frames": [
+            {
+              "id": "5e38c998-9e92-4b43-9202-016aaa530378",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef168805-2bc4-4a4f-89e7-d85272a6da8c",
+          "frames": [
+            {
+              "id": "31d5ea52-71dd-4bc8-89d8-a78b80b4ffa6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bf279795-18be-4629-a632-77343c864d11",
+          "frames": [
+            {
+              "id": "5af086be-8c2f-49d4-a55f-a096f2ed0b0f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ce7e7f4-7969-4a5a-9b04-825cba9f87df",
+          "frames": [
+            {
+              "id": "4b0c0ffc-e4b6-439f-87ae-6e312adf4e82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f05cb56-813c-484e-a7e1-8a44d67feb1b",
+          "frames": [
+            {
+              "id": "3ac8c15d-a92c-4973-8af7-785e38c404fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c73af5ae-83d2-4520-b2ae-7ca9fe475259",
+          "frames": [
+            {
+              "id": "8e834b58-e780-4aea-bd36-85552789583a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "97fba69d-ad6c-4f8d-b8ab-4a98e1bd49c8",
+          "frames": [
+            {
+              "id": "20c91a5d-a111-4333-a2fa-327ee4d50023",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_snake.png",
+  "checksum": "44cd68437443f5aed1980c14eaae95d572dfaf81"
+}

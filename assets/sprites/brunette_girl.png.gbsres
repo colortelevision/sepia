@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "aa4c2c22-8895-49b7-a911-e11ac4edc4e0",
+  "name": "brunette_girl",
+  "symbol": "sprite_brunette_girl",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "5e748a70-9493-4e27-8584-44898056ae4b",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e54990d9-2b99-4fcf-8bc3-c97862c4e7c3",
+          "frames": [
+            {
+              "id": "fd738a55-5243-47f7-b080-27a91d1acb9f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e60418b0-5537-4662-9f13-f1eb58235386",
+          "frames": [
+            {
+              "id": "5f0827bc-14c5-44f1-8231-fff5984277b1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2048a138-1747-495f-abde-d5d357f6d38e",
+          "frames": [
+            {
+              "id": "0ce69dab-656e-4f04-9531-2853fffcdc82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce4fe9c9-a4b2-40f1-84f0-89cae516dde9",
+          "frames": [
+            {
+              "id": "8b5dd964-5aaf-400c-877b-833a39c81d54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e7810d20-8dc7-4221-914a-cb7d0c98b125",
+          "frames": [
+            {
+              "id": "984befa8-e3cc-41d7-a23c-a7f5e26ab194",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e37cc57-ecbd-428a-b91b-642ac2a09dd5",
+          "frames": [
+            {
+              "id": "26d62745-5c5e-4cd4-a9ce-d2f045a6dc79",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ab55757-50bc-4cbf-9171-2ddd3a770d86",
+          "frames": [
+            {
+              "id": "8f221018-4411-4329-b888-e87b4d4edd1f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5bb83f36-df4c-4b2f-b096-a380fc2cf548",
+          "frames": [
+            {
+              "id": "33caa885-04d3-4a40-8bf4-0c094007e234",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "brunette_girl.png",
+  "checksum": "c13cd6f29de23a8a929d0d62db510c231c6dc09e"
+}

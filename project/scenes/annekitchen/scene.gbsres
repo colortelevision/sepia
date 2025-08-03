@@ -1,0 +1,146 @@
+{
+  "_resourceType": "scene",
+  "id": "aa0e6d07-2c7d-48fd-8c37-cd19a63bafcb",
+  "_index": 2,
+  "type": "TOPDOWN",
+  "name": "ANNEKITCHEN",
+  "symbol": "scene_19",
+  "x": 410.25631097694213,
+  "y": 3712,
+  "width": 28,
+  "height": 32,
+  "backgroundId": "dcbc0334-bc32-4dff-83e1-5bfa56b70122",
+  "tilesetId": "",
+  "paletteIds": [
+    "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c"
+  ],
+  "spritePaletteIds": [
+    "efbcb3c7-e1a2-42b5-93b6-653cf15a751b"
+  ],
+  "autoFadeSpeed": 1,
+  "playerSpriteSheetId": "6cae31e8-ca5c-4212-82c1-ae4e87eab94f",
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "LEMME DRIVE DA \nBOAT!"
+        ],
+        "avatarId": ""
+      },
+      "id": "5428f3d5-75a6-4f2d-a11d-e864e04fd568"
+    },
+    {
+      "command": "EVENT_CAMERA_SET_POSITION",
+      "args": {
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 14
+        }
+      },
+      "id": "4c9a5ed5-2b53-48bf-b1bd-4f95228eefea"
+    },
+    {
+      "command": "EVENT_ACTOR_SET_STATE",
+      "args": {
+        "actorId": "7592c39f-730d-4645-9fa1-7be61b723a54",
+        "spriteStateId": "jump",
+        "loopAnim": true
+      },
+      "id": "f09682b8-de41-4940-8242-e816a975de5b"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "WITH ALL DUE\nRESPECT CAPTAIN, ",
+          "YOU ARE ONCE-AGAIN\nSHIT-FACED!"
+        ],
+        "avatarId": "",
+        "__section": "text"
+      },
+      "id": "62399e12-4a8b-4f2f-a697-af8f9a44f566"
+    },
+    {
+      "id": "9f0dcbe2-6257-445d-a1c8-de6772177109",
+      "command": "EVENT_GROUP",
+      "args": {},
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_ACTOR_SET_STATE",
+            "args": {
+              "actorId": "52f14ff0-5281-45ad-b8a1-b1c267635b3f",
+              "spriteStateId": "Open"
+            },
+            "id": "1d93b8ec-6324-43b7-8a2b-89fcb470626d"
+          },
+          {
+            "command": "EVENT_CAMERA_SHAKE",
+            "args": {
+              "time": 0.5,
+              "frames": 30,
+              "shakeDirection": "horizontal",
+              "magnitude": {
+                "type": "number",
+                "value": 2
+              }
+            },
+            "id": "d4f20ed4-1622-45ee-a09c-031b5bc781a8"
+          }
+        ]
+      }
+    },
+    {
+      "command": "EVENT_CAMERA_MOVE_TO",
+      "args": {
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "speed": 0.25
+      },
+      "id": "11526dcb-4f66-4a1b-9108-f860f6c3e2e2"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "YO! I JUST MOPPED\nTHIS WHOLE FUCKIN'\nKITCHEN!"
+        ],
+        "avatarId": ""
+      },
+      "id": "3b620610-5fc1-4360-84e4-87d8e2d15558"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "d56b57c2-d730-4fd8-b8f8-4e5b1e1218f4",
+        "x": {
+          "type": "number",
+          "value": 109
+        },
+        "y": {
+          "type": "number",
+          "value": 5
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "8cc05395-885f-4192-abb5-2df36d213f76"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0fc+002+0f1a+002+0fe+00e4+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+008+0f4+004+0f4+004+0f4+008+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+008+0f4+004+0f4+004+0f4+008+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+002+0f2+004+0f4+004+0f4+004+0f4+00c8+0f38+0038+",
+  "autoFadeEventCollapse": true
+}

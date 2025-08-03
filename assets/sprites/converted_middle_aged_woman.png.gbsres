@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4c5eed02-ba35-40fa-b88b-2dd6aacc1420",
+  "name": "converted_middle_aged_woman",
+  "symbol": "sprite_converted_middle_age_0",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "941bab3a-2716-42b3-abad-3dd9f6868d61",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5ebc3f4e-afaf-4ef5-9df4-990e7ccc77ff",
+          "frames": [
+            {
+              "id": "4c0dacee-6323-44d1-a6f3-b35dbe88871c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1308dfbc-c2f4-49dc-9e1e-35d740c2719d",
+          "frames": [
+            {
+              "id": "13667095-c8a1-4fac-96bb-d75b4f5e3d16",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9baabd8c-c4c7-4aae-9c01-3583231fc256",
+          "frames": [
+            {
+              "id": "9ac43c17-620c-49c3-a232-f66d1b3c674c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3024213f-438a-4908-bd97-8276575a9cb8",
+          "frames": [
+            {
+              "id": "a21c6b05-bdd8-422a-83c7-e110c84ebf08",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4939a278-ae3d-467c-a276-207a235cf416",
+          "frames": [
+            {
+              "id": "b0d93499-1511-4882-8be4-82fd0845df2f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "866a3749-e337-4f39-8f06-f92f01165d0c",
+          "frames": [
+            {
+              "id": "faa0345c-c028-4bb2-a6d7-05867fab6605",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "183bd08c-525c-484e-8ac7-1904a159dca4",
+          "frames": [
+            {
+              "id": "906475ec-05cb-40eb-8533-985d0bd2a2e5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "325819b4-4ec6-404e-a740-01c4af5649fc",
+          "frames": [
+            {
+              "id": "c4e77d4f-8c7a-48cd-947c-e50516be86c6",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_middle_aged_woman.png",
+  "checksum": "90e7b13e9e826b3ea5af1ba046972ebee9737cda"
+}

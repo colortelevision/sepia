@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "553c57de-0d18-4eac-a713-00adbd45e9f9",
+  "name": "safari_zone_worker",
+  "symbol": "sprite_safari_zone_worker",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "970aa44b-f1b2-4760-932a-29cec3d4f555",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "36b2a553-3723-47de-b03f-38ec46fb3d1a",
+          "frames": [
+            {
+              "id": "7d9abf36-8b54-45dd-abe9-eb7e16a35443",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "000eed0a-382c-426c-b538-bb5556680803",
+          "frames": [
+            {
+              "id": "0966761a-44c6-4098-a91b-446401785f8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4f5333f9-0af7-4b2d-90fd-f97882912ce6",
+          "frames": [
+            {
+              "id": "b8aae5a7-fa47-4ead-b7ac-be0277963e1e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "14a3db75-5c4d-406d-9ac9-467e213536ba",
+          "frames": [
+            {
+              "id": "24cc3992-7768-4e49-82fb-660b9d048745",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f5a9fa05-db65-4c4d-8ec4-c5247d6d553f",
+          "frames": [
+            {
+              "id": "a3347683-8b30-4ba3-b1fc-f82aac62a0ef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3afe3003-1640-4b43-87b4-2f73261d470e",
+          "frames": [
+            {
+              "id": "83e56a47-b1b5-42de-aadb-366f72ec0df2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7a39ced2-f10d-4178-8237-4c48dd185988",
+          "frames": [
+            {
+              "id": "a7c199ad-63f9-4a2e-884a-affa3a050dc4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fcbced54-f7b0-4f56-b4b0-027dbfcbf2eb",
+          "frames": [
+            {
+              "id": "9ab4c30d-35c2-4384-b544-4000564731e4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "safari_zone_worker.png",
+  "checksum": "5052fff2f1a9b5b6d6aa759f9f8f01987605cf5d"
+}

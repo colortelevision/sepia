@@ -1,0 +1,24 @@
+{
+  "_resourceType": "scene",
+  "id": "7e0cf1a1-58f1-465d-a683-e8ffde4bba6f",
+  "_index": 1,
+  "type": "TOPDOWN",
+  "name": "Bills lab",
+  "symbol": "scene_18",
+  "x": 3584,
+  "y": 232,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "dbe51020-d212-4b47-932a-dfe6467caa4b",
+  "tilesetId": "",
+  "paletteIds": [
+    "1ac721ab-7254-4324-821c-72f1ad1d416f"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "0f2+0010+0f4+0010+0f2c+00!0f4+006+0f4+00!0f4+00!0f!002+0f!006+0f!002+0f!00!0f4+0010+0f4+0010+0f4+0010+0f4+002+0f4+00a+0f4+002+0f4+00a+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f4+0010+0f8+004+0fa+"
+}

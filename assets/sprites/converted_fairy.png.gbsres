@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "8c2c2a63-f20e-4155-8ea4-03d8652df62b",
+  "name": "converted_fairy",
+  "symbol": "sprite_converted_fairy",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "54a2e33c-483f-4efa-a188-d1d2258223b1",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0a7323ec-78fa-4c2e-9adf-34ddf5819ad0",
+          "frames": [
+            {
+              "id": "99d4d013-dc0b-407b-be7b-e6de5c3e95f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9653e9a3-476e-439d-a764-d0c45bc1de77",
+          "frames": [
+            {
+              "id": "f1923c29-b891-4b1b-bbd1-6af60b8a6c25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5aff7215-bb45-45e2-a120-e7b649668617",
+          "frames": [
+            {
+              "id": "5b3f41e7-05c8-4d15-b58a-e9893f1399e1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d5724b20-8ac9-4b94-a589-b012c9274a2b",
+          "frames": [
+            {
+              "id": "c8118ec4-48d8-4e0c-ac73-bf23f9f3178f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4c1ba027-e436-4f07-9ac4-b6617f13683c",
+          "frames": [
+            {
+              "id": "bece09cc-e3d4-4701-98d4-cd3ee3f70942",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "58878a32-8469-4c95-978e-ce08d23912c7",
+          "frames": [
+            {
+              "id": "1913411e-3d52-43e0-93b3-f210fba77eef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "74f94dce-ed6b-4f1c-838a-a58903ead05c",
+          "frames": [
+            {
+              "id": "2288e661-4741-45da-90d2-7779fe74b4b7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd5ca0a4-5988-4e78-81b1-a50fc3851455",
+          "frames": [
+            {
+              "id": "51b36aea-402c-442e-9dde-f9439426781e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_fairy.png",
+  "checksum": "7d5a8964d3e81c649d902f3b714698c1e26beffe"
+}

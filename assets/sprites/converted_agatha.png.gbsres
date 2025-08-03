@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "3e55d57b-cec4-4ce0-b552-11a7d13c7f8b",
+  "name": "converted_agatha",
+  "symbol": "sprite_converted_agatha",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "433d2e1b-d9bc-40a8-bbc4-1512f5d71227",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4e080c42-324f-46c3-965a-54a60b0cc10e",
+          "frames": [
+            {
+              "id": "cb84df6e-b8f6-4e28-84bc-05a08ae20bc1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6f41f5ac-3a57-4da0-aff2-bc2ce0e435a0",
+          "frames": [
+            {
+              "id": "35ad8ccf-45dc-4e9a-8432-2a314dc73a30",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3bb73737-a086-443d-b808-e274a979bad6",
+          "frames": [
+            {
+              "id": "56bd64e1-2132-44bf-9158-cf8e0103f42d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0bed2ff9-0ff3-485a-b9be-9830104ac2c5",
+          "frames": [
+            {
+              "id": "3ce7f713-886f-46ef-a909-b5330222bf4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b6882d1-0dc8-4672-b9e7-b6a9a8aff7be",
+          "frames": [
+            {
+              "id": "dce3bc95-63c5-4717-9a99-cddfa8a9c413",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f0fdbeb-efde-48c5-b1be-239acfd53276",
+          "frames": [
+            {
+              "id": "38e7dd2e-91ec-40e8-a25b-7e171c1539b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "33fdb54f-e94a-4277-9363-36d63eba3f5b",
+          "frames": [
+            {
+              "id": "0b538e89-571a-47fc-bffa-7c23a0f45365",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e439f3d4-27af-4369-8ff7-f7a4b9d553aa",
+          "frames": [
+            {
+              "id": "42a4a8f1-7d78-4f3a-8b12-f0d8bc1beeb8",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_agatha.png",
+  "checksum": "a7c9f415ec5a3dd28c9bda6c1276c8f2dc3730f9"
+}

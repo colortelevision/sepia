@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1f52adaf-62ad-44da-ab1c-7beb51b06df4",
+  "name": "fairy",
+  "symbol": "sprite_fairy",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "1458c844-face-484a-aed5-526a2629bcdf",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "65deadc5-aa61-450f-8a68-a5259611b2d8",
+          "frames": [
+            {
+              "id": "3edb361d-c539-44e1-ae88-0ae023ae7db9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e28ca00-92d8-44b7-a500-c1b2e5e678c7",
+          "frames": [
+            {
+              "id": "67e48612-9aaf-4b1b-a6b6-d8d57e5a67c9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4ee98e81-79bd-44f0-9eb7-d59c2c653539",
+          "frames": [
+            {
+              "id": "62f24423-c79e-4bdf-a968-fd79081e1335",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d915fa6d-e131-49fc-a86c-441723c27f1c",
+          "frames": [
+            {
+              "id": "a8b9055d-beb0-4e38-a560-332930036bcc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10d0cf03-e8c8-47a1-9cf1-73b5ed846e38",
+          "frames": [
+            {
+              "id": "996fea66-1969-479a-9675-15684fa08620",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4048c452-905d-48f7-9464-1df09505c09f",
+          "frames": [
+            {
+              "id": "09d869f6-8e8a-4988-a2bb-b0adf9093cc5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7c5cb073-6c9f-4e9a-ba82-04c8055b2e73",
+          "frames": [
+            {
+              "id": "d11c1556-8f79-4150-9dea-85d097b4e80b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "81c5aab0-e581-4c44-a9fd-fb4bffd828ab",
+          "frames": [
+            {
+              "id": "311e5be6-9c33-47f1-b8af-73ff0ba270b0",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "fairy.png",
+  "checksum": "1165922c302a175250a73713bd61234068f03d73"
+}

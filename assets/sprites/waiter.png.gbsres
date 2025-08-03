@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "753fa6d3-a22b-401e-a8e4-166748babdf3",
+  "name": "waiter",
+  "symbol": "sprite_waiter",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "03ea485e-e988-4373-900a-a76d66de8fda",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4977c88f-4826-44c2-b86a-2cd5b249fdcf",
+          "frames": [
+            {
+              "id": "f8115fb7-eaf4-446a-a5f1-9b02e3fa922d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1ceb8f76-b52c-4e0e-8643-8b3feeece93e",
+          "frames": [
+            {
+              "id": "03629ea7-4663-456c-85fa-7e0b4f94ade2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a61d101c-2036-441d-a9ae-61439ba6f1a3",
+          "frames": [
+            {
+              "id": "be2275c5-8e7e-4b05-93f1-925866bdbf1e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "17895465-54ee-4145-aced-f98f13f3fa8b",
+          "frames": [
+            {
+              "id": "392209aa-72a9-4cba-a6b7-555fb3bf8bf1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5056e920-e560-403d-86bc-5601f43783fc",
+          "frames": [
+            {
+              "id": "46ede94b-d052-4278-979d-238194019367",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a4ed7b6-c2dd-4a91-899c-19c8157a534d",
+          "frames": [
+            {
+              "id": "72d43c29-32af-4851-a1f5-3c8d80ab00db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "be91d97d-ba54-4298-b200-6c49716bfcf8",
+          "frames": [
+            {
+              "id": "1174cd0e-429b-4d2e-b78f-25ea80b3e9b4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9eb3ee74-60ea-4bca-ab3a-e577e4c30775",
+          "frames": [
+            {
+              "id": "93d4278d-cb0f-4708-8c7c-2e35d6d751cc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "waiter.png",
+  "checksum": "f416b14c8b6eb6e2a1b2be734fce27463c75ab41"
+}

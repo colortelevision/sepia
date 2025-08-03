@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "b4376fea-a768-4b0e-8c48-dcab839951b8",
+  "name": "converted_mon_nest_icon",
+  "symbol": "sprite_converted_mon_nest_i",
+  "width": 8,
+  "height": 8,
+  "states": [
+    {
+      "id": "3475c1a7-c15c-4f52-b437-3f8d85f40c4f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "caca6f51-368c-4ff0-b2a5-a833e136715f",
+          "frames": [
+            {
+              "id": "0b6e18be-e519-4e6b-b085-2e1b2e1ff708",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b0ff6e8b-fc6e-4928-aeb0-6f01ddae9fcd",
+          "frames": [
+            {
+              "id": "21323101-d093-44b2-9416-cadb40d231b4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2164c2eb-e571-45f4-b544-09379a3a6ebd",
+          "frames": [
+            {
+              "id": "0f1726db-0535-4121-95da-235516cde146",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c48f68ae-4ded-4547-ad5e-e9e4890838e0",
+          "frames": [
+            {
+              "id": "bad38919-2736-4238-9e94-646be72b6f25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c3a73ac6-ccd1-43cb-a341-6c50855cf8b6",
+          "frames": [
+            {
+              "id": "14e17ae4-4dec-4065-a1a1-373d3090bf1e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f64aee83-6700-48ef-b323-dff1ec1b640d",
+          "frames": [
+            {
+              "id": "cc504b32-a12d-474b-a191-9bf821c58c6f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b1a0c4b-1c2f-41d2-bdf6-0ba8c22a80c0",
+          "frames": [
+            {
+              "id": "a426ce15-ed89-4561-a366-2dbe62e09034",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1acbfd16-a5cf-4435-98df-78b32cecdaf7",
+          "frames": [
+            {
+              "id": "c496a136-6608-4d11-9d88-bb05ffc5212d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_mon_nest_icon.png",
+  "checksum": "a75212ed00ae5ed06f9bb3a9f2a98d3935d5cea9"
+}

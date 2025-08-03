@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "0b3d26ef-b439-4bfa-b5ab-cdb8723f31e8",
+  "name": "pokedex",
+  "symbol": "sprite_pokedex",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "c348b5da-853d-45a0-b693-2967eac86460",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "01e73429-e86a-4dcd-b5dc-b56a940ee42e",
+          "frames": [
+            {
+              "id": "c62ccbbd-7c37-4503-9e49-6cab0272eb75",
+              "tiles": [
+                {
+                  "id": "0ac5e0b1-a27a-4f8c-a6da-449ebae573e3",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "4225f2c8-763d-447f-82ea-4d56a09225e1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c525fb28-88ed-457a-809f-6dae9f0165b8",
+          "frames": [
+            {
+              "id": "2044dfa0-bae6-41bf-80c0-17783640eeab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b6b51f9f-cfff-4028-9e58-c703dcf9fc0a",
+          "frames": [
+            {
+              "id": "fb6968a2-506c-4e0b-9d18-678a653bfbda",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5758e71b-8e84-4fde-9318-403cd5c110fa",
+          "frames": [
+            {
+              "id": "ec54c422-19ce-4565-a5eb-bac530dd65bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "37f79db3-6166-4029-9b4d-45f154197295",
+          "frames": [
+            {
+              "id": "31db4462-f5f5-4e0f-a514-ac20eca645e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c881c10f-ab09-4f6b-b0e4-40561bef6b54",
+          "frames": [
+            {
+              "id": "687a72d2-97ec-49be-8bfb-eab9073aa602",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ddb72cc-5895-4517-a27e-3faf48dc34ef",
+          "frames": [
+            {
+              "id": "a0a7cdc2-8559-4ec3-b6c5-a78427a2a644",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8ea51259-1a00-46b7-abbc-13da3b89829f",
+          "frames": [
+            {
+              "id": "a5e32537-4b8d-4e31-8020-1b4a94dba904",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "pokedex.png",
+  "checksum": "297b2d76d65f34ae696dd7df4238a426d56df785"
+}

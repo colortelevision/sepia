@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f018e925-38ef-4db5-a41f-76d6eaa7da46",
+  "name": "converted_blue",
+  "symbol": "sprite_converted_blue",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "c91072c6-4ec4-444f-8142-0aeb8142dfe9",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "80ed0a7c-b548-4739-a896-838385ba10e8",
+          "frames": [
+            {
+              "id": "9d465a6b-0936-439c-b785-863653181382",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df00fb73-5fc0-4ca9-9742-ef9bfa60301b",
+          "frames": [
+            {
+              "id": "8aa2aa93-2174-42cf-9fc7-805cc218c5eb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f3d33f09-2892-499c-83b3-c735f20af55e",
+          "frames": [
+            {
+              "id": "05a9ce6d-4a20-4bcc-89e7-b39f94313ccb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a2dea72-0edf-43cc-aa39-f10e78f5b97d",
+          "frames": [
+            {
+              "id": "9439744b-51b0-48d7-ab77-1ff2dca09c56",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d3a94390-b1d3-4969-8c3b-80da387f8579",
+          "frames": [
+            {
+              "id": "1c38f282-3c1a-4129-ac39-1f9c5bb68127",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0f81d0f4-02cd-4cba-b6fc-d07f4fa89207",
+          "frames": [
+            {
+              "id": "17cebda5-0b59-4aa1-850a-f78d5847e46c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "efcea844-afd7-4bcd-afcf-da26a76cb8db",
+          "frames": [
+            {
+              "id": "3c97fa33-9665-409a-a452-74da6be2bdfa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1a89a43b-e8a1-4072-8f5e-a449ca4d0869",
+          "frames": [
+            {
+              "id": "4835c68f-160c-4282-a8cd-bb5ba79ba60e",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_blue.png",
+  "checksum": "1aead7f4ae955ec245482b5ef5ff67bc4b14af16"
+}

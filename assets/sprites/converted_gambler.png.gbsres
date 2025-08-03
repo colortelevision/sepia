@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "cde87bae-c05b-4275-a8d0-00c9b86d7485",
+  "name": "converted_gambler",
+  "symbol": "sprite_converted_gambler",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "4c18910a-c7d4-4307-8d5b-dde5d98dae96",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "72ed5bc8-ef55-49fb-aaed-58a85e844735",
+          "frames": [
+            {
+              "id": "bd32e774-7f4f-43f4-8c65-2790eafbd7e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4c3c4512-8a8c-4078-b251-a2d8655a68f4",
+          "frames": [
+            {
+              "id": "220feaf0-a0c1-4385-90e7-8a761aae810e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0827f391-9476-4b8a-b0cb-27148b85ecd1",
+          "frames": [
+            {
+              "id": "92cbb6bd-4a96-4c26-9e72-86ee378c4f48",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "585c7050-8b05-4ab4-a1e4-16fcd1b0fb98",
+          "frames": [
+            {
+              "id": "d04cb4d3-8b19-4e22-979b-d0f4d1639d76",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "712e90ac-e4aa-4586-ae61-a6819294eabd",
+          "frames": [
+            {
+              "id": "c11e3acc-96cb-4649-bfcc-9a0e71e69776",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0833cb33-b33d-493b-9669-83f01c75689e",
+          "frames": [
+            {
+              "id": "b7056440-f16d-482f-82bc-03816a1c14c1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96ad711c-1184-4e92-997a-96ab60cf4f18",
+          "frames": [
+            {
+              "id": "53146126-68c3-4b1f-ac06-738b2d4cb59d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5126a232-5d75-4334-bc60-9c0da77ab191",
+          "frames": [
+            {
+              "id": "22a52372-7a50-43c9-b839-245fcaad57f0",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_gambler.png",
+  "checksum": "ab25a4e61899ef6ace03509f997ce74899b721eb"
+}

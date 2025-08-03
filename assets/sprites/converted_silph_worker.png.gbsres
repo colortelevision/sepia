@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "af4dfb79-5396-4682-81b4-f60914cf1c30",
+  "name": "converted_silph_worker",
+  "symbol": "sprite_converted_silph_work",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "00d52201-cb26-4589-b84f-25496c580e29",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "a4cec006-495e-4786-a282-40f192dd57f7",
+          "frames": [
+            {
+              "id": "61ce12d5-9d5c-404a-881c-29762e73ad06",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b2e487c7-ee84-4061-ab7b-ec64e271057b",
+          "frames": [
+            {
+              "id": "fe12941a-5cbe-438e-beca-5e356b6f8204",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da729989-6e02-4412-99a8-57e1619075c9",
+          "frames": [
+            {
+              "id": "6b81c69f-7001-49f8-9660-c1a435b19b4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3cc42457-d7f4-439d-970b-479631bb5a9c",
+          "frames": [
+            {
+              "id": "6c19f474-ea05-4c25-9898-fec4f1cceeaa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cb299c5b-1809-42e7-aca2-d014f6593479",
+          "frames": [
+            {
+              "id": "14884ec1-09e2-439d-8554-e8e5ea76fa83",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "430acf43-b8a7-487c-880f-afb2615630d2",
+          "frames": [
+            {
+              "id": "3db780f9-64bd-4cc2-9a9e-e04d20cf7901",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f83e927-6432-4764-bfff-84f5dd0a4591",
+          "frames": [
+            {
+              "id": "88452cd6-acf5-4813-afae-da0152b026bb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b20c0549-02ca-4f09-988a-cd63af7f19bb",
+          "frames": [
+            {
+              "id": "65f30a1c-08bf-416f-9550-d30ca04e1420",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_silph_worker.png",
+  "checksum": "95b789584bef3becb8ecd8939ebba408f13e9f8d"
+}

@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "63db0612-a079-490d-b0ee-9e6dccf354ba",
+  "name": "converted_oak",
+  "symbol": "sprite_converted_oak",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "722771a1-8043-484e-906f-8ed11de5bb51",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "7943181e-7fba-41d7-9d69-68d6b2a55cd8",
+          "frames": [
+            {
+              "id": "df814570-d5a0-4fbc-ac9f-bb4762d65d29",
+              "tiles": [
+                {
+                  "id": "7af27e71-b8a4-4d3a-95f8-247d02d4500d",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "ce9ec370-396c-467f-a4ca-7eacefed7d32",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7f34981f-d330-4f27-bd65-a6eef0cb0a1d",
+          "frames": [
+            {
+              "id": "f0fdde24-5f43-4304-93a7-142033cbd5bd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bb184ba9-c088-4612-bb5d-fab6fd8af53f",
+          "frames": [
+            {
+              "id": "37be5e47-a2f3-4871-964e-76934e5d7e8f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "205bc09c-6619-4578-9287-e0735f56b2d7",
+          "frames": [
+            {
+              "id": "2b2b6ac6-59dd-4abe-90cd-e82ca0080a3c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ab62d399-be4f-4026-93a8-8ea3f6743dad",
+          "frames": [
+            {
+              "id": "cbeed3fd-386b-4e44-ac2d-5249e867bf02",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fe051e9c-1aeb-471f-bd4f-313fd0e6fe8c",
+          "frames": [
+            {
+              "id": "322c2caf-03ce-461a-925c-9bdad1d225be",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cec5fa54-4107-4dfa-bd34-6173be3d52a3",
+          "frames": [
+            {
+              "id": "bf3ef298-9e80-4e57-957f-b06f4f0bb641",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "659a39ab-3a59-4a20-b1d0-463185ef963d",
+          "frames": [
+            {
+              "id": "a2f554f5-4c7c-4d9a-a547-a6e73d8cc884",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_oak.png",
+  "checksum": "2c2362ed386a27861a9b12c256bbb0b878cd7044"
+}

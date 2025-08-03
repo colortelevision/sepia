@@ -1,0 +1,372 @@
+{
+  "_resourceType": "sprite",
+  "id": "a6d38159-6df8-468a-a9a0-6a804dc9f29d",
+  "name": "nurse",
+  "symbol": "sprite_nurse",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "3eb4b50d-8885-44e3-918d-737d664128eb",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "5f45ea23-2dad-4aa0-9ea0-0272eef11150",
+          "frames": [
+            {
+              "id": "44d7ff84-4c86-4bb2-acd6-8874d3322559",
+              "tiles": [
+                {
+                  "id": "d3de46cc-4b7b-4043-80ba-4de93504ac58",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "d1ad9942-d1aa-4671-8f4a-e9983bd62a24",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "533a963d-4a8c-45d5-b010-8465c8faf604",
+          "frames": [
+            {
+              "id": "2d9363d4-7ef8-4b60-bc2c-a1902763c952",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dba0a461-2827-4b54-9394-b937bd1cdff2",
+          "frames": [
+            {
+              "id": "856eb38d-b183-444c-bf6d-18c87af6b798",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ec2cf0cb-719f-4837-9e92-3039cbf44bc9",
+          "frames": [
+            {
+              "id": "269ec199-84c1-40d5-b931-7fa42172233c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2ab0a75c-104d-4a9b-bd7a-c45db8af021e",
+          "frames": [
+            {
+              "id": "96a33381-64f5-458f-aa7f-dc766ed9372f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bd1a4fc3-b7ba-4ff8-be97-126a635d57d7",
+          "frames": [
+            {
+              "id": "1e9f5e3c-8125-41b0-a0f2-45bc354be020",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9368260f-da94-4881-b198-fc4a2dcd1736",
+          "frames": [
+            {
+              "id": "48db87fe-c63c-4477-b2bb-52a99dd71002",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bccf65f9-4534-4fe7-a5d3-91aeb683d886",
+          "frames": [
+            {
+              "id": "cb1dcaf8-e280-4f8e-92ea-c040ad71fc11",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e662ebf-0e41-4ba4-9626-6b4bf6d33466",
+      "name": "New State",
+      "animations": [
+        {
+          "id": "2ffcd115-fbc7-449d-a45c-ce29002ee0f3",
+          "frames": [
+            {
+              "id": "f61c5fe7-2a0f-44ec-9b84-624b19c85353",
+              "tiles": [
+                {
+                  "id": "01e04b64-4e10-44bd-b5d7-1ed14bacad28",
+                  "x": 0,
+                  "y": 1,
+                  "sliceX": 0,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "8b612618-d9ca-4c53-b99c-ee6eb844c822",
+                  "x": 8,
+                  "y": 1,
+                  "sliceX": 8,
+                  "sliceY": 16,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "30b80bac-a644-470e-9749-2596a39e0577",
+              "tiles": [
+                {
+                  "id": "3cf2f27e-a0a8-4c2d-a225-39383b66dfda",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "ab041dd0-43ed-42b3-a738-3767d18e4953",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01934151-104b-4474-96e4-ed60bd21dfa4",
+          "frames": [
+            {
+              "id": "04558e90-ee35-40c1-aa27-915979c413f0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0788fd60-f37d-420a-b429-4ce0c63734d2",
+          "frames": [
+            {
+              "id": "37a5e5a6-fa92-453e-9b45-3ad80f50665f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "980e3a9a-9708-483f-a333-65a7e9d544c6",
+          "frames": [
+            {
+              "id": "d6c7bf92-7893-4bee-95f0-b351b78f9193",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7290d6db-c41c-4bed-850b-24c1e60e57ef",
+          "frames": [
+            {
+              "id": "13ade996-b800-4daf-88ce-cf61f5e88eac",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "21147d96-3f37-4fc6-a773-9318d6d6c243",
+          "frames": [
+            {
+              "id": "df3a8d67-f226-4027-ae08-78315101e6ef",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "96d07166-e01b-4865-b39b-e0800276e337",
+          "frames": [
+            {
+              "id": "c786f35b-8b16-4468-9613-d3eb8c097393",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "824be2b0-1b6e-445e-8bb2-dad33b80866a",
+          "frames": [
+            {
+              "id": "be313049-cbee-4a20-bfae-2b6ac786e757",
+              "tiles": []
+            }
+          ]
+        }
+      ],
+      "animationType": "fixed",
+      "flipLeft": true
+    },
+    {
+      "id": "cbfc10db-4a59-45c4-9bd9-5a00726363de",
+      "name": "New State",
+      "animations": [
+        {
+          "id": "fde6a0a7-da0d-4759-8ab7-41794dcabb68",
+          "frames": [
+            {
+              "id": "99293d2b-39e7-4c8c-8c7c-49bd57e38a23",
+              "tiles": [
+                {
+                  "id": "d764c20e-5d08-4b76-8fcc-724c2f36e26a",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 32,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "c574a4f1-9556-4de1-97cc-4b35fee39aab",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 32,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3ade3b99-5a4e-400c-baa6-5c99945f3982",
+          "frames": [
+            {
+              "id": "90809450-8792-4ab7-8a9a-67431fb0f68d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8250fa51-fa2d-435f-98c0-ba74c480d394",
+          "frames": [
+            {
+              "id": "626335ec-5660-4ac2-a882-94cf4aa48db6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef4a1752-c188-436a-93e0-f615c4867c3b",
+          "frames": [
+            {
+              "id": "4baf57ab-28c0-4d70-a877-58012e59dd3c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4e59e37-bacc-4cc8-851b-b4ecc9b92fbd",
+          "frames": [
+            {
+              "id": "ad21a63e-92af-41f3-91f4-8609cf956b54",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a3814b09-6610-41c8-a3f5-bf2977318f5b",
+          "frames": [
+            {
+              "id": "0893fded-d426-4f7b-b07a-5948e2412634",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f7f802a5-794d-4753-817f-52fa17178dc5",
+          "frames": [
+            {
+              "id": "c5819423-d89d-4653-8688-d3fab142e895",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7bbca2e9-39ec-4351-b4cc-01ab4a1408bb",
+          "frames": [
+            {
+              "id": "bf25ac84-54da-4c90-a997-63e4516f1035",
+              "tiles": []
+            }
+          ]
+        }
+      ],
+      "animationType": "fixed",
+      "flipLeft": true
+    }
+  ],
+  "numTiles": 6,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "nurse.png",
+  "checksum": "b0bbcf2b2a6e925c27730af5baf3fa20ceb64ecd"
+}

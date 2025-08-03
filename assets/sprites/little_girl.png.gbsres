@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "c3cbc666-4d18-4ad4-a3e6-fc7bcdbaf095",
+  "name": "little_girl",
+  "symbol": "sprite_little_girl",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "7e223fd1-b46a-4d4f-9c3a-10ecdd64c338",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "e5cdd49a-326a-4757-b6c0-8abec6ef7915",
+          "frames": [
+            {
+              "id": "62027ace-a183-4646-a45f-7aad384bd110",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2dc58bd3-05ad-404f-b26d-07237d7a5867",
+          "frames": [
+            {
+              "id": "d0b0055b-2b0e-44e3-9f94-d95151a4b2d1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8123e745-4144-4b0e-b079-bab5864392b1",
+          "frames": [
+            {
+              "id": "8a2dfe1e-06f0-4118-b2e2-fa2a188865b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "056e190c-365e-4506-92d9-2b3fb64eab05",
+          "frames": [
+            {
+              "id": "3d1a8b5f-18c8-47a2-92a2-b8e51ace5071",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e9c3d645-e26d-4781-a2fb-c08e4f94407c",
+          "frames": [
+            {
+              "id": "7213f406-3ae8-48aa-a9d7-26e1509181c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "50efa83e-d4d7-4119-95f0-acc4ffb362b6",
+          "frames": [
+            {
+              "id": "28ed6230-7cad-4696-8b6f-3df9aed3df6b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0bbeb97a-4218-49eb-b706-67ea4b5e8ab3",
+          "frames": [
+            {
+              "id": "76588484-ad7d-438a-bfe0-19074838f83b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b110477b-d93f-4df6-acca-99138dd8618e",
+          "frames": [
+            {
+              "id": "8d1fa77d-e931-456b-ab82-4b3ef8d1c1cf",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "little_girl.png",
+  "checksum": "30956ef2b7c271b9df18fc1ae354734dc6bdd6b4"
+}

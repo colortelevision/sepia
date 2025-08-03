@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "7ffbcc29-5843-4d5b-842d-d5c16fe65eb7",
+  "name": "converted_gamefreak_logo",
+  "symbol": "tileset_converted_gamefreak_0",
+  "width": 2,
+  "height": 3,
+  "imageWidth": 16,
+  "imageHeight": 24,
+  "filename": "converted_gamefreak_logo.png"
+}

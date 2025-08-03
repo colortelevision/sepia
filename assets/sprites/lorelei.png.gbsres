@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "be128637-c477-4df7-807b-cc3020028043",
+  "name": "lorelei",
+  "symbol": "sprite_lorelei",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "7a765de2-b152-456c-9ef8-aac5a9002a59",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "14fed34c-0095-4d7f-b69c-5567e3655403",
+          "frames": [
+            {
+              "id": "c736e36f-09ec-4702-b8a5-3e368c482ee1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f14f8ed8-ed3c-469e-be97-2da8990a69d1",
+          "frames": [
+            {
+              "id": "3c92e4b7-f9d5-4a30-8bd0-1695c835dec7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09650a5e-6aaf-4f1d-a72d-c406be171200",
+          "frames": [
+            {
+              "id": "96fc421b-a9d5-4f9c-8fc5-01b8ca039a50",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a5767da7-37c1-4fcb-8fb7-f8020838d241",
+          "frames": [
+            {
+              "id": "6e7219fa-6956-426b-9c66-1baf14b64ea2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d698a40d-2fd6-4a82-a411-28aa4e0edd4f",
+          "frames": [
+            {
+              "id": "a5919878-55d2-45ef-8c8f-7950306014a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "eb13096c-a52b-4f30-baf6-7b50800ca33a",
+          "frames": [
+            {
+              "id": "2540cc2e-268c-4241-af77-10d8277d5ac8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "339fe001-1190-4c43-a99d-2c024ccd6447",
+          "frames": [
+            {
+              "id": "5771edc9-86b9-4c20-9151-2c89084c4166",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "30b3067a-c28f-4945-9865-3ff7c988cfd4",
+          "frames": [
+            {
+              "id": "b0d2a904-0fe1-43c7-810f-345240a9732c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "lorelei.png",
+  "checksum": "27c824e18859ca1658413bb5256da19ba279c87e"
+}

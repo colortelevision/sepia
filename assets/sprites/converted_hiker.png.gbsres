@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "bb33a14f-3321-4837-92d2-bceee392dc18",
+  "name": "converted_hiker",
+  "symbol": "sprite_converted_hiker",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "9a389870-41d9-4567-98c8-37cdf3f41fb3",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "4d993886-f470-4bd3-81c9-9d221b4085d1",
+          "frames": [
+            {
+              "id": "3ed5b10c-8821-4186-89fe-dd51fd4e45ec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "26f8dcf2-6a19-4403-b222-1349300a27e6",
+          "frames": [
+            {
+              "id": "fc93b67a-0357-4d7d-bf68-e83f74f47b4b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f5b3e75f-43b6-49ac-a0b2-e3126cfcaf4c",
+          "frames": [
+            {
+              "id": "8fe2e425-1b23-4bef-a2e0-7056dc5a7013",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "39e011aa-115d-4ae5-94ae-7cd1c58017d6",
+          "frames": [
+            {
+              "id": "8a4a9351-1bb9-4eee-9a2f-4383f269e94b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ff8bf155-6835-483b-94e9-b8409a441e85",
+          "frames": [
+            {
+              "id": "c6b82508-52d3-4b97-86ba-fa07c7c8c279",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5a954faf-010b-4e03-a23f-52ee5247a4a2",
+          "frames": [
+            {
+              "id": "a6d7a642-dd4f-4df5-9eb6-0993092022b5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f279f218-45f2-45cc-b8bb-aa4e09302b68",
+          "frames": [
+            {
+              "id": "0ffe410b-2560-475b-b00d-2a2f21735e15",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "85ea75a9-b3ba-46f2-a870-d0bf43b70a78",
+          "frames": [
+            {
+              "id": "74bc92ea-d0ad-4eeb-b560-cd87aaff0e7b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_hiker.png",
+  "checksum": "17de02bf37316ae533b4b53f43b189b9c4c85322"
+}

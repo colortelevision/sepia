@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "2cd871ad-0c50-4c30-bc55-a705c42a8491",
+  "name": "youngster",
+  "symbol": "sprite_youngster",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "9e0677a3-361e-4ed4-a771-0e94ce20eaad",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "dc75c013-1338-48b0-b6de-d833ecb80318",
+          "frames": [
+            {
+              "id": "ceac99ab-8fa7-48c3-a8f0-560475c9392e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5548bd33-347f-4dfb-a112-2c6d6a9f798f",
+          "frames": [
+            {
+              "id": "b9aebd07-8ca4-4deb-913b-e7ff00278ae1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ae77b3ba-be8f-48f7-a12a-8fd3bea02695",
+          "frames": [
+            {
+              "id": "29122375-a30f-4995-a295-307006662f82",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "189d90c3-f217-40ef-b26f-5b134e75e5f9",
+          "frames": [
+            {
+              "id": "c38a7a68-3c57-4550-8c43-bc29340307d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89e6ccc4-adde-4a6b-9477-a008a0270a7d",
+          "frames": [
+            {
+              "id": "6c76fe49-d299-49f1-97c0-035936a2eed9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c91652a5-981f-4592-a1d2-ec60c3f70649",
+          "frames": [
+            {
+              "id": "1ad43ce2-9a77-4339-98c4-644e95af423b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "10a35c76-fe26-40ae-97c5-58dbcc8d3758",
+          "frames": [
+            {
+              "id": "5b0e4044-14f9-4553-92d4-6b7064e35707",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d52156a2-1cf2-43b9-9452-bbf73b272033",
+          "frames": [
+            {
+              "id": "e8d7e244-89c7-405e-ac2f-39b3885441ab",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "youngster.png",
+  "checksum": "f5646f47ed7f6eb94fd5d2b7f85d014292f3edc1"
+}

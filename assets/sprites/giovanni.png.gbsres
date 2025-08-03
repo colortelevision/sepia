@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "b29dbf8f-a8a4-4ee0-b097-bc771372eb05",
+  "name": "giovanni",
+  "symbol": "sprite_giovanni_0",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "0cf338a7-3da9-4630-a2ee-f31fb9a89227",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "8d6404ec-6807-4470-b1df-4be9a12dffcc",
+          "frames": [
+            {
+              "id": "8e2bc562-5876-4d3c-a0b1-3b0db5e7dd40",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6f701f0b-a978-4bc4-b496-220392ec884b",
+          "frames": [
+            {
+              "id": "07394561-b49c-44e1-84c8-662b6d82a497",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef7581c4-b764-4c3d-8ad7-bde6918986c9",
+          "frames": [
+            {
+              "id": "0969fb3c-236c-4e51-a3d2-cd6a068e54fe",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "86ed4fe4-7360-4866-956c-f5aa0a1270ed",
+          "frames": [
+            {
+              "id": "e21c62c9-d65f-4bf1-9df3-c347a2bf7f90",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2fbe8f5d-a79f-44c5-b2e8-83da60040d18",
+          "frames": [
+            {
+              "id": "0100b860-7f69-4db8-b7ce-d144a5a7c659",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cf0d5a6a-7a72-4d19-8435-178604793e29",
+          "frames": [
+            {
+              "id": "aa5a51c3-18cb-4d59-9b2a-4bc19caf3a6a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4c64eafc-5a74-49d7-8d5c-0c8242529d6f",
+          "frames": [
+            {
+              "id": "ff3451dd-fba5-4d8c-b5fb-2d5e91a27fa6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2a4fe6b5-a6cb-41c7-af22-4e535cc2bfac",
+          "frames": [
+            {
+              "id": "dc51c93f-8881-4ee2-92b4-18176a9a4736",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "giovanni.png",
+  "checksum": "2b1fa283a41f72ea3dfc5b38c019cb01a5fdd9a1"
+}

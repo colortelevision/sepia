@@ -1,0 +1,39 @@
+{
+  "_resourceType": "trigger",
+  "id": "481df26a-6950-4e38-b12d-cef6b625b763",
+  "name": "CABIN",
+  "prefabId": "24e0e274-7eed-4a04-92a5-a7cadd00e51f",
+  "x": 14,
+  "y": 17,
+  "symbol": "trigger_93",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_ADD_FLAGS",
+      "args": {
+        "variable": "26",
+        "flag1": true,
+        "flag2": false,
+        "flag3": false,
+        "flag4": false,
+        "flag5": false,
+        "flag6": false,
+        "flag7": false,
+        "flag8": false,
+        "flag9": false,
+        "flag10": false,
+        "flag11": false,
+        "flag12": false,
+        "flag13": false,
+        "flag14": false,
+        "flag15": false,
+        "flag16": false
+      },
+      "id": "291e37a8-8851-4cd0-8dc7-01b6d4eb6fb0"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 3
+}

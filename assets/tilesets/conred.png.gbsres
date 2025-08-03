@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "df824505-8697-41fa-9daa-4c95b59d96c8",
+  "name": "conred",
+  "symbol": "tileset_conred",
+  "width": 7,
+  "height": 7,
+  "imageWidth": 56,
+  "imageHeight": 56,
+  "filename": "conred.png"
+}

@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "79939cb2-43af-4620-a80b-da66671924f4",
+  "name": "pokemon_logo",
+  "symbol": "tileset_pokemon_logo",
+  "width": 16,
+  "height": 7,
+  "imageWidth": 128,
+  "imageHeight": 56,
+  "filename": "pokemon_logo.png"
+}

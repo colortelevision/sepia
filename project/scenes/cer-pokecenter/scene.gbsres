@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "4b1fa03a-cb3d-4330-bfd8-dcb8361cee6f",
+  "_index": 12,
+  "type": "TOPDOWN",
+  "name": "cer-pokecenter",
+  "symbol": "scene_29",
+  "x": 874.2563109769421,
+  "y": 184,
+  "width": 28,
+  "height": 18,
+  "backgroundId": "39bca473-5892-4216-aeda-c39ce6d9e3fb",
+  "tilesetId": "",
+  "paletteIds": [
+    "062ddcaf-33d9-457b-a61c-eaad7c657fb2"
+  ],
+  "spritePaletteIds": [
+    "062ddcaf-33d9-457b-a61c-eaad7c657fb2"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "008c+0f16+002+0f6+0018+0f4+0018+0f4+0018+0f4+001a+0f2+001a+0f2+001a+0f2+001a+0f4+008+0f4+008+0f8+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f5+004+0f12+",
+  "playerSpriteSheetId": "39cf8640-d916-48ad-a883-3b1c6ccffe35"
+}

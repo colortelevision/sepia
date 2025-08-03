@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "364ab750-5524-474d-a960-6ecfb11fab3d",
+  "name": "warden",
+  "symbol": "sprite_warden",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "66150486-75cb-40e2-a9b7-497b3b359cb2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "9de4f75b-265f-4bd0-a9a9-700199ff8465",
+          "frames": [
+            {
+              "id": "4455323f-9cc1-433b-a630-f226a22803fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "95fdb02e-31af-4529-acda-1b0da6a8c47c",
+          "frames": [
+            {
+              "id": "babc379f-b501-4949-bd97-8047ea44b75b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c4fb4c8f-01a7-4fa7-96dd-e570ad74df3f",
+          "frames": [
+            {
+              "id": "898d4219-e3b1-4dc0-aa20-d6cc9424e49e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "568f9172-c497-45c9-9830-940f3b0d077d",
+          "frames": [
+            {
+              "id": "bf0658c6-fda4-4c0b-b37d-a2f96c14bb28",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77900db8-a182-4c22-9a50-c0669570a1da",
+          "frames": [
+            {
+              "id": "f4005af6-16f2-4a71-9c7d-1d5e0dc50860",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa672285-aaf9-4002-b7f6-326a9e96873d",
+          "frames": [
+            {
+              "id": "17875b86-8401-448f-88f9-5a16a40c2863",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "989d0dd0-1ce1-498a-ab56-4a8f0119fc54",
+          "frames": [
+            {
+              "id": "eac4f4e0-eefa-4d7b-bf9b-61b6219e9ba6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dcaa6496-31cf-4e4a-9ddd-3a6dc5b1a8b6",
+          "frames": [
+            {
+              "id": "9f17f4a0-8974-4275-aac1-e43690f4da23",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "warden.png",
+  "checksum": "c00aca21374fe20d1504063ca7f55dad76996d74"
+}

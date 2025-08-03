@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "65643cd8-635f-46cf-a630-006641f368a4",
+  "name": "green_slots_1",
+  "symbol": "tileset_green_slots_1",
+  "width": 16,
+  "height": 3,
+  "imageWidth": 128,
+  "imageHeight": 24,
+  "filename": "green_slots_1.png"
+}

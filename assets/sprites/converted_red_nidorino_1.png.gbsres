@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "961d92db-4229-4d2b-88c4-ccbcf678c63d",
+  "name": "converted_red_nidorino_1",
+  "symbol": "sprite_converted_red_nidori",
+  "width": 48,
+  "height": 48,
+  "states": [
+    {
+      "id": "668620e8-c8a4-4c8b-beca-fd6f5e57a233",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0af0bcfb-80a8-41e8-9bc1-3257c2f51e60",
+          "frames": [
+            {
+              "id": "7ff8fba2-a3ee-4aad-a6af-475466eba9ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3fe52c53-71c8-4b9f-9820-e0e3e2895b7b",
+          "frames": [
+            {
+              "id": "1b0b300a-342f-47b9-9ed7-2455103c34d8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "1c5507dc-860f-4603-9a91-b5040ff4a9f5",
+          "frames": [
+            {
+              "id": "bb5ee57a-0865-4480-8825-8a2f99b4cefa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "966aac5a-b50b-4713-9f6d-b88a19fa481d",
+          "frames": [
+            {
+              "id": "f9bf08cc-0af1-4ed2-8432-907fe01e48fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "97a86538-b8f4-477f-bdcd-8e669468a7dd",
+          "frames": [
+            {
+              "id": "0437f410-f2f6-48ad-9307-12a9ae102c8d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0a09dc2d-c98f-46b4-8861-57c17e9e223d",
+          "frames": [
+            {
+              "id": "44afecfb-5985-4d00-bfe5-73bd368127cf",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3db54198-60e1-42dd-bac1-9d6c134c570c",
+          "frames": [
+            {
+              "id": "f3241946-471f-488c-a39b-55027f650930",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc5b7ba9-71aa-47f1-a37c-4001efc135d3",
+          "frames": [
+            {
+              "id": "90231bc3-b666-4f08-8e92-e5d9d0736cbc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_red_nidorino_1.png",
+  "checksum": "b6f2100514cfd7bb8f7baea41d436e88c936bce9"
+}

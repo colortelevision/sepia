@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "0f1d5949-b64b-42f3-bfee-6800ad20c9d2",
+  "name": "converted_erika",
+  "symbol": "sprite_converted_erika",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "9cdf4d84-f61b-435d-bffe-7f650ab41024",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f2717fba-6eb6-4445-bf0a-195d94bcb2a3",
+          "frames": [
+            {
+              "id": "07d0c007-3827-428b-ac32-12fbcfb505be",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "12fb0626-85b4-4d0c-97b5-b6bf4966b545",
+          "frames": [
+            {
+              "id": "f7544356-0fc4-4cad-89f5-197d04488974",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d0738d9d-d3c8-45ee-84de-a65fde19b0da",
+          "frames": [
+            {
+              "id": "3c484e69-c032-4837-ae05-680dce636e40",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "27d562ac-8e88-4b64-a5df-d5efef96736a",
+          "frames": [
+            {
+              "id": "e8264de6-831c-4d1b-948f-cd33b301b9ee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76c9442d-59f5-4fcc-a925-390e0d73ce8f",
+          "frames": [
+            {
+              "id": "698502c8-d630-4a2d-bfad-232188a8841f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "22b8c08e-d7a5-40ed-890a-422c2df1ea27",
+          "frames": [
+            {
+              "id": "3b10b7cc-9c62-47b2-aa61-498c75baa61b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a88a5620-cbf0-4d30-911c-1ec52c2a5dbc",
+          "frames": [
+            {
+              "id": "2a3d2093-0ed1-40f4-a1f4-f1695bc02c2c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d1160c48-41a2-4f3f-acb8-52a02280d4c4",
+          "frames": [
+            {
+              "id": "b96f54e6-a614-4c24-aff9-149ef8209b27",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_erika.png",
+  "checksum": "f64ea03aaa7afd0a48778d3daa8325835464390e"
+}

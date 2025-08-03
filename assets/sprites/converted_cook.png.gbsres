@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "d1c2464d-bfdd-46b9-87a0-499b8e21e280",
+  "name": "converted_cook",
+  "symbol": "sprite_converted_cook",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "e62bb7d7-988d-4a38-a94d-7825219da412",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "0ebc153f-3250-430b-8ba2-83eb17028fbe",
+          "frames": [
+            {
+              "id": "1f3b85ad-51cc-4964-bf18-a6dcba80f530",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9112e339-cfa8-4b60-ba44-b832a9d954ff",
+          "frames": [
+            {
+              "id": "670692be-806f-4125-87ed-902639ab7e14",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d18088f5-4663-40ab-a3be-5f03cb8b2919",
+          "frames": [
+            {
+              "id": "bb4ad239-a05f-4d57-a1fa-724219198f19",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2560e455-1edb-4f50-9209-4bab97149956",
+          "frames": [
+            {
+              "id": "f089a7a3-67ca-4169-8478-0a6be0d352c6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b7a4029-4889-4270-9abd-13f81f4fb082",
+          "frames": [
+            {
+              "id": "0d9ccf39-7e84-44ce-9a95-8331b896b96a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "799aa198-092d-4563-b3db-6456029c64e3",
+          "frames": [
+            {
+              "id": "112b607d-f1ea-46c5-a3dd-6cf96a5187bc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3b817324-45ae-430a-9202-8fafb7bbe4cd",
+          "frames": [
+            {
+              "id": "5ec6e185-6fdb-4f38-895f-186c703b3bcc",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "06a7814d-cddd-41d4-8160-ef90149ebf97",
+          "frames": [
+            {
+              "id": "0445cbc7-4e6a-42b7-a1a0-dd29616337dc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_cook.png",
+  "checksum": "c9c10d9658f6771f6914c0d22e0e5adf9387d867"
+}

@@ -1,0 +1,75 @@
+{
+  "_resourceType": "trigger",
+  "id": "5078688e-1e39-42d0-80bc-833b99a15326",
+  "name": "",
+  "prefabId": "",
+  "x": 100,
+  "y": 86,
+  "symbol": "trigger_87",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": true,
+        "__comment": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_PLAYER_BOUNCE",
+            "args": {
+              "height": "high"
+            },
+            "id": "e9289564-a72a-4381-98ad-9f95e9a8ed94"
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 2,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 2,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": []
+            },
+            "id": "b4402796-fa66-42bd-92e6-bb56d3aaed2f"
+          }
+        ],
+        "false": []
+      },
+      "id": "c2758b03-9c80-44dd-be21-f5e02b07eaca"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a"
+      },
+      "id": "b96fe77c-6bdd-4311-89be-5128a4e9e63a"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 10
+}

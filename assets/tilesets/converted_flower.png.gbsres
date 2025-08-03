@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "37d55a0c-50bf-45a3-9f46-76c1e2e6193e",
+  "name": "converted_flower",
+  "symbol": "tileset_converted_flower",
+  "width": 2,
+  "height": 1,
+  "imageWidth": 16,
+  "imageHeight": 8,
+  "filename": "converted_flower.png"
+}

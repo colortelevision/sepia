@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1efae52f-1ff3-4019-9e63-2e69e214e6ed",
+  "name": "converted_balding_guy",
+  "symbol": "sprite_converted_balding_gu",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "fda946c7-7b34-48d2-92d6-b4e88b9ec1d4",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "273fba77-eab3-4e51-bb03-f9382a6c63a4",
+          "frames": [
+            {
+              "id": "8d918ec1-47c4-4560-9ed0-d319983da722",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0f903913-2e94-4a00-a771-b27781fd0919",
+          "frames": [
+            {
+              "id": "ab0f002c-bd08-472e-bf6e-2a13361a7c7e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b26d30db-eb0e-4eb6-81b5-d8b2b5d3c64d",
+          "frames": [
+            {
+              "id": "c1b955f1-4161-4c82-8f5f-021d0b6e5f3e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "44457014-9a9d-4cb6-bbe5-25f9248024f2",
+          "frames": [
+            {
+              "id": "a3ee3495-f7c9-42be-a639-2a008595eaa7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9bdd6911-50f9-44be-b6c4-8a724a987c23",
+          "frames": [
+            {
+              "id": "b19f325c-a199-4e91-bb86-496de8e09894",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "aa25820d-58f5-4fdb-a591-944bef5109c3",
+          "frames": [
+            {
+              "id": "ef752668-4813-41ad-9a94-375d13e9de01",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7369447b-87bc-4d12-a7f6-097e301c2423",
+          "frames": [
+            {
+              "id": "af33c1b6-d426-4a8a-bc7b-31beb44ac47d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7bd296d5-878c-43b0-b472-6d7b3e76853a",
+          "frames": [
+            {
+              "id": "61db150c-65fa-4d63-98a3-2a647944dfac",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_balding_guy.png",
+  "checksum": "720e625dc976c4d72a9091333d60e8a731c9c055"
+}

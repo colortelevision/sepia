@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "77877bb6-26be-4389-a326-a2e683b337d7",
+  "name": "converted_fishing_guru",
+  "symbol": "sprite_converted_fishing_gu",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "cc6f4126-12b0-405b-9e52-2c0bd7d63b7c",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "8aafbc58-3f8b-4647-b31d-173e731d0c50",
+          "frames": [
+            {
+              "id": "becd8be8-4911-4f50-9315-b6ecc8257e56",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "802e432b-1c0c-4b05-a7a0-89781f96f7c0",
+          "frames": [
+            {
+              "id": "b0544fe1-9c36-412d-a02f-df4bc291e935",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "89dc452b-b4fc-4825-8a32-5c98fa40adab",
+          "frames": [
+            {
+              "id": "65e4264f-1ae5-41bd-b3bb-888dbfaabc6f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d16bd120-557e-433e-8b6e-286cbc24199a",
+          "frames": [
+            {
+              "id": "693c5ef6-675f-4b23-8932-5cd1bcc1d625",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4b4f6376-01bd-462f-8c83-c31dd7ad8222",
+          "frames": [
+            {
+              "id": "f221fcb2-8a31-4755-b7e9-27229a5881ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "00ff7c0a-7615-4a7b-b344-4bfde3bd498f",
+          "frames": [
+            {
+              "id": "a2762147-d7c7-4485-8fac-b3cd2cc1f418",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "65dc5cae-1efd-48b3-9224-7e4a7ffb810d",
+          "frames": [
+            {
+              "id": "68659364-013a-40a6-845b-167c7692c342",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a8842bc2-5e15-44f4-9066-10edfb60e267",
+          "frames": [
+            {
+              "id": "4f6cb84c-a291-460a-bd38-9b985a7bade4",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_fishing_guru.png",
+  "checksum": "cab99ef4e66bef482c1634a6b7b3f9a7f66167d8"
+}

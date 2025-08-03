@@ -1,0 +1,26 @@
+{
+  "_resourceType": "scene",
+  "id": "e2d9b7c2-468b-47e0-b046-3a10325a075c",
+  "_index": 3,
+  "type": "TOPDOWN",
+  "name": "ANNEDECK",
+  "symbol": "scene_20",
+  "x": 466.25631097694213,
+  "y": 3352,
+  "width": 40,
+  "height": 28,
+  "backgroundId": "868a74a7-de3b-40de-a30a-fcecd0e75e04",
+  "tilesetId": "",
+  "paletteIds": [
+    "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c"
+  ],
+  "spritePaletteIds": [
+    "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "005a+0f10+0018+0f10+0016+0f2+00e+0f2+0016+0f2+00e+0f2+0014+0f2+0010+0f2+0014+0f2+0010+0f2+0012+0f2+006+0f2+00a+0f2+0012+0f2+006+0f2+00a+0f2+0010+0f2+008+0f2+00a+0f6+00c+0f2+0014+0f6+00a+0f2+001a+0f2+00a+0f2+001a+0f2+00a+0f2+001a+0f2+00a+0f2+001a+0f2+00c+0f2+008+0f2+00a+0f6+00c+0f2+008+0f2+00a+0f6+00e+0f2+006+0f2+00a+0f2+0012+0f2+0012+0f2+0014+0f2+0010+0f2+0014+0f2+0010+0f2+0016+0f2+00e+0f2+0016+0f2+00e+0f2+0016+0f12+0016+0f12+005e+"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ad35f85f-f8d9-4e83-a080-f8066da2a1bd",
+  "name": "converted_bike_shop_clerk",
+  "symbol": "sprite_converted_bike_shop_",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "fed35ccf-61d0-43e1-9468-a746a8b68a6a",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "ca923b70-93af-499b-a00a-d0a9d5db05dd",
+          "frames": [
+            {
+              "id": "4eff2f15-6686-497d-9778-ebca3d1d9ce1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "23ec8b8a-28ed-4a56-b1a7-2f546ce91e40",
+          "frames": [
+            {
+              "id": "52c5329e-bc07-4a01-9c04-4c084365afe4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4e4d4192-618f-448f-a161-a2a47ef6a8a4",
+          "frames": [
+            {
+              "id": "dcbc9860-ea6c-46cb-9c25-e2e5d6f188aa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "846b019a-9c5a-4f0a-83ac-1e86f401a41f",
+          "frames": [
+            {
+              "id": "c1696d48-1deb-4b29-8989-ad5e9bce429f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8c93cb12-5dd5-47a2-bad0-0c41676518d5",
+          "frames": [
+            {
+              "id": "00818332-1f06-463f-b8ce-83541c87dd26",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e2c112ba-4c8e-48cd-bbaa-82166680bdaa",
+          "frames": [
+            {
+              "id": "ee5c8c80-5d6e-4dcd-bc58-46a9cad98916",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5ddf23ea-6ac3-4473-8d46-95f7d5815d21",
+          "frames": [
+            {
+              "id": "84ff7e1a-69c5-41d5-908e-e49dc347b5e1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2d26396d-a5b3-422c-bdc9-d078d76cedbf",
+          "frames": [
+            {
+              "id": "59fc2f8f-a4fa-4b61-8d12-2fd1baa00969",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_bike_shop_clerk.png",
+  "checksum": "4b048c21707d7e7b67eb1b337cbd0f388f9738a9"
+}

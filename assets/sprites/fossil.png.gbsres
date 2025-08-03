@@ -1,0 +1,127 @@
+{
+  "_resourceType": "sprite",
+  "id": "d8073849-afe0-49bc-9af2-707222fcf7d8",
+  "name": "fossil",
+  "symbol": "sprite_fossil",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "65b524d7-81aa-4526-96c5-185c94fddf3e",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "5d418a1e-e649-4095-848a-729e6c127ac1",
+          "frames": [
+            {
+              "id": "170159ad-7a76-4400-b161-3ba182a0f701",
+              "tiles": [
+                {
+                  "id": "2c9c296f-b497-4f24-bef1-e91f5c3e43d0",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "06b8516a-e8c4-4ac7-910c-a3da03a92347",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33e0108f-1663-4f70-a876-d6fa0fb48b5c",
+          "frames": [
+            {
+              "id": "897882a7-9c4c-419f-ad90-f1b886504bf2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "cbee2dfc-5d2b-4ae0-aa9a-07a8cba2cb22",
+          "frames": [
+            {
+              "id": "344da31f-af6d-4fdf-bdf6-845556fed6d6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a327f2e-6879-4c48-87aa-14cb769fa5d8",
+          "frames": [
+            {
+              "id": "8cf3d173-364a-48cd-907b-7303fddcb838",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5968f7d3-dc60-4cf1-8e85-d49dadc101d7",
+          "frames": [
+            {
+              "id": "0a9cb5ba-7004-4cf3-8b33-75ab9f6a47b8",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d4ed47c4-ea87-4b7f-b301-631ad2d46af6",
+          "frames": [
+            {
+              "id": "b4f3a4e2-db0e-4ab1-8c19-19e35da8bed7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0510f322-e296-425f-8f20-9f7f7854879d",
+          "frames": [
+            {
+              "id": "6ec41bb4-5993-4791-94df-1959f3343337",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f8513338-6262-40d6-bab1-eb8379b47a9a",
+          "frames": [
+            {
+              "id": "f3b2d876-ae66-49bb-9cff-c594ed41cb08",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "fossil.png",
+  "checksum": "d356279761460fe32d6de7372b4bafdfb6ff6f46"
+}

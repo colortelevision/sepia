@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "4bda63f8-f7fd-4e81-9fe7-ad1803105edf",
+  "name": "converted_swimmer",
+  "symbol": "sprite_converted_swimmer",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "a6463f1e-3b1a-4fbe-b94b-6a643568b265",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "886e901b-181c-4666-85d9-59d03f99111f",
+          "frames": [
+            {
+              "id": "5e9cc18e-a90d-4c68-b92a-9452e22b3a14",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "38c0f7d3-eb0f-429b-b04a-dd25ce1ccfec",
+          "frames": [
+            {
+              "id": "9453cf40-b00d-48f0-98b6-1fbf06189402",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2e04737e-7da9-42f0-9ea7-31b052ddd44b",
+          "frames": [
+            {
+              "id": "3f004ad8-375f-414f-833d-6c4fa9f65b37",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f0450c3-8c59-4e37-98d6-e47c52db0168",
+          "frames": [
+            {
+              "id": "3685bfec-c3dc-44cb-af49-47a2af12b812",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d1cb878f-911c-4b5d-8b54-d2a43ffdc837",
+          "frames": [
+            {
+              "id": "66ad371c-5eae-4352-ad76-2edb42b3451b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7fab4caf-5c75-43db-ae8d-e806d2c83da6",
+          "frames": [
+            {
+              "id": "6b39929b-9c54-4c07-93ee-6f561131c2e7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d78f1bce-5347-4c4c-8fe0-b08875b0f3c0",
+          "frames": [
+            {
+              "id": "48209107-93cb-4936-aeec-54b41d5df16f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ae6d10e2-d9b3-4808-83e9-7e81e185f918",
+          "frames": [
+            {
+              "id": "89848c53-24a3-43f7-b39b-ad72afcc5cb7",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_swimmer.png",
+  "checksum": "cefb8093e80a8108ecb64f85857df5032fee38c1"
+}

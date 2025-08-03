@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "ec321b07-8949-44e6-9ffd-ee38a86d9aeb",
+  "name": "rocket",
+  "symbol": "sprite_rocket",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "2b252863-72e3-4358-a8d8-10408ec228f2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "b597e585-a886-4d72-8875-3be937737f97",
+          "frames": [
+            {
+              "id": "094e38ea-b162-4116-8229-953491f4c6fb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "751a45ef-aa8c-4215-81c0-3bfb58ac2fa9",
+          "frames": [
+            {
+              "id": "07038237-6bbd-4b65-80c9-7728fbf6756b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6112c9e0-3343-48d5-9670-f89281a08c2e",
+          "frames": [
+            {
+              "id": "9f0584c0-1d1c-4945-9e75-242df7535b86",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9467c8a6-d19d-42d7-bd8b-965332509f8b",
+          "frames": [
+            {
+              "id": "9c327a93-e69c-4334-b297-cae74b655d30",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c34fdd16-cbce-4647-8894-1d74be60daea",
+          "frames": [
+            {
+              "id": "66cad139-a8cc-4266-a0f0-e728d97dc215",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "da4f0b08-a628-45d1-995b-94aa200ee439",
+          "frames": [
+            {
+              "id": "e53233d4-9e88-4792-93bd-16f50b7b34a3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ada70876-12fe-44ab-be9f-27bde9b6c42c",
+          "frames": [
+            {
+              "id": "270b0998-ae56-44ba-ae65-52173ee27c00",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6f28524e-3265-433c-97f2-5d5edc570317",
+          "frames": [
+            {
+              "id": "b1cface6-799e-4c36-94b7-ed6bae0d557c",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "rocket.png",
+  "checksum": "0970a0830d9f11b9ccf2886f01eb3b3c4bd0aa94"
+}

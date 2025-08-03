@@ -1,0 +1,81 @@
+{
+  "_resourceType": "triggerPrefab",
+  "id": "45540667-e6d8-42ef-bbcd-1a113537beab",
+  "name": "ledgeBounce",
+  "prefabScriptOverrides": {},
+  "script": [
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a"
+      },
+      "id": "10de7c17-68f1-454d-928d-4dc32285b93f",
+      "children": {}
+    }
+  ],
+  "leaveScript": [
+    {
+      "command": "EVENT_IF_ACTOR_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "down"
+        },
+        "__collapseElse": true,
+        "__collapse": true,
+        "__comment": true
+      },
+      "children": {
+        "true": [
+          {
+            "command": "EVENT_PLAYER_BOUNCE",
+            "args": {
+              "height": "high"
+            },
+            "id": "51c8e391-84d0-4fa0-b278-726fa0150ef4",
+            "children": {}
+          },
+          {
+            "command": "EVENT_LAUNCH_PROJECTILE",
+            "args": {
+              "__section": "projectile",
+              "spriteSheetId": "b906adec-9599-4013-af50-c1f1a688bd03",
+              "spriteStateId": "",
+              "actorId": "$self$",
+              "x": 0,
+              "y": 2,
+              "directionType": "actor",
+              "otherActorId": "$self$",
+              "direction": "down",
+              "angle": 0,
+              "angleVariable": "L0",
+              "targetActorId": "$self$",
+              "speed": 2,
+              "animSpeed": 15,
+              "lifeTime": 1.4,
+              "initialOffset": 2,
+              "loopAnim": false,
+              "destroyOnHit": false,
+              "collisionGroup": "3",
+              "collisionMask": []
+            },
+            "id": "0fc2795e-eb85-4c97-ace4-30333d5ad59d",
+            "children": {}
+          }
+        ],
+        "false": []
+      },
+      "id": "6f62fac9-beeb-4157-bd20-d8cc05349353"
+    },
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "34382fd6-4bb4-4e8d-8d9a-65ae7aac7b0a",
+        "__comment": true
+      },
+      "id": "df51e257-22e8-4420-9623-261e28aa6c86",
+      "children": {}
+    }
+  ]
+}

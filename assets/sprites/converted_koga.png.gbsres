@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "3beaab60-a36e-4086-aebf-b9a300d1cd43",
+  "name": "converted_koga",
+  "symbol": "sprite_converted_koga",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "4ac1f7bb-72d4-48a4-9b35-b9e16e275f5d",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "f07f5a34-566b-48ce-bcde-12978ed135d1",
+          "frames": [
+            {
+              "id": "595916f1-ef01-454d-a718-56697a4266ee",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "9dfdd959-3df2-48f2-8d44-09fcdef0bd08",
+          "frames": [
+            {
+              "id": "5f8e3754-4c3e-4c42-a8e2-550786a04409",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6248aebf-b70a-434c-922f-ee996b80b9aa",
+          "frames": [
+            {
+              "id": "4bc0a8b0-3d8d-4ecb-9a06-3d2539e092c2",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "09c8c6e1-30d9-41d1-875d-aa2ec501865f",
+          "frames": [
+            {
+              "id": "55bfa7ae-f522-4cc8-b701-afaccee498fa",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "866480a6-c4b3-42c4-8140-22b36d9b2df5",
+          "frames": [
+            {
+              "id": "b04803e4-e5ee-4163-ad16-5e9bb44ef7c5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c02fe7db-7152-4e56-bfe1-6651c0ccdd53",
+          "frames": [
+            {
+              "id": "3b996ccf-66e2-4ee7-9b15-83b431c757b6",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c2b475db-8b41-4332-ab5d-3002d49f6fcf",
+          "frames": [
+            {
+              "id": "13765529-e512-4d49-a9ee-86685e7dacd4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7ff122e4-699b-4cbe-b2c2-ba10ab00d1f8",
+          "frames": [
+            {
+              "id": "0887d47b-f58a-4052-bef8-db00ee1fa9e3",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_koga.png",
+  "checksum": "e49fd2fce5cba33bcac20882d4b21ff2258f6bca"
+}

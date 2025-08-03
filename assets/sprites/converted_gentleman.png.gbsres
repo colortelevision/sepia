@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "a260e0cb-9b06-45cf-bdce-4f0fcf4ca989",
+  "name": "converted_gentleman",
+  "symbol": "sprite_converted_gentleman",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "48995571-9725-4055-a7f2-75d769b18edb",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "34fc5965-ef32-4cc2-ba57-441d7782b046",
+          "frames": [
+            {
+              "id": "820d1ff4-cc4c-4b53-b2df-d9a54e0c17cb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "04646bcb-e518-4be7-8a21-adb5208350d4",
+          "frames": [
+            {
+              "id": "b1db8624-7108-4392-b428-f9bb36228689",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a2113ca0-1826-4c7b-8234-1969ac573e11",
+          "frames": [
+            {
+              "id": "bb1e49c8-8334-4dbd-9bee-dea3c97a5fe9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "686b8fd1-0ea8-4dda-87c8-a7366e3d5494",
+          "frames": [
+            {
+              "id": "e895de8e-fe9e-43d3-8b62-e121b3aa31c3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5d6406fc-52d2-4e91-bbae-82d70dbbb72e",
+          "frames": [
+            {
+              "id": "0db3d010-600e-421c-bc6a-3bd6324e942d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "dc9dcbed-c0cb-483b-a4ca-9ec77acb7a40",
+          "frames": [
+            {
+              "id": "955e0e40-1928-4dae-86a7-6d22def60e22",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "517ce0c2-8ded-4c02-98d8-7e28e73a409b",
+          "frames": [
+            {
+              "id": "78c14738-8eaf-495f-8373-73de2946bd25",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "155f2b9f-4a03-4598-b3d5-05deb14c3350",
+          "frames": [
+            {
+              "id": "ef8575d3-4aff-4e65-b2a1-2eed1257519d",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "converted_gentleman.png",
+  "checksum": "075c21a7a59c64d412787a89dd8741f5bc0b9bc6"
+}

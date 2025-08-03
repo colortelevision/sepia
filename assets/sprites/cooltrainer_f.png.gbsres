@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "365b32c4-f74e-45da-8c76-0162c0c7b704",
+  "name": "cooltrainer_f",
+  "symbol": "sprite_cooltrainer_f",
+  "width": 16,
+  "height": 96,
+  "states": [
+    {
+      "id": "cabe3954-724e-4865-8097-7dee5550276f",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "27073d11-e666-4f24-b2d3-4b30e96fc00a",
+          "frames": [
+            {
+              "id": "a8ef2eb5-7829-4138-909d-11b15549f1c9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "36a2d6c5-f544-4dc1-bf96-66a2431460b2",
+          "frames": [
+            {
+              "id": "fe021a0b-0811-45bd-bed6-887ca6b52fd3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "11505e3b-65fc-418b-aed3-724f361f3950",
+          "frames": [
+            {
+              "id": "f54e44ce-dc8f-407c-9f9d-fb6f83997b6f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "24b2b4f2-c28f-4137-9bab-6482e859626f",
+          "frames": [
+            {
+              "id": "79e388a0-c3e9-4feb-898c-a3b258056758",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8f71e7e7-19c8-499b-b273-00a06798791b",
+          "frames": [
+            {
+              "id": "07bd92ba-970c-4a7f-99cc-1fa4be20588c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b4c02f4b-f4bb-45bf-919d-6314454680d8",
+          "frames": [
+            {
+              "id": "4f0c30a7-5377-4f41-b5f7-ee55f116e71d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6fb5a68f-eb8a-4634-a077-11a4a9eb0f81",
+          "frames": [
+            {
+              "id": "d6936eca-f53c-40d0-90d5-eefd4bc91660",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "440a4824-d992-440b-92b4-ff28d9d18dfd",
+          "frames": [
+            {
+              "id": "cab1adb4-0ecb-4219-a8aa-96d48ed3f146",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "cooltrainer_f.png",
+  "checksum": "186c6540fe8d1bcc4cb92e80c455050a4605673e"
+}

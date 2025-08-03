@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "1a5fab68-736d-40e4-8107-7622d8782579",
+  "name": "converted_gamefreak_presents",
+  "symbol": "tileset_converted_gamefreak_1",
+  "width": 13,
+  "height": 1,
+  "imageWidth": 104,
+  "imageHeight": 8,
+  "filename": "converted_gamefreak_presents.png"
+}

@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "f209ee57-37d6-441a-88a9-a42bf6823d46",
+  "name": "captain",
+  "symbol": "sprite_captain_0",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "60c123c6-810a-4a32-a323-ddc378c6f9d2",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "3c407ef0-453f-484f-b0c3-7ff815a19bf4",
+          "frames": [
+            {
+              "id": "b44eb7a9-0088-44dc-8f3d-55ba08de721c",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "710ecb7f-0eea-4ea6-8e15-9144f0514386",
+          "frames": [
+            {
+              "id": "56d7ca2d-b57c-40d0-9abc-68f04b8d22c0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "49993cbb-d181-4413-b16c-ec6af1d46bc8",
+          "frames": [
+            {
+              "id": "7f76e35e-ea15-4277-85c6-1d303f9ea2c7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc8b1277-95be-4d07-aebe-0afd01dc833e",
+          "frames": [
+            {
+              "id": "7266c9b4-7cea-45ce-b531-de76132c85ea",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "395bf9fd-33d5-4f05-a824-1794bd4e8328",
+          "frames": [
+            {
+              "id": "c051945d-c1cf-4aef-b20d-029692bb53e1",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "03076324-26fd-4a10-bfa9-ac863e9a09d2",
+          "frames": [
+            {
+              "id": "b06dd175-6f90-4d63-aabb-e3d2de56d7e0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "527a7e88-8107-4094-b7bc-6c82d7092a88",
+          "frames": [
+            {
+              "id": "da0e0526-4e75-4db9-8c93-5ca76f563f7e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5f023f34-8056-4499-8974-92d7b251d0f1",
+          "frames": [
+            {
+              "id": "af545307-fdd8-4d3b-9a29-65345c74cb92",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "captain.png",
+  "checksum": "563f6dc7badea8de23f80263d837be898dd57903"
+}

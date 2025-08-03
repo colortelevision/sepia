@@ -1,0 +1,100 @@
+{
+  "_resourceType": "sprite",
+  "id": "1ee69780-757e-4bc5-9430-1b083b043654",
+  "name": "silph_president",
+  "symbol": "sprite_silph_president",
+  "width": 16,
+  "height": 48,
+  "states": [
+    {
+      "id": "70887957-929e-467e-8080-2db93383a283",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "125200db-7a5c-41d4-a2c0-ed74bfe2e07e",
+          "frames": [
+            {
+              "id": "38bf69ef-3a9d-4bc6-b433-ca9bed7b9770",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "756dff41-ee0d-4f6b-9f66-fd80ff9ed131",
+          "frames": [
+            {
+              "id": "ee16b8a8-a194-4301-8541-1ca999cfc6d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "f39c7e49-a4ec-4888-88a5-7843d0356f10",
+          "frames": [
+            {
+              "id": "cde85af7-61b7-4769-83bb-3d6a80cf40c3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6af09346-f350-46bf-a720-b9ede0621907",
+          "frames": [
+            {
+              "id": "e5c2e776-6242-43b7-8575-37939fdac34f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5051355a-713d-4eaf-bedb-065e73eee12e",
+          "frames": [
+            {
+              "id": "d3187ebe-c729-4ece-8a7c-5d35df8965a7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "99bf64e1-3122-40f6-bffb-f86afeecf2b6",
+          "frames": [
+            {
+              "id": "07983b47-29b2-4b7a-b13f-3a0096d63f1f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c3c9cea0-15ee-4a00-9911-b22c376c82ce",
+          "frames": [
+            {
+              "id": "78ca14f5-81fe-4939-9dbd-262e0806c3e9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "5de1dae8-fea3-462f-9345-482dee205fa5",
+          "frames": [
+            {
+              "id": "dc8e40c1-9e9f-4635-8f3c-2f50afa6aa87",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15,
+  "filename": "silph_president.png",
+  "checksum": "d78927f7015a32f1790cca650ba939f7239d514f"
+}

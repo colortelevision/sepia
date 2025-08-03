@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "434c1084-0935-4368-b359-334086aa292a",
+  "name": "converted_redb",
+  "symbol": "tileset_converted_redb",
+  "width": 4,
+  "height": 4,
+  "imageWidth": 32,
+  "imageHeight": 32,
+  "filename": "converted_redb.png"
+}
