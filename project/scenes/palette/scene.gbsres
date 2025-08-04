@@ -30,6 +30,47 @@
         "musicId": "feace21a-7a75-4017-a1b0-b088d8becd76"
       },
       "id": "afd929c4-547f-4be8-aa9e-b14d69930ae7"
+    },
+    {
+      "command": "EVENT_SET_TIMER_SCRIPT",
+      "args": {
+        "timer": 1,
+        "duration": 0.5,
+        "frames": 30,
+        "__scriptTabs": "end",
+        "__collapse": true
+      },
+      "children": {
+        "script": [
+          {
+            "command": "EVENT_REPLACE_TILE_XY_SEQUENCE",
+            "args": {
+              "x": {
+                "type": "number",
+                "value": 24
+              },
+              "y": {
+                "type": "number",
+                "value": 105
+              },
+              "tilesetId": "e74217cb-c8c3-4593-b85e-ecdfa2d59866",
+              "tileIndex": {
+                "type": "number",
+                "value": 0
+              },
+              "frames": {
+                "type": "number",
+                "value": 2
+              },
+              "variable": "L0",
+              "__comment": false,
+              "__collapse": false
+            },
+            "id": "a561671f-f759-4702-a216-cd574eb80dc7"
+          }
+        ]
+      },
+      "id": "a0ca0d6f-f722-4124-8bd7-4fe4de44c74f"
     }
   ],
   "playerHit1Script": [],

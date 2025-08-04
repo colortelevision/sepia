@@ -1,0 +1,23 @@
+{
+  "_resourceType": "trigger",
+  "id": "9c866b91-2451-4222-ae85-3d14181fd72f",
+  "name": "",
+  "prefabId": "",
+  "x": 16,
+  "y": 66,
+  "symbol": "trigger_17",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "41bb952a-1426-41a5-9380-3b2c5aedba8d"
+      },
+      "id": "d9e006c0-9666-482f-8158-def9e7a586d9"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 3
+}
