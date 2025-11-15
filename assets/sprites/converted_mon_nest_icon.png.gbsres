@@ -3,8 +3,6 @@
   "id": "b4376fea-a768-4b0e-8c48-dcab839951b8",
   "name": "converted_mon_nest_icon",
   "symbol": "sprite_converted_mon_nest_i",
-  "width": 8,
-  "height": 8,
   "states": [
     {
       "id": "3475c1a7-c15c-4f52-b437-3f8d85f40c4f",
@@ -102,13 +100,17 @@
     }
   ],
   "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 8,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_mon_nest_icon.png",
+  "width": 8,
+  "height": 8,
   "checksum": "a75212ed00ae5ed06f9bb3a9f2a98d3935d5cea9"
 }

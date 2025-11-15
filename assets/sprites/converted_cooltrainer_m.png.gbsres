@@ -3,8 +3,6 @@
   "id": "c42428ae-f812-4ca1-a753-1b40a60c33e4",
   "name": "converted_cooltrainer_m",
   "symbol": "sprite_converted_cooltraine_0",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "30b3ff3c-a706-47ca-b97c-3e740c8d9efb",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_cooltrainer_m.png",
+  "width": 16,
+  "height": 96,
   "checksum": "6c20697cbb81d209a6c64ec9474f2552d2049f40"
 }

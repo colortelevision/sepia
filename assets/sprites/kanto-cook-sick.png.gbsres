@@ -3,8 +3,6 @@
   "id": "488535f9-cf26-4559-bf3c-8895e01cc180",
   "name": "kanto-cook-sick",
   "symbol": "sprite_kanto_cook_sick",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "3a966f1e-e3bd-4152-a86c-2eb68e9985d5",
@@ -1847,13 +1845,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "kanto-cook-sick.png",
+  "width": 16,
+  "height": 96,
   "checksum": "239b770f51c39a8b70d89533946c4a7ecef3790d"
 }

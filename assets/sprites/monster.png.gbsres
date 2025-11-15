@@ -3,8 +3,6 @@
   "id": "c61a453d-d203-46f3-9e5d-4455e15f28f2",
   "name": "monster",
   "symbol": "sprite_monster",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "15559f4a-511b-4c68-a0d9-0683644223b5",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "monster.png",
+  "width": 16,
+  "height": 96,
   "checksum": "faa50ac3e823d02d694a2a096b1e0497e29ba0ef"
 }

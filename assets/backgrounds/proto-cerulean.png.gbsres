@@ -3,10 +3,10 @@
   "id": "b2db89eb-7bde-4e59-a329-9a7266fb9742",
   "name": "proto-cerulean",
   "symbol": "bg_proto_cerulean",
+  "tileColors": "",
   "width": 80,
   "height": 72,
   "imageWidth": 640,
   "imageHeight": 576,
-  "tileColors": "",
   "filename": "proto-cerulean.png"
 }

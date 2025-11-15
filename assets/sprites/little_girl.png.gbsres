@@ -3,8 +3,6 @@
   "id": "c3cbc666-4d18-4ad4-a3e6-fc7bcdbaf095",
   "name": "little_girl",
   "symbol": "sprite_little_girl",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "7e223fd1-b46a-4d4f-9c3a-10ecdd64c338",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "little_girl.png",
+  "width": 16,
+  "height": 96,
   "checksum": "30956ef2b7c271b9df18fc1ae354734dc6bdd6b4"
 }

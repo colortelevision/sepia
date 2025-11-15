@@ -3,10 +3,10 @@
   "id": "0891cf6b-922f-46e0-ad7e-4c20b7854cf2",
   "name": "230927-kanto-house2f",
   "symbol": "bg_230927_kanto_house2f",
+  "tileColors": "",
   "width": 20,
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "tileColors": "",
   "filename": "230927-kanto-house2f.png"
 }

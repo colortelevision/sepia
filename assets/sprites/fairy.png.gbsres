@@ -3,8 +3,6 @@
   "id": "1f52adaf-62ad-44da-ab1c-7beb51b06df4",
   "name": "fairy",
   "symbol": "sprite_fairy",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "1458c844-face-484a-aed5-526a2629bcdf",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "fairy.png",
+  "width": 16,
+  "height": 96,
   "checksum": "1165922c302a175250a73713bd61234068f03d73"
 }

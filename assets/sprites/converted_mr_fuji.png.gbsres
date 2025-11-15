@@ -3,8 +3,6 @@
   "id": "0ccc171e-1e15-4510-af8d-2ee4cc680f80",
   "name": "converted_mr_fuji",
   "symbol": "sprite_converted_mr_fuji",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "70c7b7a9-9427-4a72-bd75-ee955ab56670",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_mr_fuji.png",
+  "width": 16,
+  "height": 96,
   "checksum": "17edae5c16fb8ccbd0df07a9b86a1f15c2358f37"
 }

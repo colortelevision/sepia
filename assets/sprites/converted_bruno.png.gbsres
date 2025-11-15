@@ -3,8 +3,6 @@
   "id": "4c88c404-2866-454f-b8e6-6dd7032cf8d4",
   "name": "converted_bruno",
   "symbol": "sprite_converted_bruno",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "84abf7b8-6b30-4622-b62a-8ad2c28e8c83",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_bruno.png",
+  "width": 16,
+  "height": 96,
   "checksum": "b9f13144ec0d38973ec1b7f6cb4d0995cb6976d3"
 }

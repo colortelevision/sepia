@@ -3,8 +3,6 @@
   "id": "3e55d57b-cec4-4ce0-b552-11a7d13c7f8b",
   "name": "converted_agatha",
   "symbol": "sprite_converted_agatha",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "433d2e1b-d9bc-40a8-bbc4-1512f5d71227",
@@ -405,13 +403,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_agatha.png",
+  "width": 16,
+  "height": 96,
   "checksum": "a7c9f415ec5a3dd28c9bda6c1276c8f2dc3730f9"
 }

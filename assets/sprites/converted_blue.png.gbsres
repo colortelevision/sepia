@@ -3,8 +3,6 @@
   "id": "f018e925-38ef-4db5-a41f-76d6eaa7da46",
   "name": "converted_blue",
   "symbol": "sprite_converted_blue",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "c91072c6-4ec4-444f-8142-0aeb8142dfe9",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_blue.png",
+  "width": 16,
+  "height": 96,
   "checksum": "1aead7f4ae955ec245482b5ef5ff67bc4b14af16"
 }

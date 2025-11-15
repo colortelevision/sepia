@@ -3,8 +3,6 @@
   "id": "0f1d5949-b64b-42f3-bfee-6800ad20c9d2",
   "name": "converted_erika",
   "symbol": "sprite_converted_erika",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "9cdf4d84-f61b-435d-bffe-7f650ab41024",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_erika.png",
+  "width": 16,
+  "height": 96,
   "checksum": "f64ea03aaa7afd0a48778d3daa8325835464390e"
 }

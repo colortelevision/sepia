@@ -3,10 +3,10 @@
   "id": "eb40a001-f1fd-497e-a68e-f1c8b3236c1b",
   "name": "cerulean",
   "symbol": "bg_cerulean",
+  "tileColors": "",
   "width": 126,
   "height": 130,
   "imageWidth": 1008,
   "imageHeight": 1040,
-  "tileColors": "",
   "filename": "cerulean.png"
 }

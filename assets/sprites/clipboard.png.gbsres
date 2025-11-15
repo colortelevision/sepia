@@ -3,8 +3,6 @@
   "id": "c87ac3fb-1b15-4a74-845c-67f33c7d60ce",
   "name": "clipboard",
   "symbol": "sprite_clipboard",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "08ead7e6-504f-42ee-a068-62f3c91999b3",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "clipboard.png",
+  "width": 16,
+  "height": 16,
   "checksum": "19a1004da868d64f67f3d9338e6ae92a204c453d"
 }

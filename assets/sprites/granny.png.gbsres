@@ -3,8 +3,6 @@
   "id": "5a5bcc95-2b79-475e-9421-bce90bc3ffd5",
   "name": "granny",
   "symbol": "sprite_granny",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "44327e37-0d84-4660-97f7-7fa66e542bc8",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "granny.png",
+  "width": 16,
+  "height": 48,
   "checksum": "ce4d2fe4a1a107c825ae9585d92b0868d55830a6"
 }

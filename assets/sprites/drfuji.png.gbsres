@@ -3,8 +3,6 @@
   "id": "6997b84c-5b13-4110-997f-1ad85867bd32",
   "name": "drfuji",
   "symbol": "sprite_drfuji",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "cf11366a-5ef3-499a-85bb-ef5c88a270a3",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "drfuji.png",
+  "width": 16,
+  "height": 96,
   "checksum": "d08ecf9c2d3ebee7cd9f17f5ea2048070ccc0802"
 }

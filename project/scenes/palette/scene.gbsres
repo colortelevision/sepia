@@ -11,6 +11,7 @@
   "height": 116,
   "backgroundId": "97333c04-7f4c-40db-aefe-160580585fe1",
   "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "fc9293cb-f8a8-442e-8b28-df20c5292a75",
     "c2af2d33-8fcb-4a07-b9a0-15d6b7a98767",
@@ -38,7 +39,7 @@
         "duration": 0.5,
         "frames": 30,
         "__scriptTabs": "end",
-        "__collapse": true
+        "__collapse": false
       },
       "children": {
         "script": [
@@ -51,7 +52,7 @@
               },
               "y": {
                 "type": "number",
-                "value": 105
+                "value": 106
               },
               "tilesetId": "e74217cb-c8c3-4593-b85e-ecdfa2d59866",
               "tileIndex": {

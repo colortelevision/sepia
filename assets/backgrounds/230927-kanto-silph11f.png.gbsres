@@ -3,10 +3,10 @@
   "id": "05096e7b-9691-413d-be66-fd1c74e50c23",
   "name": "230927-kanto-silph11f",
   "symbol": "bg_230927_kanto_silph11f",
+  "tileColors": "",
   "width": 36,
   "height": 36,
   "imageWidth": 288,
   "imageHeight": 288,
-  "tileColors": "",
   "filename": "230927-kanto-silph11f.png"
 }

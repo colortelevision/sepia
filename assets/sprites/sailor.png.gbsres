@@ -3,8 +3,6 @@
   "id": "69e88c9a-2f24-4d8d-9713-cb94f49f76e3",
   "name": "sailor",
   "symbol": "sprite_sailor_0",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "8d4523af-336c-45ad-82f0-5f59ed23d304",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "sailor.png",
+  "width": 16,
+  "height": 96,
   "checksum": "6df84f58a0f8e940243d7a88e5611e76823ed6a7"
 }

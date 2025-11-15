@@ -3,8 +3,6 @@
   "id": "87f8b0d5-8774-45ae-b813-03faaacecb2c",
   "name": "gym_guide",
   "symbol": "sprite_gym_guide",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "c51f1e4d-f520-4e7f-a351-3f387ff115a7",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "gym_guide.png",
+  "width": 16,
+  "height": 48,
   "checksum": "18deb3a1f90893df1545293dcd70fbf3717b0530"
 }

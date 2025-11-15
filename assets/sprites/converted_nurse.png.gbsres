@@ -3,8 +3,6 @@
   "id": "b6b590cb-4cc3-49bd-b8e7-d03b6d09b303",
   "name": "converted_nurse",
   "symbol": "sprite_converted_nurse",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "91f4807f-49d4-4a63-baa3-482ff82e6d1c",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_nurse.png",
+  "width": 16,
+  "height": 48,
   "checksum": "e72c7387ea6dba1b64614c0846bd52733839a47c"
 }

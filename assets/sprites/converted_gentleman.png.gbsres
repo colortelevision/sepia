@@ -3,8 +3,6 @@
   "id": "a260e0cb-9b06-45cf-bdce-4f0fcf4ca989",
   "name": "converted_gentleman",
   "symbol": "sprite_converted_gentleman",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "48995571-9725-4055-a7f2-75d769b18edb",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_gentleman.png",
+  "width": 16,
+  "height": 96,
   "checksum": "075c21a7a59c64d412787a89dd8741f5bc0b9bc6"
 }

@@ -3,8 +3,6 @@
   "id": "621fe091-0d11-49a4-8768-dc7a399076bd",
   "name": "mom",
   "symbol": "sprite_mom",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "7eedd857-c3e4-410e-8ee5-653a12affa94",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "mom.png",
+  "width": 16,
+  "height": 48,
   "checksum": "3e208233c4b9985c3d9836b7d42bdd317db6e1cb"
 }

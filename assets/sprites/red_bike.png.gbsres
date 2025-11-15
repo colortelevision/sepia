@@ -3,8 +3,6 @@
   "id": "1bc837f4-9ef2-434b-9335-7a9a53e33d05",
   "name": "red_bike",
   "symbol": "sprite_red_bike",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "af869ebc-063b-4687-8bf0-d25058b2b146",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "red_bike.png",
+  "width": 16,
+  "height": 96,
   "checksum": "374db4e94247edbe67b32ffb081bf38d8eb8a643"
 }

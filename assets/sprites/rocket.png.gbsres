@@ -3,8 +3,6 @@
   "id": "ec321b07-8949-44e6-9ffd-ee38a86d9aeb",
   "name": "rocket",
   "symbol": "sprite_rocket",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "2b252863-72e3-4358-a8d8-10408ec228f2",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "rocket.png",
+  "width": 16,
+  "height": 96,
   "checksum": "0970a0830d9f11b9ccf2886f01eb3b3c4bd0aa94"
 }

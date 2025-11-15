@@ -3,8 +3,6 @@
   "id": "066b1253-fdfd-403a-96a1-31f642557b5e",
   "name": "converted_gambler_asleep",
   "symbol": "sprite_converted_gambler_as",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "b9f700d0-d761-4718-8c06-a69ce1d6b719",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_gambler_asleep.png",
+  "width": 16,
+  "height": 16,
   "checksum": "4f0e6e1a2f5cb681b34e4f13f07634610e34c186"
 }

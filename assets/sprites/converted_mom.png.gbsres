@@ -3,8 +3,6 @@
   "id": "20b0b24c-225e-4a77-b91d-7f5e7fcd465a",
   "name": "converted_mom",
   "symbol": "sprite_converted_mom",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "87aeaea5-5d7d-4dde-8da6-9f810606bdf9",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_mom.png",
+  "width": 16,
+  "height": 48,
   "checksum": "fd10417d38e2c8f5841ead955796fd737f262384"
 }

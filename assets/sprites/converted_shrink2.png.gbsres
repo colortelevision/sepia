@@ -3,8 +3,6 @@
   "id": "f34bc14f-2a51-4dc8-91d3-30def3802e0d",
   "name": "converted_shrink2",
   "symbol": "sprite_converted_shrink2",
-  "width": 56,
-  "height": 56,
   "states": [
     {
       "id": "f7305bcd-1445-4865-9676-7041bd0766b3",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_shrink2.png",
+  "width": 56,
+  "height": 56,
   "checksum": "cf7f6ac00f1e09fe5e57f9719b73c1ec7732433e"
 }

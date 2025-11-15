@@ -3,8 +3,6 @@
   "id": "8374f837-75da-40b0-85fd-8695dc29595e",
   "name": "old_amber",
   "symbol": "sprite_old_amber",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "f27c6a02-8f24-4c46-949b-8d20a095ce66",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "old_amber.png",
+  "width": 16,
+  "height": 16,
   "checksum": "21843f1d6d656fe0f5f1abfe70e3bc5675a764ec"
 }

@@ -3,8 +3,6 @@
   "id": "8c2c2a63-f20e-4155-8ea4-03d8652df62b",
   "name": "converted_fairy",
   "symbol": "sprite_converted_fairy",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "54a2e33c-483f-4efa-a188-d1d2258223b1",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_fairy.png",
+  "width": 16,
+  "height": 96,
   "checksum": "7d5a8964d3e81c649d902f3b714698c1e26beffe"
 }

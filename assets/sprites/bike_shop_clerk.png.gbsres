@@ -3,8 +3,6 @@
   "id": "fcf8fb5e-075b-4f0f-bdf3-65f0da125614",
   "name": "bike_shop_clerk",
   "symbol": "sprite_bike_shop_clerk",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "eeea6007-9abd-46b7-bbe9-0cfc6da6b2ee",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "bike_shop_clerk.png",
+  "width": 16,
+  "height": 48,
   "checksum": "2ff3dbb0f54f57689ca518ee0ef24e2e2dbb248e"
 }

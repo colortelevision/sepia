@@ -3,8 +3,6 @@
   "id": "3bd6db97-82e8-4476-8080-8398bbcf8845",
   "name": "balding_guy",
   "symbol": "sprite_balding_guy",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "e01fd489-96c1-42de-a2da-2c3d388b883f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "balding_guy.png",
+  "width": 16,
+  "height": 48,
   "checksum": "469b453c903d115ed9126da80e9092a2df4e512c"
 }

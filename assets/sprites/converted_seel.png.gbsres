@@ -3,8 +3,6 @@
   "id": "29cc6f29-e9d3-4924-b05f-b914dda7043f",
   "name": "converted_seel",
   "symbol": "sprite_converted_seel",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "47ec2f1d-cca9-447c-9f21-d26552a4d93c",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_seel.png",
+  "width": 16,
+  "height": 96,
   "checksum": "1d9fc2353074cf9273bb163f6bbc2bc9b3e10013"
 }

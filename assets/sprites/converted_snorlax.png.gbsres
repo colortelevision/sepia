@@ -3,8 +3,6 @@
   "id": "d99c6267-8311-4097-ab78-bf9dcb25ca69",
   "name": "converted_snorlax",
   "symbol": "sprite_converted_snorlax",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "cca17e7f-7d6d-4963-a61b-dd584d6f4470",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_snorlax.png",
+  "width": 16,
+  "height": 16,
   "checksum": "1101419b408cf2e9b8028b51ca8152ea3dcc124f"
 }

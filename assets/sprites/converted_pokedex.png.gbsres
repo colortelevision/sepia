@@ -3,8 +3,6 @@
   "id": "a9628930-c295-4d44-8256-f5a947069185",
   "name": "converted_pokedex",
   "symbol": "sprite_converted_pokedex",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "6bc09e3c-5c92-4a5e-a38a-ca9dfa5131ba",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_pokedex.png",
+  "width": 16,
+  "height": 16,
   "checksum": "584d0be14bdf930d388147bd4b3e4eb699340353"
 }

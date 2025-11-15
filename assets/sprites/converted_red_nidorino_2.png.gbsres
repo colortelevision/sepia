@@ -3,8 +3,6 @@
   "id": "206d17ad-c115-4384-bc5b-5fabff8469c1",
   "name": "converted_red_nidorino_2",
   "symbol": "sprite_converted_red_nidori_0",
-  "width": 48,
-  "height": 48,
   "states": [
     {
       "id": "086f52cf-45d7-4c36-b216-0a2376b06688",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_red_nidorino_2.png",
+  "width": 48,
+  "height": 48,
   "checksum": "0acdc50e6b9d29938636911f6691902d7a4e2948"
 }

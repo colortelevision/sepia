@@ -3,8 +3,6 @@
   "id": "55528e97-e23f-40b7-b31c-a5144ec77037",
   "name": "converted_red_fish_side",
   "symbol": "sprite_converted_red_fish_s",
-  "width": 8,
-  "height": 16,
   "states": [
     {
       "id": "f772ed4e-d59d-4ae3-a215-9cdad1402bdd",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_red_fish_side.png",
+  "width": 8,
+  "height": 16,
   "checksum": "f39fefa675c4d089a3b4e0c7db5734bb4c8e21dd"
 }

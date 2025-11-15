@@ -3,8 +3,6 @@
   "id": "ed18ecb4-4e2f-4189-90db-aa7847932c58",
   "name": "converted_quadruped",
   "symbol": "sprite_converted_quadruped",
-  "width": 8,
-  "height": 32,
   "states": [
     {
       "id": "55dcb005-d40c-438d-a6e7-54b2304cce34",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_quadruped.png",
+  "width": 8,
+  "height": 32,
   "checksum": "6c5d3753e18f3dd991a7d02ccaee6f11751497d5"
 }

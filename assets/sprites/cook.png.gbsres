@@ -3,8 +3,6 @@
   "id": "2239e6ac-f264-44a4-a253-9bd505ef743c",
   "name": "cook",
   "symbol": "sprite_cook_0",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "275c645d-e0df-4047-b6ef-89b648876a54",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "cook.png",
+  "width": 16,
+  "height": 96,
   "checksum": "9b1401af0d41e13ffd6b1b229651f415e042b4b8"
 }

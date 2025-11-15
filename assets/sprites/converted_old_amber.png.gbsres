@@ -3,8 +3,6 @@
   "id": "9eeccc85-2856-4410-a2f0-90d92fac653c",
   "name": "converted_old_amber",
   "symbol": "sprite_converted_old_amber",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "67d0a9e1-7634-4479-81d0-ab2e084005c6",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_old_amber.png",
+  "width": 16,
+  "height": 16,
   "checksum": "d4aad3d74602e038950f3e7fbc32c9616cc0b3e8"
 }

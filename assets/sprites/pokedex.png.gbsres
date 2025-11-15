@@ -3,8 +3,6 @@
   "id": "0b3d26ef-b439-4bfa-b5ab-cdb8723f31e8",
   "name": "pokedex",
   "symbol": "sprite_pokedex",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "c348b5da-853d-45a0-b693-2967eac86460",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "pokedex.png",
+  "width": 16,
+  "height": 16,
   "checksum": "297b2d76d65f34ae696dd7df4238a426d56df785"
 }

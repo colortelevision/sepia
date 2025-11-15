@@ -3,8 +3,6 @@
   "id": "6643fec3-0565-4830-a067-fb27f6b6c323",
   "name": "red",
   "symbol": "sprite_red",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "7016f22c-b109-48cc-941f-86e96ac950c7",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "red.png",
+  "width": 16,
+  "height": 96,
   "checksum": "9c4e44d019704ac671fccf2360e7837cf74e4291"
 }

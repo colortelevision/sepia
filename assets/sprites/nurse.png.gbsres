@@ -3,8 +3,6 @@
   "id": "a6d38159-6df8-468a-a9a0-6a804dc9f29d",
   "name": "nurse",
   "symbol": "sprite_nurse",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "3eb4b50d-8885-44e3-918d-737d664128eb",
@@ -360,13 +358,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "nurse.png",
+  "width": 16,
+  "height": 48,
   "checksum": "b0bbcf2b2a6e925c27730af5baf3fa20ceb64ecd"
 }

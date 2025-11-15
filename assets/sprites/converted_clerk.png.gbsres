@@ -3,8 +3,6 @@
   "id": "ad9db412-fa14-4ac5-abe9-c4fd0029aa82",
   "name": "converted_clerk",
   "symbol": "sprite_converted_clerk",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "e2ef9251-9068-48f5-8aa7-dc7ee95c05c1",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_clerk.png",
+  "width": 16,
+  "height": 48,
   "checksum": "14ff4abd0218ee61b19d9607bc93dd3a4a13d606"
 }

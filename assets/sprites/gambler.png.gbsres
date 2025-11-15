@@ -3,8 +3,6 @@
   "id": "57efa495-7d94-4160-8aab-f258d0040ba0",
   "name": "gambler",
   "symbol": "sprite_gambler",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "96d12e1c-314f-465b-8eb1-21b120f9771e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "gambler.png",
+  "width": 16,
+  "height": 96,
   "checksum": "b64cc4fba94d54c8e44271b91925ea60a007938f"
 }

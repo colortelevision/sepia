@@ -3,8 +3,6 @@
   "id": "61bbecd0-b152-4c1d-841f-ebf959dba376",
   "name": "converted_blue_jigglypuff_3",
   "symbol": "sprite_converted_blue_jiggl_1",
-  "width": 48,
-  "height": 48,
   "states": [
     {
       "id": "706c5b7e-5a71-403c-aab6-77ceb6386a5f",
@@ -323,13 +321,17 @@
     }
   ],
   "numTiles": 17,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 48,
   "canvasHeight": 48,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_blue_jigglypuff_3.png",
+  "width": 48,
+  "height": 48,
   "checksum": "8722a1ac0712619826fde25670af7b99a3d7c6ec"
 }

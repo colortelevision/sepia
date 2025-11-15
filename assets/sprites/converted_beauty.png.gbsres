@@ -3,8 +3,6 @@
   "id": "4b87c38c-6260-4bdd-af74-e1afecd18381",
   "name": "converted_beauty",
   "symbol": "sprite_converted_beauty",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "905f58de-2ca6-43ea-a904-dcd6f5b6f077",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 9,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_beauty.png",
+  "width": 16,
+  "height": 96,
   "checksum": "dfd70e7ffb1f1b83cc645bb1749ab8b40680eb96"
 }

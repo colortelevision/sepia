@@ -3,8 +3,6 @@
   "id": "1efae52f-1ff3-4019-9e63-2e69e214e6ed",
   "name": "converted_balding_guy",
   "symbol": "sprite_converted_balding_gu",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "fda946c7-7b34-48d2-92d6-b4e88b9ec1d4",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_balding_guy.png",
+  "width": 16,
+  "height": 48,
   "checksum": "720e625dc976c4d72a9091333d60e8a731c9c055"
 }

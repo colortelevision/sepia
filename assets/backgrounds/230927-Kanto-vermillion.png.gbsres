@@ -3,10 +3,10 @@
   "id": "c1f0469f-e9d9-4955-943b-22fbb37542c5",
   "name": "230927-Kanto-vermillion",
   "symbol": "bg_230927_kanto_vermillion",
+  "tileColors": "",
   "width": 80,
   "height": 72,
   "imageWidth": 640,
   "imageHeight": 576,
-  "tileColors": "",
   "filename": "230927-Kanto-vermillion.png"
 }

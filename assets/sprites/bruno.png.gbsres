@@ -3,8 +3,6 @@
   "id": "e9e520d2-3c82-4f6b-81d7-e03acfe59c90",
   "name": "bruno",
   "symbol": "sprite_bruno",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "69aec778-ff4b-4fe8-bd04-89e350a8de89",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "bruno.png",
+  "width": 16,
+  "height": 96,
   "checksum": "3158466a67bb30cfbbcffe9f589943cb69c9a738"
 }

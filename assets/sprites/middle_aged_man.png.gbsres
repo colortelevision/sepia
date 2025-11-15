@@ -3,8 +3,6 @@
   "id": "b85a22f9-fe09-4e94-9e34-c18a3b0b6b27",
   "name": "middle_aged_man",
   "symbol": "sprite_middle_aged_man",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "fb9acebb-21df-4ed7-9d0e-8b35c7cd6e5d",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "middle_aged_man.png",
+  "width": 16,
+  "height": 96,
   "checksum": "8ea579807626f83b7bf32eebdbc505b4cbf44f53"
 }

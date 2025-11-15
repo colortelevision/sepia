@@ -3,10 +3,10 @@
   "id": "6b7c2a8b-0128-4a60-acea-62bbf7c60cc0",
   "name": "230927-kanto-cerulean",
   "symbol": "bg_230927_kanto_cerulean",
+  "tileColors": "",
   "width": 80,
   "height": 72,
   "imageWidth": 640,
   "imageHeight": 576,
-  "tileColors": "",
   "filename": "230927-kanto-cerulean.png"
 }

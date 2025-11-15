@@ -3,8 +3,6 @@
   "id": "91c66f27-f225-4f1b-90bd-43ab5442bf53",
   "name": "converted_little_girl",
   "symbol": "sprite_converted_little_gir",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "37894400-9eee-4e05-9e63-80b205a3b5cf",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_little_girl.png",
+  "width": 16,
+  "height": 96,
   "checksum": "c92a7a888a9db343e47782cb8e6ef2b59924d415"
 }

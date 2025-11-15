@@ -3,8 +3,6 @@
   "id": "2cd871ad-0c50-4c30-bc55-a705c42a8491",
   "name": "youngster",
   "symbol": "sprite_youngster",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "9e0677a3-361e-4ed4-a771-0e94ce20eaad",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "youngster.png",
+  "width": 16,
+  "height": 96,
   "checksum": "f5646f47ed7f6eb94fd5d2b7f85d014292f3edc1"
 }

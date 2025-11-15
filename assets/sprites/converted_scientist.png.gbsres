@@ -3,8 +3,6 @@
   "id": "e9e1ee44-47b7-4174-82e8-b2fa8f42640a",
   "name": "converted_scientist",
   "symbol": "sprite_converted_scientist",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "5f7bc313-5ab7-472e-88da-66e466d9cf0a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_scientist.png",
+  "width": 16,
+  "height": 96,
   "checksum": "1d7be352657fd5f69d8ce6226dc062093836d134"
 }

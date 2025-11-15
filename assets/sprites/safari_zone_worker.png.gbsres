@@ -3,8 +3,6 @@
   "id": "553c57de-0d18-4eac-a713-00adbd45e9f9",
   "name": "safari_zone_worker",
   "symbol": "sprite_safari_zone_worker",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "970aa44b-f1b2-4760-932a-29cec3d4f555",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "safari_zone_worker.png",
+  "width": 16,
+  "height": 48,
   "checksum": "5052fff2f1a9b5b6d6aa759f9f8f01987605cf5d"
 }

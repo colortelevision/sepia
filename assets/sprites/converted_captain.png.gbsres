@@ -3,8 +3,6 @@
   "id": "d6e856f9-c080-4ec8-b3c5-dc8efe199abe",
   "name": "converted_captain",
   "symbol": "sprite_converted_captain",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "208386a0-6ecc-42cb-95d0-fcd1fef714d8",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 5,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_captain.png",
+  "width": 16,
+  "height": 48,
   "checksum": "467b2c1402e5fbeb684c5c87e7ae83bcdf51b12b"
 }

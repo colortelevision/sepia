@@ -3,8 +3,6 @@
   "id": "358b6e0b-ec75-4009-b71c-172e0911762b",
   "name": "channeler",
   "symbol": "sprite_channeler",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "7a2f8c53-34f2-431e-854d-cf4fb2bba2cf",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "channeler.png",
+  "width": 16,
+  "height": 96,
   "checksum": "7aae9b4f2e1ea0ec5719c690e69fc518210a5268"
 }

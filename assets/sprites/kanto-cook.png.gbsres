@@ -3,8 +3,6 @@
   "id": "aab670c2-2324-46ca-bf9c-9fc557417450",
   "name": "kanto-cook",
   "symbol": "sprite_cook",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "2a9b1284-2478-4da6-945e-62b7ddc9f328",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "kanto-cook.png",
+  "width": 16,
+  "height": 96,
   "checksum": "e9a3ce73ce335954a657e3bdd9da5166457f94ee"
 }

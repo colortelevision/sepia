@@ -3,8 +3,6 @@
   "id": "9046f833-14d5-424a-aa6e-c51abd695674",
   "name": "blue",
   "symbol": "sprite_blue",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "ff137682-5cbc-437f-a170-5a66a370848f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "blue.png",
+  "width": 16,
+  "height": 96,
   "checksum": "73af5c06f985b5bbd3fb1c5b9f75d388a5720b34"
 }

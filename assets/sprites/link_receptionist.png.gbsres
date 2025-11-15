@@ -3,8 +3,6 @@
   "id": "4c7ab77e-bd3f-4cf4-8c64-8b261bf8f4e1",
   "name": "link_receptionist",
   "symbol": "sprite_link_receptionist",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "716a70f0-23cf-4e57-9292-bf7edc5fe21a",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "link_receptionist.png",
+  "width": 16,
+  "height": 48,
   "checksum": "9f6375a79850dab212962f0ceabd52bc71516486"
 }

@@ -3,8 +3,6 @@
   "id": "0a0b7567-2ab7-41f0-b9b3-c60d4b6b9117",
   "name": "converted_middle_aged_man",
   "symbol": "sprite_converted_middle_age",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "91df5dfa-3d46-4714-b849-b734be9d6433",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_middle_aged_man.png",
+  "width": 16,
+  "height": 96,
   "checksum": "177531ffca6b8e6911d708db1077901b3ea1eefb"
 }

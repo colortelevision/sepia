@@ -3,8 +3,6 @@
   "id": "12b90386-19d6-45a7-9bf7-8774ed84fbe0",
   "name": "converted_gym_guide",
   "symbol": "sprite_converted_gym_guide",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "64f4d6bb-92e1-4cbc-abcd-d2ed5a19a1d6",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_gym_guide.png",
+  "width": 16,
+  "height": 48,
   "checksum": "65e5673d3dc0274da87445d6fc729b6d19d44b75"
 }

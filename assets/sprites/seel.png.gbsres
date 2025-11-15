@@ -3,8 +3,6 @@
   "id": "b1ff54e2-9027-4049-9d27-64089f94ca25",
   "name": "seel",
   "symbol": "sprite_seel",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "a2620629-b10e-438c-9b9c-7a45b311073c",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "seel.png",
+  "width": 16,
+  "height": 96,
   "checksum": "ac2b97f055335a8baaef04cc85f4da3a6a456c10"
 }

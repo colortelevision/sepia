@@ -3,8 +3,6 @@
   "id": "b7ed0e72-6256-4a8d-ae10-9970fefc8d5b",
   "name": "snorlax",
   "symbol": "sprite_snorlax",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "b86321fb-0532-43dc-a2e7-ba5c989fc729",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "snorlax.png",
+  "width": 16,
+  "height": 16,
   "checksum": "4060c64ac895d5d7641db16b1379df68ebc87179"
 }

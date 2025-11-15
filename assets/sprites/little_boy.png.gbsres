@@ -3,8 +3,6 @@
   "id": "3bc6b0c1-4da8-41fe-87c6-476170d9fc13",
   "name": "little_boy",
   "symbol": "sprite_little_boy",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "6567665c-9b9b-4070-b57a-98ea00c0e43b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "little_boy.png",
+  "width": 16,
+  "height": 48,
   "checksum": "45a65a128ab4a113ceedf6ab77d39929e7a1a892"
 }

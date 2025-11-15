@@ -3,8 +3,6 @@
   "id": "94fdee03-e3fa-413c-81b3-212c3ea6d4e3",
   "name": "converted_rocker",
   "symbol": "sprite_converted_rocker",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "76225bc2-6378-43df-8875-4ccc698f134e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_rocker.png",
+  "width": 16,
+  "height": 96,
   "checksum": "cd2f9c64f1380cbed79fc39717178db3cd4598bc"
 }

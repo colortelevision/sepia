@@ -3,10 +3,10 @@
   "id": "ef4e73e4-b5f2-419e-80b1-f80401e8d044",
   "name": "tileswapref2",
   "symbol": "bg_tileswapref2",
+  "tileColors": "",
   "width": 16,
   "height": 6,
   "imageWidth": 128,
   "imageHeight": 48,
-  "tileColors": "",
   "filename": "tileswapref2.png"
 }

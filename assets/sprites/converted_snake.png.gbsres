@@ -3,8 +3,6 @@
   "id": "a3975cee-4cd8-43b1-a707-784353c29ac6",
   "name": "converted_snake",
   "symbol": "sprite_converted_snake",
-  "width": 8,
-  "height": 32,
   "states": [
     {
       "id": "2a010679-fd38-4196-b755-0393f4c921b1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_snake.png",
+  "width": 8,
+  "height": 32,
   "checksum": "44cd68437443f5aed1980c14eaae95d572dfaf81"
 }

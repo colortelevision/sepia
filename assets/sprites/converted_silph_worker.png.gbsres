@@ -3,8 +3,6 @@
   "id": "af4dfb79-5396-4682-81b4-f60914cf1c30",
   "name": "converted_silph_worker",
   "symbol": "sprite_converted_silph_work",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "00d52201-cb26-4589-b84f-25496c580e29",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_silph_worker.png",
+  "width": 16,
+  "height": 48,
   "checksum": "95b789584bef3becb8ecd8939ebba408f13e9f8d"
 }

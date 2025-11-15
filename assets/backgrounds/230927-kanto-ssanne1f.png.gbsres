@@ -3,10 +3,10 @@
   "id": "534084ae-5d56-4057-8c51-ff5be20703de",
   "name": "230927-kanto-ssanne1f",
   "symbol": "bg_230927_kanto_ssanne1f",
+  "tileColors": "",
   "width": 80,
   "height": 36,
   "imageWidth": 640,
   "imageHeight": 288,
-  "tileColors": "",
   "filename": "230927-kanto-ssanne1f.png"
 }

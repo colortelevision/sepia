@@ -3,8 +3,6 @@
   "id": "c9c59105-2645-4789-965e-e36f7961e170",
   "name": "lance",
   "symbol": "sprite_lance",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "682fff80-d183-45db-a0a0-e2a80bfe8e33",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "lance.png",
+  "width": 16,
+  "height": 96,
   "checksum": "7a35f413ea9b046ba93a1f6a37e9511d4ffafe9c"
 }

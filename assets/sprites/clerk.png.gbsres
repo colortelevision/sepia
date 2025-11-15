@@ -3,8 +3,6 @@
   "id": "756dbb68-d20a-4ee0-a0c3-7fd36027750a",
   "name": "clerk",
   "symbol": "sprite_clerk",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "8db76801-1718-40af-b233-0fbd32867669",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "clerk.png",
+  "width": 16,
+  "height": 48,
   "checksum": "1f6ca54c4c3813bdd54816443ae76802a0b7aadc"
 }

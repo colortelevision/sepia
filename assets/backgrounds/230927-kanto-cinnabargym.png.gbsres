@@ -3,10 +3,10 @@
   "id": "6ff6749d-e979-48f0-ab01-96cdb5389b5c",
   "name": "230927-kanto-cinnabargym",
   "symbol": "bg_230927_kanto_cinnabargym",
+  "tileColors": "",
   "width": 40,
   "height": 36,
   "imageWidth": 320,
   "imageHeight": 288,
-  "tileColors": "",
   "filename": "230927-kanto-cinnabargym.png"
 }

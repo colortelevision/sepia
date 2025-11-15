@@ -3,8 +3,6 @@
   "id": "63db0612-a079-490d-b0ee-9e6dccf354ba",
   "name": "converted_oak",
   "symbol": "sprite_converted_oak",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "722771a1-8043-484e-906f-8ed11de5bb51",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 12,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_oak.png",
+  "width": 16,
+  "height": 96,
   "checksum": "2c2362ed386a27861a9b12c256bbb0b878cd7044"
 }

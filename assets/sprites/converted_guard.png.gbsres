@@ -3,8 +3,6 @@
   "id": "9e6fed75-372d-4618-861c-02cc68a259d2",
   "name": "converted_guard",
   "symbol": "sprite_converted_guard",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "18cbe28a-1174-4bc8-915a-3909ba2bb6a8",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_guard.png",
+  "width": 16,
+  "height": 48,
   "checksum": "ffc4f61fac5dde826388d236f2b23db7f2550faf"
 }

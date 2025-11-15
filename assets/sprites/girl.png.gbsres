@@ -3,8 +3,6 @@
   "id": "365e00c3-7da7-441e-902d-10fb7e974a24",
   "name": "girl",
   "symbol": "sprite_girl",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "1368091d-67c6-4292-9e11-96fa780f0207",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "girl.png",
+  "width": 16,
+  "height": 96,
   "checksum": "a1daeb6ce5147b0e998d3553c6708fe9cf932542"
 }

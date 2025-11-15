@@ -3,8 +3,6 @@
   "id": "3ab6b517-d64d-4f0a-b71a-1781c9dcebd2",
   "name": "redg",
   "symbol": "sprite_redg",
-  "width": 56,
-  "height": 56,
   "states": [
     {
       "id": "5a5e8245-898d-445b-82e6-9f07f5d53b7b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "redg.png",
+  "width": 56,
+  "height": 56,
   "checksum": "fbba78550808ee0c7f60c140610133fcb0e4aef3"
 }

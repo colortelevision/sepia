@@ -3,8 +3,6 @@
   "id": "56c2232d-ee35-47a4-bd43-ba3ad3c55c09",
   "name": "converted_bug",
   "symbol": "sprite_converted_bug",
-  "width": 8,
-  "height": 32,
   "states": [
     {
       "id": "7d7690e5-b147-46c3-a5bb-96d85445ac8d",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_bug.png",
+  "width": 8,
+  "height": 32,
   "checksum": "ff8440656d5be068818a6f9f80db76a732af8c29"
 }

@@ -3,8 +3,6 @@
   "id": "3beaab60-a36e-4086-aebf-b9a300d1cd43",
   "name": "converted_koga",
   "symbol": "sprite_converted_koga",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "4ac1f7bb-72d4-48a4-9b35-b9e16e275f5d",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_koga.png",
+  "width": 16,
+  "height": 96,
   "checksum": "e49fd2fce5cba33bcac20882d4b21ff2258f6bca"
 }

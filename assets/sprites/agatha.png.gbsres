@@ -3,8 +3,6 @@
   "id": "eec4d503-316d-4b5c-8c68-7f1d765a3616",
   "name": "agatha",
   "symbol": "sprite_agatha",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "38c6875a-a678-4254-88ea-1608a453e595",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "agatha.png",
+  "width": 16,
+  "height": 96,
   "checksum": "feb8952515480bcdcea89d331d319b4a19c1f093"
 }

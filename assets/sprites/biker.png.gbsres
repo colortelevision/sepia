@@ -3,8 +3,6 @@
   "id": "c9812671-5ed6-46fa-934b-81f88700ecd3",
   "name": "biker",
   "symbol": "sprite_biker",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "a4df9c80-654d-409b-a7b9-66380ff8a1f1",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "biker.png",
+  "width": 16,
+  "height": 96,
   "checksum": "f5eafce08d5bd37ab59cfc21d3e058da1f8f0765"
 }

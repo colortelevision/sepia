@@ -3,8 +3,6 @@
   "id": "020f94a3-f719-485c-821d-e988f0629c99",
   "name": "converted_lorelei",
   "symbol": "sprite_converted_lorelei",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "3dc2be88-0140-4300-ae79-8bd2921ef4a7",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_lorelei.png",
+  "width": 16,
+  "height": 96,
   "checksum": "2d95b8425e9d5c5c5118bb2d3d78a478d26a11a3"
 }

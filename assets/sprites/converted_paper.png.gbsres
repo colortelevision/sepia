@@ -3,8 +3,6 @@
   "id": "24400139-3184-416b-904e-dbe77e28b090",
   "name": "converted_paper",
   "symbol": "sprite_converted_paper",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "91b3a16f-a118-441b-a0e6-0a2e78baa478",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_paper.png",
+  "width": 16,
+  "height": 16,
   "checksum": "00abf85d40db277baf47e78149949970dfa59889"
 }

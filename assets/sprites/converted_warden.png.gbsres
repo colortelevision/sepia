@@ -3,8 +3,6 @@
   "id": "91317c3a-6e86-44b5-aceb-5a2a58240e03",
   "name": "converted_warden",
   "symbol": "sprite_converted_warden",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "c4e93eb8-8455-4e2f-9a63-d7ee458fe1ec",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_warden.png",
+  "width": 16,
+  "height": 48,
   "checksum": "8c9575c6f4fcf1f2aea946f2fa53197404fa2702"
 }

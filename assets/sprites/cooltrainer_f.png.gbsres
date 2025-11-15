@@ -3,8 +3,6 @@
   "id": "365b32c4-f74e-45da-8c76-0162c0c7b704",
   "name": "cooltrainer_f",
   "symbol": "sprite_cooltrainer_f",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "cabe3954-724e-4865-8097-7dee5550276f",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "cooltrainer_f.png",
+  "width": 16,
+  "height": 96,
   "checksum": "186c6540fe8d1bcc4cb92e80c455050a4605673e"
 }

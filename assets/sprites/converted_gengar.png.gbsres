@@ -3,8 +3,6 @@
   "id": "d46ed255-3905-4c17-8ce6-eac09cfccbd9",
   "name": "converted_gengar",
   "symbol": "sprite_converted_gengar",
-  "width": 168,
-  "height": 56,
   "states": [
     {
       "id": "b1b39639-496b-4d22-8991-de9bad9b564e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_gengar.png",
+  "width": 168,
+  "height": 56,
   "checksum": "fd8a8e8debc9c33d799915ec453bc41e913b2837"
 }

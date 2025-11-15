@@ -3,8 +3,6 @@
   "id": "ec843510-d1b8-40d0-aafb-0bbcba24a1fc",
   "name": "converted_super_nerd",
   "symbol": "sprite_converted_super_nerd",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "d62d83dc-d755-48b8-ad90-d4cef967e06e",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_super_nerd.png",
+  "width": 16,
+  "height": 96,
   "checksum": "be3e4c9059e3d9574d9354e7f7931666d4cd6cc6"
 }

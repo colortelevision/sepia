@@ -3,8 +3,6 @@
   "id": "d1c2464d-bfdd-46b9-87a0-499b8e21e280",
   "name": "converted_cook",
   "symbol": "sprite_converted_cook",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "e62bb7d7-988d-4a38-a94d-7825219da412",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_cook.png",
+  "width": 16,
+  "height": 96,
   "checksum": "c9c10d9658f6771f6914c0d22e0e5adf9387d867"
 }

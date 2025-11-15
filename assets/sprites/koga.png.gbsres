@@ -3,8 +3,6 @@
   "id": "72dc27ac-41e1-4305-9143-2d10774200a2",
   "name": "koga",
   "symbol": "sprite_koga",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "c76a1b36-1403-4958-ab21-2f49cc2a5c32",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "koga.png",
+  "width": 16,
+  "height": 96,
   "checksum": "0c7de184c00151c9da32522fcbdba8ab9406f68a"
 }

@@ -3,8 +3,6 @@
   "id": "4bda63f8-f7fd-4e81-9fe7-ad1803105edf",
   "name": "converted_swimmer",
   "symbol": "sprite_converted_swimmer",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "a6463f1e-3b1a-4fbe-b94b-6a643568b265",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_swimmer.png",
+  "width": 16,
+  "height": 96,
   "checksum": "cefb8093e80a8108ecb64f85857df5032fee38c1"
 }

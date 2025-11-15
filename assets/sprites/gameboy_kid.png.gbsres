@@ -3,8 +3,6 @@
   "id": "89605879-cca6-49e8-8035-c469bd348f93",
   "name": "gameboy_kid",
   "symbol": "sprite_gameboy_kid",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "9404b6ee-dbb8-431c-aca5-0cdf99dfb4ca",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "gameboy_kid.png",
+  "width": 16,
+  "height": 48,
   "checksum": "266d34b3f03d7fbf8b592536248e39d9938d3654"
 }

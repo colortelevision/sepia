@@ -3,8 +3,6 @@
   "id": "f68fefd6-943c-4c1f-a4c5-4b6a0d7b92e7",
   "name": "sign",
   "symbol": "sprite_sign",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "1004c058-3516-4bab-ab00-0a8404d08c6e",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 1,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "sign.png",
+  "width": 16,
+  "height": 16,
   "checksum": "b00e8373066c0138bb74d6cc9dae39a90e9078fb"
 }

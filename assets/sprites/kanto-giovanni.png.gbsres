@@ -3,8 +3,6 @@
   "id": "328a01f3-9f55-4947-bbca-5448724e79d5",
   "name": "kanto-giovanni",
   "symbol": "sprite_giovanni",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "5b40963c-aeb6-4f19-ace5-6a94fd7dbd09",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "kanto-giovanni.png",
+  "width": 16,
+  "height": 96,
   "checksum": "c277c7f3c738d2760726b2bdd7ead8232a9ecdb7"
 }

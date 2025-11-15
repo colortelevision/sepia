@@ -3,8 +3,6 @@
   "id": "753fe74c-744b-41f9-90b3-23d0848e362e",
   "name": "swimmer",
   "symbol": "sprite_swimmer",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "934cad0b-bde4-40af-841d-60ea9403ad63",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "swimmer.png",
+  "width": 16,
+  "height": 96,
   "checksum": "0af2351ac433e86c40de149df934ea4ae8ee3f9c"
 }

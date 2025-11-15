@@ -3,8 +3,6 @@
   "id": "40770def-4a5c-4f00-9cc4-a05c8e345806",
   "name": "converted_smoke",
   "symbol": "sprite_converted_smoke",
-  "width": 8,
-  "height": 8,
   "states": [
     {
       "id": "61da65dc-fbb3-4cf0-983d-054158380f41",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_smoke.png",
+  "width": 8,
+  "height": 8,
   "checksum": "567e6e7d3a3a937359deef6e11440694d08043b5"
 }

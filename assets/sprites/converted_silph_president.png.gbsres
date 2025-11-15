@@ -3,8 +3,6 @@
   "id": "a855fcd8-63f4-4c15-a62d-ced639c0da2e",
   "name": "converted_silph_president",
   "symbol": "sprite_converted_silph_pres",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "90ad54cb-5704-48bc-9d69-8e4574282337",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_silph_president.png",
+  "width": 16,
+  "height": 48,
   "checksum": "95d3875a1b1489bd1656b011666b2d7aae8f473c"
 }

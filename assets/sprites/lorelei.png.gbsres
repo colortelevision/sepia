@@ -3,8 +3,6 @@
   "id": "be128637-c477-4df7-807b-cc3020028043",
   "name": "lorelei",
   "symbol": "sprite_lorelei",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "7a765de2-b152-456c-9ef8-aac5a9002a59",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "lorelei.png",
+  "width": 16,
+  "height": 96,
   "checksum": "27c824e18859ca1658413bb5256da19ba279c87e"
 }

@@ -3,8 +3,6 @@
   "id": "6596d96d-bb6a-4411-9953-4c284aef61e9",
   "name": "converted_blue_slots_2",
   "symbol": "sprite_converted_blue_slots",
-  "width": 32,
-  "height": 48,
   "states": [
     {
       "id": "519ec405-6976-47fb-b889-2312b3bf6eed",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_blue_slots_2.png",
+  "width": 32,
+  "height": 48,
   "checksum": "67f5daa47ddb5e6b0bdf4d67e20da92bd740e330"
 }

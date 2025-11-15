@@ -3,8 +3,6 @@
   "id": "7295bd5a-5ade-4674-b1b0-da51bacb6877",
   "name": "converted_little_boy",
   "symbol": "sprite_converted_little_boy",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "165d08b7-9bfd-48bc-842e-bf81462469b2",
@@ -169,13 +167,17 @@
     }
   ],
   "numTiles": 4,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_little_boy.png",
+  "width": 16,
+  "height": 48,
   "checksum": "066e27b26d4bcc09760a26b36f9d49696489ddfb"
 }

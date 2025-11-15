@@ -3,8 +3,6 @@
   "id": "b29dbf8f-a8a4-4ee0-b097-bc771372eb05",
   "name": "giovanni",
   "symbol": "sprite_giovanni_0",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "0cf338a7-3da9-4630-a2ee-f31fb9a89227",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "giovanni.png",
+  "width": 16,
+  "height": 96,
   "checksum": "2b1fa283a41f72ea3dfc5b38c019cb01a5fdd9a1"
 }

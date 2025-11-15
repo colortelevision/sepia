@@ -3,8 +3,6 @@
   "id": "f52c2101-b82c-48bb-bad1-241a583db69f",
   "name": "beauty",
   "symbol": "sprite_beauty",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "302951c6-1539-41a4-af92-5107d9c710f9",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "beauty.png",
+  "width": 16,
+  "height": 96,
   "checksum": "f984ff03dcd900481123d8979af7ee9b95f7b324"
 }

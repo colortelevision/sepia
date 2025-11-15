@@ -3,8 +3,6 @@
   "id": "916cc5ac-49d7-42e9-aaa4-188aaa72cd18",
   "name": "converted_clipboard",
   "symbol": "sprite_converted_clipboard",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "e801f574-b3e0-4ce1-b426-1fade33a5d18",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_clipboard.png",
+  "width": 16,
+  "height": 16,
   "checksum": "6893ef7f85fa0a8047b81177b76326f43a600047"
 }

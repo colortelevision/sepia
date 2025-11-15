@@ -3,8 +3,6 @@
   "id": "6afbbd5f-e9bb-48b1-a3d6-0edcb6cc8121",
   "name": "converted_plant",
   "symbol": "sprite_converted_plant",
-  "width": 8,
-  "height": 32,
   "states": [
     {
       "id": "8b7a819a-d767-4bd4-b18c-015f543de417",
@@ -146,13 +144,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_plant.png",
+  "width": 8,
+  "height": 32,
   "checksum": "df6f5d5ca226cb1c540c8cc31ac2eb355dd2144d"
 }

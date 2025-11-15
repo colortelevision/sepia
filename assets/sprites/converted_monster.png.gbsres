@@ -3,8 +3,6 @@
   "id": "8b385f7d-57f7-4ba6-8735-327809124b00",
   "name": "converted_monster",
   "symbol": "sprite_converted_monster",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "b0e27ade-6103-406b-b0f6-71c31d8f6b36",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_monster.png",
+  "width": 16,
+  "height": 96,
   "checksum": "edeb3a83b83568f81fab0db47bbe7f14910f56e3"
 }

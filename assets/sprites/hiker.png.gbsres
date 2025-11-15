@@ -3,8 +3,6 @@
   "id": "96c591b6-2fe5-464d-85b0-e9063cabea05",
   "name": "hiker",
   "symbol": "sprite_hiker",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "b6a927a7-2f4f-4ece-9e99-705fd1fbc255",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "hiker.png",
+  "width": 16,
+  "height": 96,
   "checksum": "b77c9fbc3639a0088b1c3085ed916e74a36f835f"
 }

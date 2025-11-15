@@ -3,8 +3,6 @@
   "id": "dbb6c734-f270-4ce5-9611-8e351c849f15",
   "name": "gentleman",
   "symbol": "sprite_gentleman",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "1d60d508-65b3-4161-bcd6-35ab4c57b034",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "gentleman.png",
+  "width": 16,
+  "height": 96,
   "checksum": "47336db2176b4c0e61c9aa13827680139c1e7109"
 }

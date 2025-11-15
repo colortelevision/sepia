@@ -3,8 +3,6 @@
   "id": "c0421c3a-8142-4518-80e1-8919e0d3cf09",
   "name": "boulder",
   "symbol": "sprite_boulder",
-  "width": 16,
-  "height": 16,
   "states": [
     {
       "id": "da48205a-4381-4df3-addb-7533b0cdd5c6",
@@ -115,13 +113,17 @@
     }
   ],
   "numTiles": 2,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "boulder.png",
+  "width": 16,
+  "height": 16,
   "checksum": "1b6ca3ee24d7c261c9d6275b6745afadb404ee22"
 }

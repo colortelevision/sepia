@@ -3,8 +3,6 @@
   "id": "5da5251b-fa52-4dee-be92-d9eec6c67390",
   "name": "converted_youngster",
   "symbol": "sprite_converted_youngster",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "ce4de9d5-1db4-4549-ada7-62ed92fc6de9",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_youngster.png",
+  "width": 16,
+  "height": 96,
   "checksum": "942491b43ebd0d7f9dfff258b697168a8b775a5f"
 }

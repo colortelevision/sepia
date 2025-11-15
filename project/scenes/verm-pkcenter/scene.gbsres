@@ -2,25 +2,26 @@
   "_resourceType": "scene",
   "id": "5f971a6b-f92d-482c-a311-00f9bf30869e",
   "_index": 15,
+  "type": "TOPDOWN",
   "name": "verm-pkcenter",
-  "backgroundId": "39bca473-5892-4216-aeda-c39ce6d9e3fb",
-  "tilesetId": "",
+  "symbol": "scene_32",
+  "x": 1224,
+  "y": 2640,
   "width": 28,
   "height": 18,
-  "type": "TOPDOWN",
+  "backgroundId": "39bca473-5892-4216-aeda-c39ce6d9e3fb",
+  "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "b19affbf-0a4f-457c-aa9d-2b76e5e76e1c"
   ],
   "spritePaletteIds": [
     "efbcb3c7-e1a2-42b5-93b6-653cf15a751b"
   ],
-  "collisions": "008c+0f16+002+0f6+0018+0f4+0018+0f4+0018+0f3+02!001a+0f!02!001a+0f2+001a+0f2+001a+0f4+008+0f4+008+0f8+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f5+004+0f12+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_32",
-  "x": 1224,
-  "y": 2640,
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "collisions": "008c+0f16+002+0f6+0018+0f4+0018+0f4+0018+0f3+02!001a+0f!02!001a+0f2+001a+0f2+001a+0f4+008+0f4+008+0f8+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f3+008+0f4+008+0f4+00!0f5+004+0f12+"
 }

@@ -3,8 +3,6 @@
   "id": "c0310735-3e7c-4ff1-bcff-b07d818d433b",
   "name": "player_platform",
   "symbol": "sprite_player_platform",
-  "width": 88,
-  "height": 160,
   "states": [
     {
       "id": "3a377e01-f301-4f38-a8df-6440fc670cb2",
@@ -756,13 +754,17 @@
     }
   ],
   "numTiles": 17,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -16,
   "boundsWidth": 16,
   "boundsHeight": 24,
   "animSpeed": 15,
   "filename": "player_platform.png",
+  "width": 88,
+  "height": 160,
   "checksum": "eea46c3f4a89b044d31ad1e87b9854a4063aeb72"
 }

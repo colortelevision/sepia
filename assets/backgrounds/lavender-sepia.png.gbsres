@@ -3,10 +3,10 @@
   "id": "1f057c6e-9533-4043-acfe-50a2e247f40d",
   "name": "lavender-sepia",
   "symbol": "bg_lavender_sepia",
+  "tileColors": "",
   "width": 40,
   "height": 36,
   "imageWidth": 320,
   "imageHeight": 288,
-  "tileColors": "",
   "filename": "lavender-sepia.png"
 }

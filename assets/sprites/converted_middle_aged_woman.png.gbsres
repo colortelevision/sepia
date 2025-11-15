@@ -3,8 +3,6 @@
   "id": "4c5eed02-ba35-40fa-b88b-2dd6aacc1420",
   "name": "converted_middle_aged_woman",
   "symbol": "sprite_converted_middle_age_0",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "941bab3a-2716-42b3-abad-3dd9f6868d61",
@@ -227,13 +225,17 @@
     }
   ],
   "numTiles": 6,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_middle_aged_woman.png",
+  "width": 16,
+  "height": 96,
   "checksum": "90e7b13e9e826b3ea5af1ba046972ebee9737cda"
 }

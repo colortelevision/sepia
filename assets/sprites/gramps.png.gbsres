@@ -3,8 +3,6 @@
   "id": "f7f38dbd-9f3c-4efd-8652-41e20fb6a812",
   "name": "gramps",
   "symbol": "sprite_gramps",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "4dd24679-09ac-43e6-b9bc-b89a9ec5d173",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "gramps.png",
+  "width": 16,
+  "height": 48,
   "checksum": "01403741d51d71057f9c9bbd84708c65a1827cb9"
 }

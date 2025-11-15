@@ -3,8 +3,6 @@
   "id": "6522e6f4-ff5c-4b17-8039-587d2c8c4a9e",
   "name": "converted_bird",
   "symbol": "sprite_converted_bird",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "4bf7ccaf-6913-4f69-bbdd-b7b2dbcef744",
@@ -467,13 +465,17 @@
     }
   ],
   "numTiles": 10,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 16,
   "canvasHeight": 16,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_bird.png",
+  "width": 16,
+  "height": 96,
   "checksum": "9e8424dc0b5b58135f67aa1b7dee0c80030b0970"
 }

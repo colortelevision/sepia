@@ -3,8 +3,6 @@
   "id": "6cae31e8-ca5c-4212-82c1-ae4e87eab94f",
   "name": "kanto-sailor",
   "symbol": "sprite_sailor",
-  "width": 16,
-  "height": 96,
   "states": [
     {
       "id": "b6305e69-2b05-4a48-a25b-d1afa283572c",
@@ -737,13 +735,17 @@
     }
   ],
   "numTiles": 11,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "kanto-sailor.png",
+  "width": 16,
+  "height": 96,
   "checksum": "1608fd091824047dd2498e799ed964c8303c6f45"
 }

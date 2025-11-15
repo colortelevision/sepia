@@ -3,8 +3,6 @@
   "id": "34426244-c350-436b-8b84-f35cd46a0a5e",
   "name": "converted_red_slots_2",
   "symbol": "sprite_converted_red_slots_",
-  "width": 32,
-  "height": 48,
   "states": [
     {
       "id": "bf4bdbbc-5feb-4c11-ba98-7842303baf5b",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "converted_red_slots_2.png",
+  "width": 32,
+  "height": 48,
   "checksum": "90a83426249f2994b50689b52696c5c3c8bbaa32"
 }

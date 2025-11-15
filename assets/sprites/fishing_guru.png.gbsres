@@ -3,8 +3,6 @@
   "id": "4234bd38-5eb3-4023-a8ae-9426b0324d22",
   "name": "fishing_guru",
   "symbol": "sprite_fishing_guru",
-  "width": 16,
-  "height": 48,
   "states": [
     {
       "id": "75c7fc1b-ac8f-40df-aa61-8af0a02bbf67",
@@ -88,13 +86,17 @@
     }
   ],
   "numTiles": 0,
+  "canvasOriginX": 0,
+  "canvasOriginY": 0,
   "canvasWidth": 32,
   "canvasHeight": 32,
   "boundsX": 0,
-  "boundsY": 0,
+  "boundsY": -8,
   "boundsWidth": 16,
   "boundsHeight": 16,
   "animSpeed": 15,
   "filename": "fishing_guru.png",
+  "width": 16,
+  "height": 48,
   "checksum": "f31671a08f0a674584276786ff38dfcc659d3477"
 }
