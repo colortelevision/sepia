@@ -3,7 +3,7 @@
   "id": "3c422829-ef7f-4da2-a72a-5332e4c26a46",
   "_index": 22,
   "type": "TOPDOWN",
-  "name": "Scene 23",
+  "name": "pewter",
   "symbol": "scene_6",
   "x": 2384,
   "y": 2392,
@@ -24,7 +24,15 @@
     "efbcb3c7-e1a2-42b5-93b6-653cf15a751b"
   ],
   "autoFadeSpeed": 1,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "f8ebf2f4-3ec6-42e6-959c-eaf171d5da25"
+      },
+      "id": "552a81e6-8cdd-49f9-b114-41d911aa4c35"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],

@@ -3,7 +3,7 @@
   "id": "25e787b0-f4e3-4898-8a1b-5b82dd4f9503",
   "_index": 21,
   "type": "TOPDOWN",
-  "name": "Scene 22",
+  "name": "virid",
   "symbol": "scene_5",
   "x": 2384,
   "y": 3024,
@@ -24,7 +24,15 @@
   ],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "5f6135e8-4714-40ec-ad83-a62055c3c5fd"
+      },
+      "id": "a59edd38-1e31-4e77-a75e-7ea523800757"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
