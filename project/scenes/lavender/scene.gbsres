@@ -1,0 +1,33 @@
+{
+  "_resourceType": "scene",
+  "id": "c41818b5-9b91-4cd0-9bda-33246e3bef7c",
+  "_index": 22,
+  "name": "lavender",
+  "backgroundId": "1f057c6e-9533-4043-acfe-50a2e247f40d",
+  "tilesetId": "",
+  "width": 40,
+  "height": 36,
+  "type": "TOPDOWN",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "4d49d649-2b46-4dbc-80b0-f3752ca45db7"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "005a0+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_8",
+  "x": 4872,
+  "y": 1752,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "e67c4cf9-66a3-4411-ba14-9936995868e8"
+      },
+      "id": "98336a21-7d4c-4f0b-9087-6fe63519a36a"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

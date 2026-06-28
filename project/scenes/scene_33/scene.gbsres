@@ -1,0 +1,25 @@
+{
+  "_resourceType": "scene",
+  "id": "88fa7515-1867-4758-a7e9-79b62f8a3e14",
+  "_index": 27,
+  "name": "Scene 28",
+  "backgroundId": "1a1df9e5-e515-48ca-af75-a619abdeabf2",
+  "tilesetId": "",
+  "width": 36,
+  "height": 18,
+  "type": "TOPDOWN",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "efbcb3c7-e1a2-42b5-93b6-653cf15a751b"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "00288+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_11",
+  "x": 3136,
+  "y": 4248,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
